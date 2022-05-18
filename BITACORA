@@ -1,0 +1,58 @@
+17 de Mayo
+
+  Tratando de instalar PHAME con conda pro hay muchos errores.
+      conda install phame <--- No sirve
+========================================================================================================================================================      
+  Instalando de forma alternativa creando un nuevo ambiente y usando el repositorio disponible en github: https://github.com/LANL-Bioinformatics/PhaME
+
+      Create a separate conda environment:
+
+        conda create -n phame_env
+        
+      Install required dependencies into the environment
+
+        conda install -c bioconda perl-bioperl -n phame_env --yes
+        conda install -c bioconda samtools bcftools -n phame_env --yes
+        conda install -c bioconda mummer -n phame_env --yes
+        conda install -c bioconda bowtie2 -n phame_env --yes
+        conda install -c bioconda bwa -n phame_env --yes
+        conda install -c bioconda fasttree -n phame_env --yes
+        conda install -c bioconda bbmap -n phame_env --yes
+        conda install -c bioconda raxml -n phame_env --yes
+        conda install -c bioconda perl-parallel-forkmanager -n phame_env --yes
+        conda install -c bioconda iqtree -n phame_env --yes
+        conda install -c bioconda perl-statistics-distributions -n phame_env --yes
+        conda install -c bioconda paml -n phame_env --yes
+        conda install -c bioconda mafft -n phame_env --yes
+        conda install -c bioconda hyphy -n phame_env --yes ***
+        
+      ***
+          For Linux 64, Open MPI is built with CUDA awareness but this support is disabled by default.
+          To enable it, please set the environment variable OMPI_MCA_opal_cuda_support=true before
+          launching your MPI processes. Equivalently, you can set the MCA parameter in the command line:
+          mpiexec --mca opal_cuda_support 1 ...
+
+          In addition, the UCX support is also built but disabled by default.
+          To enable it, first install UCX (conda install -c conda-forge ucx). Then, set the environment
+          variables OMPI_MCA_pml="ucx" OMPI_MCA_osc="ucx" before launching your MPI processes.
+          Equivalently, you can set the MCA parameters in the command line:
+          mpiexec --mca pml ucx --mca osc ucx ...
+          Note that you might also need to set UCX_MEMTYPE_CACHE=n for CUDA awareness via UCX.
+          Please consult UCX's documentation for detail.
+
+      
+      Clone the latest github repo:
+
+        git clone https://github.com/LANL-Bioinformatics/PhaME.git
+        
+      Then test phame to see if the installation was complete using a short test run:
+
+        source activate phame_env
+        cd PhaME
+        test/TestAll.sh 1
+
+  El test corre sin errores.
+========================================================================================================================================================
+  Instalé orthofinder usando el repositorio: https://github.com/davidemms/OrthoFinder
+  
+  y todo bien. Revsando el manual.
