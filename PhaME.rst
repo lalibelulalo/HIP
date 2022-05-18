@@ -1,12 +1,12 @@
 Introduction
 #############
 
-What is PhaME?
+¿Qué es PhaME?
 ==============
 
-PhaME or Phylogenetic and Molecular Evolution (PhaME) is an analysis tool that performs phylogenetic and molecular evolutionary analysis.
+PhaME o Phylogenetic and Molecular Evolution (PhaME) es una herramienta de análisis que realiza análisis filogenéticos y de evolución molecular.
 
-Given a reference, PhaME extracts SNPs from complete genomes, draft genomes and/or reads, uses SNP multiple sequence alignment to construct a phylogenetic tree, and provides evolutionary analyses (genes under positive selection) using CDS SNPs.
+Dada una referencia, PhaME extrae SNP de genomas completos, borradores de genomas y/o lecturas, utiliza alineación de secuencias múltiples de SNP para construir un árbol filogenético y proporciona análisis evolutivos (genes bajo selección positiva) utilizando CDS SNP.
 
 
 PhaME: Under the hood
