@@ -9,18 +9,18 @@ PhaME o Phylogenetic and Molecular Evolution (PhaME) es una herramienta de anál
 Dada una referencia, PhaME extrae SNP de genomas completos, borradores de genomas y/o lecturas, utiliza alineación de secuencias múltiples de SNP para construir un árbol filogenético y proporciona análisis evolutivos (genes bajo selección positiva) utilizando CDS SNP.
 
 
-PhaME: Under the hood
+PhaME: Bajo la capa
 ======================
 
-PhaME’s input consists of a set of genomes in fasta and/or fastq formats, and corresponding annotation files in gff3 format if downstream analyses will include coding regions. A detailed step by step explanation of how PhaME analyzes genomes is provided below.
+La entrada de PhaME consiste en un conjunto de genomas en formatos fasta y/o fastq, y los archivos de anotación correspondientes en formato gff3 si los análisis posteriores incluirán regiones de codificación. A continuación se proporciona una explicación detallada paso a paso de cómo PhaME analiza los genomas.
 
-Selecting Reference genome:
+Selección del genoma de referencia:
 -----------------------------
-Since PhaME is a reference genome-based tool where all input genomes and metagenomes are aligned against a reference, the first step of PhaME’s analysis is selecting a reference genome. Given a set of genomes (in a folder listed under the “refdir” parameter of the control file), the reference genome can be selected using one of three options: option 1- a random genome is selected from the provided set of genomes; option 2- a specific genome is selected from the set via input from the user; option 3- the MinHash distance is calculated between all genomes provided (complete genomes, draft genomes, and raw reads) to determine which reference genome has the shortest average distance to all of the other genomes. MinHash distances are calculated using its implementation in BBMap [Bushnell]_.
+Dado que PhaME es una herramienta basada en el genoma de referencia en la que todos los genomas y metagenomas de entrada se alinean con una referencia, el primer paso del análisis de PhaME es seleccionar un genoma de referencia. Dado un conjunto de genomas (en una carpeta enumerada bajo el parámetro "refdir" del archivo de control), el genoma de referencia se puede seleccionar mediante una de tres opciones: opción 1: se selecciona un genoma aleatorio del conjunto de genomas proporcionado; opción 2: se selecciona un genoma específico del conjunto a través de la entrada del usuario; opción 3: la distancia MinHash se calcula entre todos los genomas proporcionados (genomas completos, borradores de genomas y lecturas sin procesar) para determinar qué genoma de referencia tiene la distancia promedio más corta a todos los demás genomas. Las distancias de MinHash se calculan utilizando su implementación en BBMap [Bushnell]_.
 
-Self-nucmerization to remove repeats from reference genomes:
+Auto-numerización para eliminar repeticiones de genomas de referencia:
 ---------------------------------------------------------------
-The genome alignment portion of PhaME is built on the tool nucmer2 for alignments of genomes in FASTA format. Each genome included is first aligned with itself using nucmer, called self-nucmerization, and then aligned regions called repeats are removed from the genomes for downstream analyses. The following nucmer command is used for the self-nucmerization step: 
+La parte de alineación del genoma de PhaME se basa en la herramienta nucmer2 para alineaciones de genomas en formato FASTA. Cada genoma incluido se alinea primero consigo mismo usando nucmer, lo que se denomina auto-numerización, y luego las regiones alineadas llamadas repeticiones se eliminan de los genomas para los análisis posteriores. El siguiente comando nucmer se usa para el paso de auto-numerización:
 
 ::
 
