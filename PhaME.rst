@@ -28,11 +28,11 @@ La parte de alineación del genoma de PhaME se basa en la herramienta nucmer2 pa
 
 ::
 
-The option --maxmatch, which reports all matches, is used to ensure that all possible alignments are reported for maximal removal of repeats. 
+La opción --maxmatch, que informa todas las coincidencias, se utiliza para garantizar que se informen todas las alineaciones posibles para eliminar al máximo las repeticiones.
 
-Genome Alignments
+Alineamientos de Genoma
 --------------------------------
-All genomes that are in `refdir` are first aligned against the reference genome (see section 1) that have had its repeats removed (section 2). Likewise, incomplete genomes or contigs, the ones that are listed in the `workdir` with extension `.contig` are also aligned against the reference genome using `nucmer`. For aligning genomes in fasta format against each other, following command, same as the previous step for nucmer alignment is used:
+Todos los genomas que están en `refdir` se alinean primero con el genoma de referencia (ver sección 1) al que se le han eliminado las repeticiones (sección 2). Del mismo modo, los genomas incompletos o contigs, los que se enumeran en `workdir` con la extensión `.contig`, también se alinean contra el genoma de referencia usando `nucmer`. Para alinear genomas en formato fasta entre sí, se usa el siguiente comando, igual que el paso anterior para la alineación de nucmer:
 
 ::
 
@@ -40,7 +40,7 @@ All genomes that are in `refdir` are first aligned against the reference genome 
 
 ::
 
-All other options in nucmer alignments are kept at default, some of the important ones are listed below:
+Todas las demás opciones en las alineaciones numéricas se mantienen por defecto, algunas de las más importantes se enumeran a continuación:
 
 ::
 
@@ -59,21 +59,21 @@ All other options in nucmer alignments are kept at default, some of the importan
 
 ::
 
-Also, `nucmer` only aligns `"A"` `"T"` `"C"` `"G"`, all other characters are ignored. So, if there are `"N"`s in the provided genomes, thse positions are not included in the alignment.
+Además, `nucmer` solo alinea `"A"` `"T"` `"C"` `"G"`, todos los demás caracteres se ignoran. Por lo tanto, si hay "N" en los genomas provistos, estas posiciones no se incluyen en la alineación.
 
-*Note*: If an analysis requires running multiple iterations of PhaME on a same set of dataset or a subset of dataset, one doesn't need to perform the alignment over and over again. PhaME provides an option where it can keep all possible pairwise alignment of genomes from `refdir` for future analyses. All the steps mentioned in this section are the same, except that all vs. all alignment is performed compared to just one reference. By doing all vs. all alignment one can also test the effect on their analyses with different reference genomes.
+*Nota*: Si un análisis requiere ejecutar varias iteraciones de PhaME en un mismo conjunto de datos o un subconjunto de conjuntos de datos, no es necesario realizar la alineación una y otra vez. PhaME proporciona una opción en la que puede mantener todos los posibles alineamientos por pares de genomas de `refdir` para futuros análisis. Todos los pasos mencionados en esta sección son iguales, excepto que la alineación de todos contra todos se realiza en comparación con una sola referencia. Al hacer la alineación de todos contra todos, también se puede probar el efecto en sus análisis con diferentes genomas de referencia.
 
-Mapping of raw reads to reference genome
+Mapeo de lecturas sin procesar al genoma de referencia
 -------------------------------------------
-Currently, PhaME only processes short, raw reads from Illumina. If raw reads, single or paired end, are included in the analyses, they are mapped to the reference genome using either bowtie2 or BWA based on users’ input. For reads mapping to the reference genome, the following commands are used:
+Actualmente, PhaME solo procesa lecturas cortas y sin procesar de Illumina. Si se incluyen en los análisis lecturas sin procesar, de extremo único o emparejado, se asignan al genoma de referencia utilizando bowtie2 o BWA en función de la entrada de los usuarios. Para la asignación de lecturas al genoma de referencia, se utilizan los siguientes comandos:
 
-First, it builds database from the reference genome.
+Primero, construye una base de datos a partir del genoma de referencia.
 ::
 
     bowtie2-build refgenome refgenome
 
 ::
-or, if BWA was chosen as the preferred aligner:
+o, si se eligió BWA como el alineador preferido:
 
 ::
 
@@ -81,18 +81,15 @@ or, if BWA was chosen as the preferred aligner:
 
 ::
 
-The raw reads are then mapped to the reference genomne using one of the following commands:
-
-For bowtie2 and paired reads:
-
+Luego, las lecturas sin procesar se asignan al genoma de referencia utilizando uno de los siguientes comandos: Para bowtie2 y lecturas emparejadas:
 ::
 
     bowtie2 -a -x $refgenome -1 read1 -2 read2 -S paired.sam`;
 
 ::
-The option `-a` reports all possible alignments.
+La opción `-a` informa de todas las alineaciones posibles.
 
-For bowtie2 and single end reads:
+Para bowtie2 y lecturas de un solo extremo:
 
 ::
 
@@ -100,7 +97,7 @@ For bowtie2 and single end reads:
 
 ::
 
-For BWA and paired reads:
+Para BWA y lecturas emparejadas:
 
 ::
 
@@ -108,7 +105,7 @@ For BWA and paired reads:
 
 ::
 
-For BWA and single end reads:
+Para BWA y lecturas de un solo extremo:
 
 ::
 
@@ -117,9 +114,9 @@ For BWA and single end reads:
 ::
 
 
-Filtering genome alignments
+Filtrado de alineaciones del genoma
 ------------------------------
-Genome alignment produced using `nucmer` are filtered using `delta-filter` to only keep 1 to 1 alignments allowing for rearrangements. This filtering step is produced for all `nucmer` alignments.
+La alineación del genoma producida usando 'nucmer' se filtra usando 'delta-filter' para mantener solo las alineaciones 1 a 1, lo que permite reorganizaciones. Este paso de filtrado se produce para todas las alineaciones `nucmer`.
 
 ::
 
@@ -128,9 +125,9 @@ Genome alignment produced using `nucmer` are filtered using `delta-filter` to on
 ::
 
 
-Calling SNPs from genome alignments
+Llamando SNP's desde alineaciones del genoma
 --------------------------------------
-The pairwise `nucmer` alignments are then parsed to produce a SNP table using `show-snps`.
+Las alineaciones 'nucmer' por pares se analizan para producir una tabla SNP usando 'show-snps'.
 
 ::
 
@@ -138,19 +135,19 @@ The pairwise `nucmer` alignments are then parsed to produce a SNP table using `s
 
 ::
 
-Here, option C and T specifies not to report SNPs from ambiguous alignments and report the output in tab delimited file respectively.
+Aquí, las opciones C y T especifican no informar los SNP de alineaciones ambiguas e informar la salida en un archivo delimitado por tabulaciones, respectivamente.
 
-Reporting nucmer alignments
+Informes de alineaciones numéricas
 ------------------------------
 
-Each alignments are further parse to produce a tab delimited file that has information on regions and %ID of their alignments.
+Cada alineación se analiza más para producir un archivo delimitado por tabuladores que tiene información sobre las regiones y el %ID de sus alineaciones.
 ::
 
     show-coords -clTr genome.snpfilter > genome.coords
 
 ::
 
-The parameter flag -clTr implies different headers to be reported in the report.
+El indicador de parámetro -clTr implica que se informarán diferentes encabezados en el informe.
 
 ::
 
@@ -161,9 +158,9 @@ The parameter flag -clTr implies different headers to be reported in the report.
 
 ::
 
-Calling SNPs from read mapping
+Llamando SNP's desde el mapeo de lectura
 ---------------------------------
-`bcftools mpileup` is used for calling SNPs from read mapping results (bam file) of every genomes represented by raw reads. Maximum depth is set to 1000000 for both SNP and indel calling and minimum gaps for calling an indel is set to 3. The output vcf file is then used to call SNPs using `bcftools call` where ploidy is specified as `1` if its a haploid or bacterial genome, else it is called using default parameter. Furthermore, based on the user specified parameter in the control file, SNPs are further filtered based on percentage of SNPs. Here are the snippets of commmand that are run as part of this. All of them result in a vcf file.
+`bcftools mpilup` se utiliza para llamar a los SNP a partir de los resultados del mapeo de lectura (archivo bam) de todos los genomas representados por lecturas sin procesar. La profundidad máxima se establece en 1000000 para las llamadas de SNP e indel y las brechas mínimas para llamar a un indel se establecen en 3. El archivo vcf de salida se usa luego para llamar a los SNP usando `bcftools call` donde la ploidía se especifica como `1` si es un genoma haploide o bacteriano, de lo contrario se llama usando el parámetro predeterminado. Además, según el parámetro especificado por el usuario en el archivo de control, los SNP se filtran aún más según el porcentaje de SNP. Estos son los fragmentos de comando que se ejecutan como parte de esto. Todos ellos dan como resultado un archivo vcf.
 
 ::
 
@@ -174,23 +171,23 @@ Calling SNPs from read mapping
 ::
 
 
-Calculating core genome alignments
+Cálculo de las alineaciones del genoma central
 ----------------------------------
-As a first step in calculating the core genome, all alignments to reference are checked for linear coverage to assure the proportion of reference genome that was used in the alignment. If its lower than the threshold cutoff (default = 0.6) set in control file, that genome will be removed from further analyses. Then rest of the pairwise alignments that are either in vcf format or nucmer formats are then collated to calculate a core genome. Only the alignment position that are 100% conserved are kept, all other positions are removed from the final core genome alignment. PhaME produces multiple alignment files corresponding to core genome such as the one that has only the variant sites (`_all_snp_alignment.fna`), has variant and invariant sites (`all_alignment.fna`), and the ones that have SNPs from only the coding region (`_cds_snp_alignment.fna`). The coding region SNP alignment requires a GFF formatted annotation file.
+Como primer paso para calcular el núcleo del genoma, se comprueba la cobertura lineal de todas las alineaciones con respecto a la referencia para asegurar la proporción del genoma de referencia que se usó en la alineación. Si es inferior al umbral de corte (predeterminado = 0,6) establecido en el archivo de control, ese genoma se eliminará de los análisis posteriores. Luego, el resto de las alineaciones por pares que están en formato vcf o nucmer se cotejan para calcular un genoma central. Solo se conservan las posiciones de alineación que se conservan al 100%, todas las demás posiciones se eliminan de la alineación del genoma central final. PhaME produce múltiples archivos de alineación correspondientes al genoma central, como el que tiene solo los sitios variantes (`_all_snp_alignment.fna`), tiene sitios variantes e invariantes (`all_alignment.fna`) y los que tienen SNP solo de la codificación. región (`_cds_snp_alignment.fna`). La alineación SNP de la región de codificación requiere un archivo de anotación con formato GFF.
 
 
-Reconstructing core genome phylogeny
+Reconstruyendo la filogenia del genoma central
 -------------------------------------
-PhaME provides multiple tools (RAxML [Stamatakis 2014]_, FastTree [Price 2010]_, and IQ-Tree [Nguyen 2015]_) to reconstruct phylogeny from one core genome alignments that have invariant sites. If RAxML or FastTree option is chosen, users cannot modify the models as they are pre-selected. RAxML trees are reconstructed using GTRGAMMAI models that "GTR + Optimization of substitution rates + GAMMA model of rate heterogeneity (alpha parameter will be estimated)" with `I` but with estimate for invariable sites. FastTree uses GTR model only. IQ-TREE is run using option `-m TEST` that searches for the best model that fits the data before reconstructing the phylogeny. RAxML is the only option that is currently available that can also calculate the bootstraps.
+PhaME proporciona varias herramientas (RAxML [Stamatakis 2014]_, FastTree [Price 2010]_ e IQ-Tree [Nguyen 2015]_) para reconstruir la filogenia a partir de alineaciones del genoma central que tienen sitios invariantes. Si se elige la opción RAxML o FastTree, los usuarios no pueden modificar los modelos ya que están preseleccionados. Los árboles RAxML se reconstruyen usando modelos GTRGAMMAI que "GTR + Optimización de tasas de sustitución + Modelo GAMMA de heterogeneidad de tasas (se estimará el parámetro alfa)" con `I` pero con estimación para sitios invariables. FastTree solo usa el modelo GTR. IQ-TREE se ejecuta usando la opción `-m TEST` que busca el mejor modelo que se ajuste a los datos antes de reconstruir la filogenia. RAxML es la única opción disponible actualmente que también puede calcular los arranques.
 
-Selecting genes for molecular evolutionary analyses
+Selección de genes para análisis evolutivos moleculares
 -------------------------------------------------------
-To perform selection analyses using PAML or HyPhy, codon alignments of genes are required. Based on the position of SNPs in the reference genome, if a SNP is within a coding region and if that coding region does not have a gap, they are extracted from the core genome alignment. The nucleotide sequences of the genes are translated to protein sequences, aligned using the program mafft 8, and then reverse translated back to nucleotide using the Perl code pal2nal.pl from http://www.bork.embl.de/pal2nal/.
+Para realizar análisis de selección utilizando PAML o HyPhy, se requieren alineaciones de codones de genes. Según la posición de los SNP en el genoma de referencia, si un SNP se encuentra dentro de una región de codificación y si esa región de codificación no tiene una brecha, se extraen de la alineación del genoma central. Las secuencias de nucleótidos de los genes se traducen a secuencias de proteínas, se alinean usando el programa mafft 8 y luego se traducen de nuevo a nucleótidos usando el código Perl pal2nal.pl de http://www.bork.embl.de/pal2nal/.
 
-Molecular Evoluationary analyses
+Análisis Evolutivo Molecular
 ------------------------------------
 
-The set of gene alignments are used for molecular evolutionary analyses using either PAML [Yang 2007]_ or HyPhy. Both packages can test for the presence of positively selected sites and lineages by allowing the dN/dS ratio (ω) to vary among sites and lineages. The adaptive branch-site REL test for episodic diversification (aBSREL) model in the HyPhy package is used to detect instances of episodic diversifying and positive selection. If PAML is selected, the M1a-M2a and M7- M8 nested models are implemented. In the latter case, the likelihood ratio test between the null models (M1a and M8) and the alternative model (M2a and M7) at a significance cutoff of 5% provides information on how the genes are evolving. The results for each gene are then summarized in a table containing information on whether the gene is evolving under positive, neutral, or negative selection, along with p-values. HyPhy is run with a model, which specifically looks for sign of positive selection in given sets of genes. The analysis produces a list of JSON files corresponding to each gene which can be uploaded to vision.hyphy.org/absrel for further analysis. We opted to provide PAML as an option, however we recommend using HyPhy for large projects due to its speed and concise output. 
+El conjunto de alineaciones de genes se utiliza para análisis evolutivos moleculares mediante PAML [Yang 2007]_ o HyPhy. Ambos paquetes pueden probar la presencia de sitios y linajes seleccionados positivamente al permitir que la relación dN/dS (ω) varíe entre sitios y linajes. El modelo de prueba adaptativa REL del sitio de sucursal para la diversificación episódica (aBSREL) en el paquete HyPhy se utiliza para detectar instancias de diversificación episódica y selección positiva. Si se selecciona PAML, se implementan los modelos anidados M1a-M2a y M7-M8. En este último caso, la prueba de razón de verosimilitud entre los modelos nulo (M1a y M8) y el modelo alternativo (M2a y M7) con un límite de significación del 5 % proporciona información sobre cómo evolucionan los genes. Los resultados de cada gen luego se resumen en una tabla que contiene información sobre si el gen está evolucionando bajo selección positiva, neutral o negativa, junto con los valores p. HyPhy se ejecuta con un modelo que busca específicamente signos de selección positiva en determinados conjuntos de genes. El análisis produce una lista de archivos JSON correspondientes a cada gen que se puede cargar en vision.hyphy.org/absrel para su posterior análisis. Optamos por proporcionar PAML como una opción; sin embargo, recomendamos usar HyPhy para proyectos grandes debido a su velocidad y resultados concisos.
 
 
 References
