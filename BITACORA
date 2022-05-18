@@ -2,7 +2,7 @@
 
   Tratando de instalar PHAME con conda pro hay muchos errores.
       conda install phame <--- No sirve
-========================================================================================================================================================      
+--------------------------------------------------------------------------------------------------------------------------------------------------------
   Instalando de forma alternativa creando un nuevo ambiente y usando el repositorio disponible en github: https://github.com/LANL-Bioinformatics/PhaME
 
       Create a separate conda environment:
@@ -51,8 +51,56 @@
         cd PhaME
         test/TestAll.sh 1
 
-  El test corre sin errores.
-========================================================================================================================================================
+      El test corre sin errores.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
   Instalé orthofinder usando el repositorio: https://github.com/davidemms/OrthoFinder
   
   y todo bien. Revsando el manual.
+========================================================================================================================================================
+18 de MAYO
+
+    Pruebo correr phame como lo indica el manual: https://github.com/LANL-Bioinformatics/PhaME/tree/master/docs/introduction (runphame.rst)
+    pero sale un error:
+    readdir() attempted on invalid dirhandle DIR at ./src/phame line 217, <CTL>
+      line 1 (#1)
+        (W io) The dirhandle you're reading from is either closed or not really
+        a dirhandle.  Check your control flow.
+
+    Use of uninitialized value in concatenation (.) or string at ./src/phame line
+      218, <CTL> line 1 (#2)
+        (W uninitialized) An undefined value was used as if it were already
+        defined.  It was interpreted as a "" or a 0, but maybe it was a mistake.
+        To suppress this warning assign a defined value to your variables.
+
+        To help you figure out what was undefined, perl will try to tell you
+        the name of the variable (if any) that was undefined.  In some cases
+        it cannot do this, so it also tells you what operation you used the
+        undefined value in.  Note, however, that perl optimizes your program
+        and the operation displayed in the warning may not necessarily appear
+        literally in your program.  For example, "that $foo" is usually
+        optimized into "that " . $foo, and the warning will refer to the
+        concatenation (.) operator, even though there is no . in
+        your program.
+
+    closedir() attempted on invalid dirhandle DIR at ./src/phame line 220, <CTL>
+      line 1 (#3)
+        (W io) The dirhandle you tried to close is either closed or not really
+        a dirhandle.  Check your control flow.
+
+    readdir() attempted on invalid dirhandle DIR at ./src/phame line 217, <CTL>
+      line 2 (#1)
+    Use of uninitialized value in concatenation (.) or string at ./src/phame line
+      218, <CTL> line 2 (#2)
+    closedir() attempted on invalid dirhandle DIR at ./src/phame line 220, <CTL>
+      line 2 (#3)
+    readdir() attempted on invalid dirhandle DIR at ./src/phame line 217, <CTL>
+      line 3 (#1)
+    Use of uninitialized value in concatenation (.) or string at ./src/phame line
+      218, <CTL> line 3 (#2)
+    closedir() attempted on invalid dirhandle DIR at ./src/phame line 220, <CTL>
+      line 3 (#3)
+    PhaME v1.0.5 
+    Uncaught exception from user code:
+      No such file or directory at /home/biocomp/software/PhaME/src/../lib/PhaME.pm line 931.
+      PhaME::PickRefGenome("/home/biocomp/software/PhaME/workdir", "/home/biocomp/software/PhaME/ref", "/home/biocomp/software/PhaME/workdir/results/ecoli.error", "/home/biocomp/software/PhaME/workdir/results/ecoli.log", "/home/biocomp/software/PhaME/workdir/sketch_output.txt") called at ./src/phame line 294
+
