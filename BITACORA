@@ -103,4 +103,7 @@
     Uncaught exception from user code:
       No such file or directory at /home/biocomp/software/PhaME/src/../lib/PhaME.pm line 931.
       PhaME::PickRefGenome("/home/biocomp/software/PhaME/workdir", "/home/biocomp/software/PhaME/ref", "/home/biocomp/software/PhaME/workdir/results/ecoli.error", "/home/biocomp/software/PhaME/workdir/results/ecoli.log", "/home/biocomp/software/PhaME/workdir/sketch_output.txt") called at ./src/phame line 294
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+    revisando el test, el error esta en el archivo .ctl
+    
+    
