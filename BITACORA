@@ -107,3 +107,46 @@
     revisando el test, el error esta en el archivo .ctl
     
     
+20 de mayo
+
+Descargué ete toolkit en con conda en un nuevo ambiente (ete3):
+
+      conda activate ete3
+      
+tuve un error al iniciar el ambiente: esto lo soluciona
+
+      source ~/anaconda3/etc/profile.d/conda.sh
+      conda activate ete3
+      
+      
+23 de MAYO
+
+revise ETE toolkit para hacer y analizar filogenias
+dado que orthofinder necesita la lista de proteinas, descargue las secuencias codificantes en .faa 
+al fin pude correr orthofinder
+El clado que me pasaron contiene dos especies mas:"Calothrix_sp._NIES-2098" y "Calothrix_sp._PCC_7507"
+Hice un arbol sin estas especies para ver si el arbol era el mismo.
+El arbol fue el mismo.
+Hare un arbol extra con las dos especies extra
+
+24 de mayo
+
+Estoy escribiendo un script en perl para obtener la abundancia de HIP
+Los arboles pasados solo estan hechos con algunos de los cromosomas de las especies ya que no me fije que no tome en cuenta todo el material genetico
+Ahora estoy tratando de hallar la forma de descargar todo el genoma anotado (aa) en formato fasta para volver a hacer los arboles
+Tambien estoy buscando la forma de obtener la longitud completa del genoma (con los plasmidos) 
+
+Una idea es quitar los encabezados de cada archivo.fasta y contar el numero de caracteres
+
+26 de MAYO
+
+Quitar los encabezados de cada archivo.fasta y contar el numero de caracteres:
+
+  sed '/^>/d' Calothrix_sp._336_3.fasta >out.without.head.txt
+
+O sumar las longitudfes de los archivos de genebank
+
+Otro detalle es que ahora que tengo los datos de proteinas de cada genoma.
+Debo saber si es valido combinarlos para tener un solo archivo por genoma y posteriormente meterlo a orthofinder
+
+
