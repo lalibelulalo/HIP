@@ -167,3 +167,18 @@ Me di cuenta que habia otro posible sesgo en el conteo: Los saltos de linea en e
 A cada archivo fasta le quite el encabezado y sustitui cada salto de linea por "nada" para que fuera una sola linea.
 El script funciona, pero aun no logro entender el significado de la frecuencia observada:
   No se si se refiere a una frecuencia relativa o al conteo esperado.
+
+3 de junio
+Leyendo el paper:
+  Determination of Bias in the Relative Abundance of Oligonucleotides in DNA Sequences
+  Jeff Elhai
+Lei que existia otro sesgo en el conteo: el de oligonucleotidos no contiguos.
+
+  Me puse a contar en un archivo con 3 HIP's traslapados: "GCGATCGCGATCGCGATCGC" usando el buscador del editor de texto y usando grep (grep -o 'GCGATCGC' pal.txt | wc -l)
+  Ambas busquedas solo em detectaron 2 HIP's.
+Buscare mas al respecto.
+
+  
+
+
+
