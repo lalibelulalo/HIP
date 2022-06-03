@@ -1,6 +1,7 @@
 #!/usr/local/bin/perl
 
 use strict;
+=pod
 my $o = 0;
 my $long_genoma = 0;
 my $count_pal = 0;
@@ -14,6 +15,8 @@ my $count_GA = 0;
 my $count_AT = 0;
 my $count_TC = 0;
 my $PAL = 0;
+=cut
+my $o = 0;
 my $A = 0;
 my $T = 0;
 my $C = 0;
@@ -30,7 +33,7 @@ my $TC = 0;
 
 # CREANDO ARCHIVO DE RESULTADOS
 open (GEM,">RES.CONTEO.csv") or die ("No puedo abrir RES.CONTEO.csv");
-	print GEM ("ARCH,f_A,f_T,f_C,f_G,f_GC,f_CG,f_GA,f_AT,f_TC,LONG,f_obs,f_exp,num_pal_obs\n");
+	print GEM ("ARCH,A,f_A,T,f_T,C,f_C,G,f_G,GC,f_GC,CG,f_CG,GA,f_GA,AT,f_AT,TC,f_TC,LONG,f_obs,f_exp,num_pal_obs\n");
 			#$A,$T,$C,$G,$GC,$CG,$GA,$AT,$TC
 close (GEM);
 
@@ -53,16 +56,32 @@ open (MAR, "species.names") or die ("No puedoabrir species.names\n"); #VAMOS IR 
 		print ("Especie ",$o+1,": ",$especie,"\n");
 		$o++;
 		my $z = 0;
-		#EN CADA CARPETA DE ESPECIE VAMOS IR LEYENDO CADA ARCHIVO
+		# EN CADA CARPETA DE ESPECIE VAMOS IR LEYENDO CADA ARCHIVO
 		open (LIZ, "ACCESIONES/$especie.ACCESIONES.txt") or die ("No puedo abrir $especie.ACCESIONES.txt\n"); 
 		while (my $accesion = <LIZ>){
 			chomp ($accesion);
 			if ($accesion =~ /(\w+)/){
+				# CONTADORES EN 0'S PARA EL CONTEO EN LA SIGUIENTE ESPECIE
+				my $long_genoma = 0;
+				my $count_pal = 0;
+				my $count_A = 0;
+				my $count_T = 0;
+				my $count_C = 0;
+				my $count_G = 0;
+				my $count_GC = 0;
+				my $count_CG = 0;
+				my $count_GA = 0;
+				my $count_AT = 0;
+				my $count_TC = 0;
+				my $PAL = 0;
+
 				my $acc = $1;
 				print ("\tAccesion ",$z+1,": ",$acc,"\n");
-				#LE QUITAMOS EL ENCABEZADO PARA PODER HACER EL CONTEO UNICAMENTE CON LOS NUCLEOTIDOS
+				# LE QUITAMOS EL ENCABEZADO PARA PODER HACER EL CONTEO UNICAMENTE CON LOS NUCLEOTIDOS
 				system ("sed '/>/d' Genome_fasta_nu/Genome_fasta_nu_$especie/$acc.fna >$especie.$acc.fna.headless");
-				#system ("z 's/\n/,/g;s/,$/\n/' $especie.$acc.fna.headless >$especie.$acc.1row.fna.headless");
+				
+				# QUITAMOS LOS SALTOS DE LINEA PARA EVITAR SESGOS EN EL CONTEO
+				system ("tr -d '\n' <$especie.$acc.fna.headless >$especie.$acc.fna.headless.1row");
 
 
 
@@ -70,18 +89,16 @@ open (MAR, "species.names") or die ("No puedoabrir species.names\n"); #VAMOS IR 
 				# AQUI SE HACE EL CONTEO
 				#---------------------------------------------------------------------------
 						# LONGITUD DE SECUENCIA
-						open (BEL, "$especie.$acc.1row.fna.headless") or die ("No puedo abrir $especie.$acc.1row.fna.headless\n");
+						open (BEL, "$especie.$acc.fna.headless.1row") or die ("No puedo abrir $especie.$acc.fna.headless.1row\n");
 							while (my $line = <BEL>){
 									chomp ($line);
-									$long_genoma = $long_genoma+(length($line));
-									#print ("El conteo va: $long_genoma\n");			
+									$long_genoma = $long_genoma+(length($line));			
 									}
 						close (BEL);
 
 
-						open (CEC, "$especie.$acc.1row.fna.headless") or die ("No puedo abrir $especie.$acc.1row.fna.headless\n");
+						open (CEC, "$especie.$acc.fna.headless.1row") or die ("No puedo abrir $especie.$acc.fna.headless.1row\n");
 							while( <CEC> ) {
-							#print;
 								++$count_pal while m[GCGATCGC]ig;
 								++$count_A while m[A]ig;
 								++$count_T while m[T]ig;
@@ -93,6 +110,7 @@ open (MAR, "species.names") or die ("No puedoabrir species.names\n"); #VAMOS IR 
 								++$count_AT while m[AT]ig;
 								++$count_TC while m[TC]ig;
 							}
+							# FRECUENCIA RELATIVA DE NUCLEOTIDOS Y DINUCLEOTIDOS
 							$PAL = $count_pal/($long_genoma-4+1);
 							$A = $count_A/($long_genoma-1+1);
 							$T = $count_T/($long_genoma-1+1);
@@ -108,34 +126,23 @@ open (MAR, "species.names") or die ("No puedoabrir species.names\n"); #VAMOS IR 
 							my $count_pal_EXP = (($GC*$CG*$AT*$TC*$CG*$GC)/($C*$G*$A*$T*$C*$G));
 							print "-----------------------------------------------\n";
 							#print "'A' aparece $count_A veces en el archivo '$especie.$acc.fna.headless'\n";
-							#print "'T' aparece $count_T veces en el archivo '$especie.$acc.fna.headless'\n\n";
-							#print "EXP $EXP\n";
+							#print "'T' aparece $count_T veces en el archivo '$especie.$acc.fna.headless'\n";
+							#print "'C' aparece $count_C veces en el archivo '$especie.$acc.fna.headless'\n";
+							#print "'G' aparece $count_G veces en el archivo '$especie.$acc.fna.headless'\n\n";
 							print "OBS: $count_pal\n";
 							print "EXP: $EXP\n";
 							print "LONGITUD $long_genoma\n";
 							print "-----------------------------------------------\n";
-										
-							open (MIR,">>RES.CONTEO.csv") or die ("No puedo abrir RES.CONTEO.csv");
-								print MIR ("$especie.$acc,$A,$T,$C,$G,$GC,$CG,$GA,$AT,$TC,$long_genoma,$PAL,$EXP,$count_pal\n");
-							close (MIR);
 							
-						my $count_pal = 0;
-						my $count_A = 0;
-						my $count_T = 0;
-						my $count_C = 0;
-						my $count_G = 0;
-						my $count_GC = 0;
-						my $count_CG = 0;
-						my $count_GA = 0;
-						my $count_AT = 0;
-						my $count_TC = 0;
-						my $PAL = 0;
-
+							# GUARDANDO CONTEO EN RES.CONTEO.csv			
+							open (MIR,">>RES.CONTEO.csv") or die ("No puedo abrir RES.CONTEO.csv");
+								print MIR ("$especie.$acc,$count_A,$A,$count_T,$T,$count_C,$C,$count_G,$G,$count_GC,$GC,$count_CG,$CG,$count_GA,$GA,$count_AT,$AT,$count_TC,$TC,$long_genoma,$PAL,$EXP,$count_pal\n");
+							close (MIR);
 						close (CEC);
-						$long_genoma = 0;
 				#---------------------------------------------------------------------------	
 				#AQUI TERMINA EL CONTEO
-				system ("rm $especie.$acc.1row.fna.headless");
+				system ("rm $especie.$acc.fna.headless");
+				system ("rm $especie.$acc.fna.headless.1row");
 				
 				$z++;
 			}
@@ -143,4 +150,3 @@ open (MAR, "species.names") or die ("No puedoabrir species.names\n"); #VAMOS IR 
 		close (LIZ);
 	}
 close (MAR);
-
