@@ -157,4 +157,13 @@ codigo de conteo de HIP
 codigo para obtener fastas.
 
 1 de Junio
+Revisando como obtener los ortogrupos de 3 genomas que no pude obtener del NCBI
+Al revisar el conteo de HIP obtenido previamente me di cuenta que tienen numeros muy grandes.
+Revisando la ecuación del conteo.
 
+2 de Junio
+Escribiendo un nuevo script del conteo
+Me di cuenta que habia otro posible sesgo en el conteo: Los saltos de linea en el archivo fasta.
+A cada archivo fasta le quite el encabezado y sustitui cada salto de linea por "nada" para que fuera una sola linea.
+El script funciona, pero aun no logro entender el significado de la frecuencia observada:
+  No se si se refiere a una frecuencia relativa o al conteo esperado.
