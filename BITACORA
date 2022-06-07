@@ -178,7 +178,41 @@ Lei que existia otro sesgo en el conteo: el de oligonucleotidos no contiguos.
   Ambas busquedas solo em detectaron 2 HIP's.
 Buscare mas al respecto.
 
-  
+4 de Junio
+En el articulo:
+Determination of Bias in the Relative Abundance of Oli gonucleotides in DNA Sequences
+  Jeff Elhai
+Hablan de la ecuacion para determinar la fecuencia de un oligonucleotido propuesta por: Karlin et al. [1992]
+Sin embargo, esta ecuación se basa unicamente en CONTEOS y no en FRECUENCIAS.
+Ademas, ahi mismo se explica que despues de obtener esa frecuencia esperada E_M,
+solo basta con  multiplicar por el numero total de nucleotidos (es decir la longitud de la secuencia)
+para obtener el numero de oligonucleótidos esperado.
 
+Entonces en el script de conteo use dos enfoques (conteo esperado a base de FRECUENCIAS y CONTEOS) con 4 modelos de markov de 1er a 4to orden cada uno.
+Ademas agregue un conteo mas usando N-k+1 en lugarv de N para ver las diferencias.
+
+Al revisar los valores obtenidos era evidente que,
+el CONTEO ESPERADO en base a FRECUENCIAS usando N-K+1
+el CONTEO ESPERADO en base a FRECUENCIAS usando N y
+la FRECUENCIA ESPERADA en base a CONTEOS,
+Los valores obtenidos son PRACTICAMENTE LOS MISMOS:
+[($f_GC*$f_CG*$f_GA*$f_AT*$f_TC*$f_CG*$f_GC)/($f_C*$f_G*$f_A*$f_T*$f_C*$f_G)]*($long_genoma-8+1)
+[($f_GC*$f_CG*$f_GA*$f_AT*$f_TC*$f_CG*$f_GC)/($f_C*$f_G*$f_A*$f_T*$f_C*$f_G)]*$long_genoma = 
+ ($c_GC*$c_CG*$c_GA*$c_AT*$c_TC*$c_CG*$c_GC)/($c_C*$c_G*$c_A*$c_T*$c_C*$c_G)
+ 
+ 2nd order
+{ [(1/N-1)^n-1]*(N_w1,w2)*(N_w2,w3)*...*(N_Wn-1,wn) / [(1/N)^(n-2)]*(N_w2)*(N_w3)*...*(N_wn-2)} * (N-n+1)       ......(A)
+=>
+[ (N_w1,w2)*(N_w2,w3)*...*(N_Wn-1,wn) / (N_w2)*(N_w3)*...*(N_wn-2)]¨= ([(1/N-1)^n-1] / [(1/N)^(n-2)] * (N-n+1)  ......(B)
+
+n = 8
+N = 6283267
+(B)
+[ (N_w1,w2)*(N_w2,w3)*...*(N_Wn-1,wn) / (N_w2)*(N_w3)*...*(N_wn-2)]¨= [(1/6283266)⁷/(1/6283267)⁶]*6283260
+
+  
+5 de Junio
+6 de Junio
+7 de Junio
 
 
