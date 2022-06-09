@@ -225,5 +225,14 @@ entonces podemos concluir que (A) es cierto.
 5 de Junio
 6 de Junio
 7 de Junio
+8 de junio
+# To activate this environment, use
+#
+#     $ conda activate dgenies
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
 
 
