@@ -245,5 +245,37 @@ entonces podemos concluir que (A) es cierto.
 #     $ conda deactivate
 
 
+14 de junio
+he estado experimentando con algunas librerias para hacer filogenias con gradientes de color para caracteristicas
+ggtree y phytools producen graficos muy buenos.
+Algunas funciones usan arboles en formato nexus. Actualmente desconozco casi totalmente este formato.
+buscare algunos ejemplos y vere si puedo convertir los arboles de nwk a nex
+es interesante el formato nex ya que puede cargar información sobre el arbol dentro del mismo archivo.
+Creo que puede llegar a ser util ya que en la mayoria de los ejemplos que vi adjuntan la alineación multiple.
+
+15 de junio
+Encontré una forma de hacer filogenias con ggtree 
+el grafico se ve con un degradado de color que va de acuerdo con algun parametro de alguna caracteristica que se indique
+en este caso use la abundancia de HIP para diferenciar las especies de acuerdo a su abundancia
+Para hacer este grafico se usa un metodo que estima los estados ancestrales. 
+Este metodo es con la funcion fitAnc() (reconstrucción rápida del estado ancestral de máxima verosimilitud de caracteres continuos.)
+  DESCRIPCION DEL MODELO: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5395464/
+Tambien hay un modelo bayesiano para la reconstrucción: anc.Bayes()
+Tengo algunos problemas para extrapolar estos resultados al arbol que habia obtenido con fastAnc()
+pude poner estos resultados en el nuevo arbol y se ven mas factibles que los obtenidos con fastAnc()
+
+
+16 de junio
+-instalanddo mummer4
+-la version de conda no funciona para mostrar los plots
+-descargue la version source
+-el sofytware mummerplot no funciona
+-Faltaba gnuplot, por eso no funcionaba
+-instalé con apt get pero no funcionó, creo que es porque es una version no actualizada
+-descargue el source de gnuplot, funciona pero  mummerplot no lo localiza
+-El codigo de mummerplot llama a la carpeta bin, por lo que lo cambie por la ubicacion en donde instale mummer
+-todo bien.
+
+
 
 
