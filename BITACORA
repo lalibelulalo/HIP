@@ -244,6 +244,18 @@ entonces podemos concluir que (A) es cierto.
 #
 #     $ conda deactivate
 
+13 de junio
+he estado buscando opciones de alineación de genomas completos pero la mayoria ya no tienen mantrenimiento o estan basados en java y tienen muchos bugs
+Aun asi he estado tratando de correr todos.
+Al final siemprellegu a mummer pero tengo porblemas para instalar y replicar los resultados.
+Aqui algunas opciones que he checado:
+https://dot.sandbox.bio/
+https://github.com/marianattestad/dot
+https://github.com/dnanexus/dot
+https://github.com/marianattestad/ribbon
+http://higlass.io/examples
+https://docs.higlass.io/
+
 
 14 de junio
 he estado experimentando con algunas librerias para hacer filogenias con gradientes de color para caracteristicas
