@@ -302,6 +302,14 @@ If compiling from the git tree, do autoreconf -fi first.
 17 de junio
 Revisando tutoriales de mummer
 si comparo 2 iguales no sale lo que esperaba
+Volvi a intentar mauve, el problema parece ser con la version de jdk
+En uno de los readme vi mencionar al software BEAST
+anteriormente ya habia instalado beast y pude correrlo con java 1.8 por lo que tratare esta version de java
+Ya pude abrir mauve, pero algunas de sus funciones tienen bugs
+De tdos modos en la alineacíón no se ve practicamente ninguna similitud (7716 & 4101)
+intentare con una version mas vieja de java (1.5)
+Las versiones que funcionan son 1.6 al 1.9, sin embargo sigue con bugs
+
 
 
 
