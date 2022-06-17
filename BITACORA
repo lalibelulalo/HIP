@@ -255,8 +255,8 @@ https://github.com/dnanexus/dot
 https://github.com/marianattestad/ribbon
 http://higlass.io/examples
 https://docs.higlass.io/
-
-
+9 de Junio
+10 de Junio
 14 de junio
 he estado experimentando con algunas librerias para hacer filogenias con gradientes de color para caracteristicas
 ggtree y phytools producen graficos muy buenos.
@@ -281,12 +281,26 @@ pude poner estos resultados en el nuevo arbol y se ven mas factibles que los obt
 -instalanddo mummer4
 -la version de conda no funciona para mostrar los plots
 -descargue la version source
+***
+Compilation & Installation
+To compile and install:
+
+./configure --prefix=/path/to/installation
+make
+make install
+If --prefix is omitted, the software is installed in /usr/local. One may need sudo make install if installing in a system location.
+
+If compiling from the git tree, do autoreconf -fi first.
+***
 -el sofytware mummerplot no funciona
 -Faltaba gnuplot, por eso no funcionaba
 -instalé con apt get pero no funcionó, creo que es porque es una version no actualizada
 -descargue el source de gnuplot, funciona pero  mummerplot no lo localiza
 -El codigo de mummerplot llama a la carpeta bin, por lo que lo cambie por la ubicacion en donde instale mummer
 -todo bien.
+
+17 de junio
+Revisando tutoriales de mummer
 
 
 
