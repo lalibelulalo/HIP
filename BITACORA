@@ -310,6 +310,23 @@ De tdos modos en la alineacíón no se ve practicamente ninguna similitud (7716 
 intentare con una version mas vieja de java (1.5)
 Las versiones que funcionan son 1.6 al 1.9, sin embargo sigue con bugs
 
+Probe GSalign:
+para tratar de producir un grafico parecido al de mummer.
+Este se me hizo mas confiable porque al alinear dos genomas iguales si me sale una sola linea a diferencia de mummer:
+  ./bin/GSAlign -r NZ_AP025018.fa -q NZ_AP025018_or.fa -o gs_align_7716_7716 -dp gs_align_7716_7716_dotplot -gp /home/lalibelulalo/software/gnuplot/bin/gnuplot
+Las corridas unicamente las estoy haciendo unicamente con el genoma.
+sin embargo al comparar 7716 y 4101 todo se ve diferente.
 
+Debido a que solo se compara una referencia y un query lo ideal seria comparar 2 genomas con abundancia y dos genomas sin abundancia de HIP
+no encontre nada.
+
+Halle este recurso, hace graficos de sintenia entre genomas de query y referencia
+https://edgar3.computational.bio.uni-giessen.de/cgi-bin/edgar.cgi
+
+18 de Junio
+Este otro:
+http://pgaweb.vlcc.cn/analyze
+usa ptts:
+https://github.com/ajvilleg/gbk2ptt
 
 
