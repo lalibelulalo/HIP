@@ -355,3 +355,17 @@ https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0524-x
 
 ./nucmer -p <prefix> ref.fa qry.fa
 
+
+
+nucmer -p nuc_Calothrix_sp._336_3_vs_FIRST_100k_INV Calothrix_sp._336_3.fna Calothrix_sp._336_3_100000_inv.fna
+show-coords Calothrix_sp._336_3_vs_FIRST_100k_INV.delta > Calothrix_sp._336_3_vs_FIRST_100k_INV.coords
+mummerplot -l Calothrix_sp._336_3_vs_FIRST_100k_INV.delta
+
+promer-p prom_Calothrix_sp._336_3_vs_FIRST_100k_INV Calothrix_sp._336_3.fna Calothrix_sp._336_3_100000_inv.fna
+
+dnadiff Calothrix_sp._336_3.fna Calothrix_sp._336_3_100000_inv.fna
+
+
+GSAlign -r Calothrix_sp._336_3.fna -q Calothrix_sp._336_3_100000_inv.fna -dp -gp /home/lalibelulalo/software/gnuplot/bin/gnuplot -o Calothrix_sp._336_3_vs_FIRST_100k_INV
+bwt_index Calothrix_sp._336_3.fna Calothrix_no_inv
+GSAlign -i Calothrix_no_inv -q Calothrix_sp._336_3_100000_inv.fna -o Calothrix_sp._336_3_vs_FIRST_100k_INV.output
