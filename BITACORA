@@ -340,3 +340,18 @@ http://linux1.softberry.com/berry.phtml?topic=index&group=programs&subgroup=scan
 
 REVISANDO ESTE:
 https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0524-x
+
+30 de Junio
+
+1.- CONTEO HIP
+2.- ARBOL 
+3.- NUCMER
+4.- GSAlign
+5.- MAUVE
+
+./configure --prefix=/home/biocomp/software/gnuplot
+
+
+
+./nucmer -p <prefix> ref.fa qry.fa
+
