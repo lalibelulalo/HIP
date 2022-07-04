@@ -558,3 +558,8 @@ estudiados.
 /HIP1/HIP_GETHOMOLOGUES
 get_homologues.pl -d calothrix/ -t 0 -M –n PPN
 
+/HIP1/HIP_GETHOMOLOGUES/leptolyngbya
+get_homologues.pl -d leptolyngbya_genomes_gbff/ -t 0 -M –n PPN
+
+/HIP1/HIP_GETHOMOLOGUES/synechococcus
+get_homologues.pl -d synechococcus_genomes_gbff/ -t 0 -M –n PPN
