@@ -546,3 +546,15 @@ mv nuc_4101_last_VS_3974_last3.delta nuc_4101_last_VS_3974_last3
 cd nuc_4101_last_VS_3974_last3
 show-coords nuc_4101_last_VS_3974_last3.delta > nuc_4101_last_VS_3974_last3.coords
 mummerplot -l nuc_4101_last_VS_3974_last3.delta
+
+4 julio
+Determinación de ortogrupos:
+Este análisis nos permite identificar las familias de ortogrupos que conformen el
+pan-genoma de las cianobacterias aquí estudiadas. Este se define como el
+conjunto de todas las familias de genes. A su vez, un subconjunto de este, es el
+genoma núcleo que contiene solo los genes presentes en todos los genomas
+estudiados.
+
+/HIP1/HIP_GETHOMOLOGUES
+get_homologues.pl -d calothrix/ -t 0 -M –n PPN
+
