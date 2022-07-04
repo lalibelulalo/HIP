@@ -369,3 +369,180 @@ dnadiff Calothrix_sp._336_3.fna Calothrix_sp._336_3_100000_inv.fna
 GSAlign -r Calothrix_sp._336_3.fna -q Calothrix_sp._336_3_100000_inv.fna -dp -gp /home/lalibelulalo/software/gnuplot/bin/gnuplot -o Calothrix_sp._336_3_vs_FIRST_100k_INV
 bwt_index Calothrix_sp._336_3.fna Calothrix_no_inv
 GSAlign -i Calothrix_no_inv -q Calothrix_sp._336_3_100000_inv.fna -o Calothrix_sp._336_3_vs_FIRST_100k_INV.output
+
+
+
+nucmer -p 20bp_same Genome_fasta_nu_Calothrix_sp._336_3_original_20.fna Genome_fasta_nu_Calothrix_sp._336_3_original_20_same.fna
+show-coords 20bp_same.delta > 20bp_same.coords
+mummerplot -l 20bp_same.delta
+
+
+
+=======CALOTHRIX
+LOW VS_LAST:
+
+nucmer -p nuc_4071_low_VS_4101_last Calothrix_sp._NIES-4071_1row_low.fna Calothrix_sp._NIES-4101_1row_last.fna
+show-coords nuc_4071_low_VS_4101_last.delta > nuc_4071_low_VS_4101_last.coords
+mummerplot -l nuc_4071_low_VS_4101_last.delta
+
+nucmer -p nuc_7716_low_VS_4101_last Calothrix_sp._PCC_7716_1row_low.fna Calothrix_sp._NIES-4101_1row_last.fna
+show-coords nuc_7716_low_VS_4101_last.delta > nuc_7716_low_VS_4101_last.coords
+mummerplot -l nuc_7716_low_VS_4101_last.delta
+
+LOW:***
+nucmer -p nuc_7716_low_VS_4071_low Calothrix_sp._PCC_7716_1row_low.fna Calothrix_sp._NIES-4071_1row_low.fna
+show-coords nuc_7716_low_VS_4071_low.delta > nuc_7716_low_VS_4071_low.coords
+mummerplot -l nuc_7716_low_VS_4071_low.delta
+
+HIGH LAST 2:*
+nucmer -p nuc_4101_last_VS_6303_last2 Calothrix_sp._NIES-4101_1row_last.fna Calothrix_sp._PCC_6303_1row_last2.fna
+mkdir nuc_4101_last_VS_6303_last2
+mv nuc_4101_last_VS_6303_last2.delta nuc_4101_last_VS_6303_last2
+cd nuc_4101_last_VS_6303_last2
+show-coords nuc_4101_last_VS_6303_last2.delta > nuc_4101_last_VS_6303_last2.coords
+mummerplot -l nuc_4101_last_VS_6303_last2.delta
+
+HIGH LAST 3:
+nucmer -p nuc_4101_last_VS_3974_last3 Calothrix_sp._NIES-4101_1row_last.fna Calothrix_sp._NIES-3974_1row_last3.fna
+mkdir nuc_4101_last_VS_3974_last3
+mv nuc_4101_last_VS_3974_last3.delta nuc_4101_last_VS_3974_last3
+cd nuc_4101_last_VS_3974_last3
+show-coords nuc_4101_last_VS_3974_last3.delta > nuc_4101_last_VS_3974_last3.coords
+mummerplot -l nuc_4101_last_VS_3974_last3.delta
+
+
+=======LEPTOLYNGBYA
+LOW VS HIGH:
+
+nucmer -p nuc_BL0902_low_VS_C2206_high Leptolyngbya_sp._BL0902_1row_low.fna Halomicronema_hongdechloris_C2206_1row_high.fna
+mkdir nuc_BL0902_low_VS_C2206_high
+mv nuc_BL0902_low_VS_C2206_high.delta nuc_BL0902_low_VS_C2206_high
+cd nuc_BL0902_low_VS_C2206_high
+show-coords nuc_BL0902_low_VS_C2206_high.delta > nuc_BL0902_low_VS_C2206_high.coords
+mummerplot -l nuc_BL0902_low_VS_C2206_high.delta
+
+LOW VS LAST:
+nucmer -p nuc_BL0902_low_VS_O-77_1 Leptolyngbya_sp._BL0902_1row_low.fna Leptolyngbya_sp._O-77_1row_1.fna
+mkdir nuc_BL0902_low_VS_O-77_1
+mv nuc_BL0902_low_VS_O-77_1.delta nuc_BL0902_low_VS_O-77_1
+cd nuc_BL0902_low_VS_O-77_1
+show-coords nuc_BL0902_low_VS_O-77_1.delta > nuc_BL0902_low_VS_O-77_1.coords
+mummerplot -l nuc_BL0902_low_VS_O-77_1.delta
+
+HIGH LAST 2A VS 2B:
+nucmer -p nuc_PKUAC-SCTA183_1row_2A_VS_PKUAC-SCTB121_2B Thermoleptolyngbya_sichuanensis_PKUAC-SCTA183_1row_2A.fna Thermoleptolyngbya_sp._PKUAC-SCTB121_1row_2B.fna
+mkdir nuc_PKUAC-SCTA183_1row_2A_VS_PKUAC-SCTB121_2B
+mv nuc_PKUAC-SCTA183_1row_2A_VS_PKUAC-SCTB121_2B.delta nuc_PKUAC-SCTA183_1row_2A_VS_PKUAC-SCTB121_2B
+cd nuc_PKUAC-SCTA183_1row_2A_VS_PKUAC-SCTB121_2B
+show-coords nuc_PKUAC-SCTA183_1row_2A_VS_PKUAC-SCTB121_2B.delta > nuc_PKUAC-SCTA183_1row_2A_VS_PKUAC-SCTB121_2B.coords
+mummerplot -l nuc_PKUAC-SCTA183_1row_2A_VS_PKUAC-SCTB121_2B.delta
+
+=======SYNECHOCOCCUS
+LOW VS HIGH(LAST):
+
+nucmer -p nuc_6312_low_VS_6715_last Synechococcus_sp._PCC_6312_1row_low.fna Synechococcus_lividus_PCC_6715_1row_last.fna
+mkdir nuc_6312_low_VS_6715_last
+mv nuc_6312_low_VS_6715_last.delta nuc_6312_low_VS_6715_last
+cd nuc_6312_low_VS_6715_last
+show-coords nuc_6312_low_VS_6715_last.delta > nuc_6312_low_VS_6715_last.coords
+mummerplot -l nuc_6312_low_VS_6715_last.delta
+
+LAST VS 1A:
+nucmer -p nuc_6715_last_VS_BP-1_1_A Synechococcus_lividus_PCC_6715_1row_last.fna Thermosynechococcus_vestitus_BP-1_1row_1_A.fna
+mkdir nuc_6715_last_VS_BP-1_1_A
+mv nuc_6715_last_VS_BP-1_1_A.delta nuc_6715_last_VS_BP-1_1_A
+cd nuc_6715_last_VS_BP-1_1_A
+show-coords nuc_6715_last_VS_BP-1_1_A.delta > nuc_6715_last_VS_BP-1_1_A.coords
+mummerplot -l nuc_6715_last_VS_BP-1_1_A.delta
+
+LAST VS 1B:
+nucmer -p nuc_6715_last_VS_2134_1B Synechococcus_lividus_PCC_6715_1row_last.fna Thermostichus_vulcanus_NIES-2134_1row_1B.fna
+mkdir nuc_6715_last_VS_2134_1B
+mv nuc_6715_last_VS_2134_1B.delta nuc_6715_last_VS_2134_1B
+cd nuc_6715_last_VS_2134_1B
+show-coords nuc_6715_last_VS_2134_1B.delta > nuc_6715_last_VS_2134_1B.coords
+mummerplot -l nuc_6715_last_VS_2134_1B.delta
+
+LAST VS 2:
+nucmer -p nuc_6715_last_VS_SCTE542_2 Synechococcus_lividus_PCC_6715_1row_last.fna Thermosynechococcus_elongatus_PKUAC-SCTE542_1row_2.fna
+mkdir nuc_6715_last_VS_SCTE542_2
+mv nuc_6715_last_VS_SCTE542_2.delta nuc_6715_last_VS_SCTE542_2
+cd nuc_6715_last_VS_SCTE542_2
+show-coords nuc_6715_last_VS_SCTE542_2.delta > nuc_6715_last_VS_SCTE542_2.coords
+mummerplot -l nuc_6715_last_VS_SCTE542_2.delta
+
+LAST VS 3A:
+nucmer -p nuc_6715_last_VS_CL-1_3A Synechococcus_lividus_PCC_6715_1row_last.fna Thermosynechococcus_sp._CL-1_1row_3A.fna
+mkdir nuc_6715_last_VS_CL-1_3A
+mv nuc_6715_last_VS_CL-1_3A.delta nuc_6715_last_VS_CL-1_3A
+cd nuc_6715_last_VS_CL-1_3A
+show-coords nuc_6715_last_VS_CL-1_3A.delta > nuc_6715_last_VS_CL-1_3A.coords
+mummerplot -l nuc_6715_last_VS_CL-1_3A.delta
+
+LAST VS 3B:
+nucmer -p nuc_6715_last_VS_TA-1_3B Synechococcus_lividus_PCC_6715_1row_last.fna Thermosynechococcus_sp._TA-1_1row_3B.fna
+mkdir nuc_6715_last_VS_TA-1_3B
+mv nuc_6715_last_VS_TA-1_3B.delta nuc_6715_last_VS_TA-1_3B
+cd nuc_6715_last_VS_TA-1_3B
+show-coords nuc_6715_last_VS_TA-1_3B.delta > nuc_6715_last_VS_TA-1_3B.coords
+mummerplot -l nuc_6715_last_VS_TA-1_3B.delta
+
+######################################################
+GSALIGN
+LOW's VS LAST
+mkdir nuc_4071_low_VS_4101_last
+GSAlign -r Calothrix_sp._NIES-4071_1row_low.fna -q Calothrix_sp._NIES-4101_1row_last.fna -dp -o nuc_4071_low_VS_4101_last/nuc_4071_low_VS_4101_last
+mv *.sa nuc_4071_low_VS_4101_last
+mv *.pac nuc_4071_low_VS_4101_last
+mv *.bwt nuc_4071_low_VS_4101_last
+mv *.ann nuc_4071_low_VS_4101_last
+mv *.amb nuc_4071_low_VS_4101_last
+mv GnuPlotPath nuc_4071_low_VS_4101_last
+
+
+mkdir nuc_7716_low_VS_4101_last
+GSAlign -r Calothrix_sp._PCC_7716_1row_low.fna -q Calothrix_sp._NIES-4101_1row_last.fna -dp -o nuc_7716_low_VS_4101_last/nuc_7716_low_VS_4101_last
+mv *.sa nuc_7716_low_VS_4101_last
+mv *.pac nuc_7716_low_VS_4101_last
+mv *.bwt nuc_7716_low_VS_4101_last
+mv *.ann nuc_7716_low_VS_4101_last
+mv *.amb nuc_7716_low_VS_4101_last
+mv GnuPlotPath nuc_7716_low_VS_4101_last
+
+
+LOW:***
+mkdir nuc_7716_low_VS_4071_low
+GSAlign -r Calothrix_sp._PCC_7716_1row_low.fna -q Calothrix_sp._NIES-4071_1row_low.fna -dp -o nuc_7716_low_VS_4071_low/nuc_7716_low_VS_4071_low
+mv *.sa nuc_7716_low_VS_4071_low
+mv *.pac nuc_7716_low_VS_4071_low
+mv *.bwt nuc_7716_low_VS_4071_low
+mv *.ann nuc_7716_low_VS_4071_low
+mv *.amb nuc_7716_low_VS_4071_low
+mv GnuPlotPath nuc_7716_low_VS_4071_low
+
+REV***
+mkdir nuc_4071_low_VS_VS7716_low
+GSAlign -r Calothrix_sp._NIES-4071_1row_low.fna -q Calothrix_sp._PCC_7716_1row_low.fna  -dp -o nuc_4071_low_VS_VS7716_low/nuc_4071_low_VS_VS7716_low
+mv *.sa nuc_4071_low_VS_VS7716_low
+mv *.pac nuc_4071_low_VS_VS7716_low
+mv *.bwt nuc_4071_low_VS_VS7716_low
+mv *.ann nuc_4071_low_VS_VS7716_low
+mv *.amb nuc_4071_low_VS_VS7716_low
+mv GnuPlotPath nuc_4071_low_VS_VS7716_low
+
+
+HIGH LAST 2:*
+nucmer -p nuc_4101_last_VS_6303_last2 Calothrix_sp._NIES-4101_1row_last.fna Calothrix_sp._PCC_6303_1row_last2.fna
+mkdir nuc_4101_last_VS_6303_last2
+mv nuc_4101_last_VS_6303_last2.delta nuc_4101_last_VS_6303_last2
+cd nuc_4101_last_VS_6303_last2
+show-coords nuc_4101_last_VS_6303_last2.delta > nuc_4101_last_VS_6303_last2.coords
+mummerplot -l nuc_4101_last_VS_6303_last2.delta
+
+HIGH LAST 3:
+nucmer -p nuc_4101_last_VS_3974_last3 Calothrix_sp._NIES-4101_1row_last.fna Calothrix_sp._NIES-3974_1row_last3.fna
+mkdir nuc_4101_last_VS_3974_last3
+mv nuc_4101_last_VS_3974_last3.delta nuc_4101_last_VS_3974_last3
+cd nuc_4101_last_VS_3974_last3
+show-coords nuc_4101_last_VS_3974_last3.delta > nuc_4101_last_VS_3974_last3.coords
+mummerplot -l nuc_4101_last_VS_3974_last3.delta
