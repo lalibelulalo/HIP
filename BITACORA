@@ -586,13 +586,10 @@ get_homologues.pl -d synechococcus_genomes_gbff/ -t 0 -M –n PPN
 5 de julio
 
 /HIP1/HIP_GETHOMOLOGUES/calothrix
-compare_clusters.pl -o pangenoma_calothrix -m -d Calothrixsp_f0_0taxa_algOMCL_e0_
+compare_clusters.pl -o pangenoma_calothrix -m -n -d Calothrixsp_f0_0taxa_algOMCL_e0_
 
 
-compare_clusters.pl -o calothrix_core_genoma –d Calothrixsp_f0_0taxa_algOMCL_e0_ -n -t 8
-compare_clusters.pl -o calothrix_core_genoma -n –d Calothrixsp_f0_0taxa_algOMCL_e0_ -t 8
-compare_clusters.pl -o calothrix_core_genoma -n -t 8 –d Calothrixsp_f0_0taxa_algOMCL_e0_
-compare_clusters.pl –d Calothrixsp_f0_0taxa_algOMCL_e0_ -o calothrix_core_genoma -n -t 8
+
 compare_clusters.pl -o calothrix_core_genoma -n -d Calothrixsp_f0_0taxa_algOMCL_e0_ **
 compare_clusters.pl -o calothrix_core_genoma -n -d Calothrixsp_f0_0taxa_algOMCL_e0_ -t 8 <---
 
@@ -647,6 +644,24 @@ sudo apt -y install libpng-dev
 
 sudo apt-get install libtiff5-dev
 
+install.packages("rlang")
+
+install.packages("ape")
+install.packages("kdetrees")
+
+install.packages("distory")
+install.packages("~/Downloads/kdetrees_0.1.5.tar.gz", repos = NULL, type = "source")
+
+
+
+run_get_phylomarkers_pipeline.sh -R 1 -t PROT -k 1.2 -m 0.7
+
+
+compare_clusters.pl -o pangenoma_calothrix -m -d Calothrixsp_f0_0taxa_algOMCL_e0_
+compare_clusters.pl -o pangenoma_calothrix -m -n -d Calothrixsp_f0_0taxa_algOMCL_e0_
+
+compare_clusters.pl -o calothrix_core_genoma_fna -n -d Calothrixsp_f0_0taxa_algOMCL_e0_ -t 8
+compare_clusters.pl -o calothrix_core_genoma -d Calothrixsp_f0_0taxa_algOMCL_e0_ -t 8
 
 
 
