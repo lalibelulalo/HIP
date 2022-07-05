@@ -637,3 +637,16 @@ sudo ldconfig <--
 
 
 
+sudo apt -y install libfontconfig1-dev
+
+sudo apt -y install libharfbuzz-dev
+sudo apt -y install libfribidi-dev
+
+sudo apt -y install libfreetype6-dev
+sudo apt -y install libpng-dev
+
+sudo apt-get install libtiff5-dev
+
+
+
+
