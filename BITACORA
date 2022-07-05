@@ -556,10 +556,84 @@ genoma núcleo que contiene solo los genes presentes en todos los genomas
 estudiados.
 
 /HIP1/HIP_GETHOMOLOGUES
+
 get_homologues.pl -d calothrix/ -t 0 -M –n PPN
+
+  -d  directorio con los arhivos de entrada (faa, fna, gbk)
+      1 por genoma, o subdirectorio (subdir.clusters/subdir_)
+      con secuencias preagrupadas (pre-clustered) (faa/fna);
+      permite que nuevos archivos sean agregados después;
+      crea una carpeta de salida llamada 'file_homologues'
+      (overrides -i,
+      use of pre-clustered sequences
+      ignores -c, -g)
+Opciones que controlan el clustering:
+  -t report sequence clusters including at least t taxa // t=0 reports all clusters [OMCL|COGS])
+
+Algorithms instead of default bidirectional best-hits (BDBH):
+  -M use orthoMCL algorithm (OMCL, PubMed=12952885)
+  
+Optional parameters:
+  -n nb of threads for BLAST/HMMER/MCL in 'local' runmode        (default=2)
+
 
 /HIP1/HIP_GETHOMOLOGUES/leptolyngbya
 get_homologues.pl -d leptolyngbya_genomes_gbff/ -t 0 -M –n PPN
 
 /HIP1/HIP_GETHOMOLOGUES/synechococcus
 get_homologues.pl -d synechococcus_genomes_gbff/ -t 0 -M –n PPN
+
+5 de julio
+
+/HIP1/HIP_GETHOMOLOGUES/calothrix
+compare_clusters.pl -o pangenoma_calothrix -m -d Calothrixsp_f0_0taxa_algOMCL_e0_
+
+
+compare_clusters.pl -o calothrix_core_genoma –d Calothrixsp_f0_0taxa_algOMCL_e0_ -n -t 8
+compare_clusters.pl -o calothrix_core_genoma -n –d Calothrixsp_f0_0taxa_algOMCL_e0_ -t 8
+compare_clusters.pl -o calothrix_core_genoma -n -t 8 –d Calothrixsp_f0_0taxa_algOMCL_e0_
+compare_clusters.pl –d Calothrixsp_f0_0taxa_algOMCL_e0_ -o calothrix_core_genoma -n -t 8
+compare_clusters.pl -o calothrix_core_genoma -n -d Calothrixsp_f0_0taxa_algOMCL_e0_ **
+compare_clusters.pl -o calothrix_core_genoma -n -d Calothrixsp_f0_0taxa_algOMCL_e0_ -t 8 <---
+
+
+
+
+7.4 years ago
+Alex Reynolds  34k
+If you want to avoid Homebrew for installing argtable, you can compile it directly:
+
+1. Install wget, if necessary:
+
+$ brew install wget
+2. Download source code for argtable:
+
+$ wget -qO- http://prdownloads.sourceforge.net/argtable/argtable2-13.tar.gz > argtable2-13.tar.gz
+...
+$ tar zxvf argtable2-13.tar.gz
+...
+3. Configure the build script, using /usr/local as the prefix:
+
+$ cd argtable2-13
+$ ./configure --prefix="/usr/local"
+4. Build and install:
+
+$ make
+...
+$ sudo make install
+5. Build and install clustalo per instructions in previous answer (pointing CFLAGS and LDFLAGS to /usr/local subdirectories)
+
+
+./configure --prefix=/home/biocomp/software/clustalw
+make
+make install
+
+clustalo: error while loading shared libraries: libargtable2.so.0: cannot open shared object file: No such file or directory
+sudo ldconfig <--
+
+
+
+
+
+
+
