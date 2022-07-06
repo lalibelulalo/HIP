@@ -653,6 +653,8 @@ install.packages("distory")
 install.packages("~/Downloads/kdetrees_0.1.5.tar.gz", repos = NULL, type = "source")
 
 
+ # 3. Protein alignments, user-defined kdetrees & mean branch support cut-off values
+ run_get_phylomarkers_pipeline.sh -R 1 -t PROT -k 1.2 -m 0.7
 
 run_get_phylomarkers_pipeline.sh -R 1 -t PROT -k 1.2 -m 0.7
 
@@ -662,6 +664,7 @@ compare_clusters.pl -o pangenoma_calothrix -m -n -d Calothrixsp_f0_0taxa_algOMCL
 
 compare_clusters.pl -o calothrix_core_genoma_fna -n -d Calothrixsp_f0_0taxa_algOMCL_e0_ -t 8
 compare_clusters.pl -o calothrix_core_genoma -d Calothrixsp_f0_0taxa_algOMCL_e0_ -t 8
+
 
 
 
