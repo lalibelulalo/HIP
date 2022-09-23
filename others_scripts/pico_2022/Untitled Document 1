@@ -1,0 +1,18 @@
+#!/usr/local/bin/perl
+use File::Copy;
+
+my $l = $ARGV[0];
+
+open (LAL, $l) or die ("No puedo abrir $l\n");
+	#open (KAR, ">taxonomy.names") or die ("No puedoabrir species.names\n");
+		while (my $line = <LAL>){
+			chomp ($line);
+			if ($line =~ /.+(Bacteria;).+ /){#	            Bacteria; Cyanobacteria; Synechococcales; Prochlorococcaceae;
+					$name=$1;
+					print ("$name\n");
+				}
+		#print KAR ("$line\n");
+		}
+	#close (KAR);
+close (LAL);
+

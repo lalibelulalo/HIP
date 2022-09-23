@@ -1,0 +1,7 @@
+GCF_002754935.1_ASM275493v1	Synechococcus_lividus_PCC_6715
+GCF_000316685.1_ASM31668v1	Synechococcus_sp._PCC_6312
+GCF_003990665.1_ASM399066v2	Thermostichus_vulcanus_NIES-2134_ANOM
+GCF_003555505.1_ASM355550v2	Thermosynechococcus_elongatus_PKUAC-SCTE542
+GCF_008386235.1_ASM838623v1	Thermosynechococcus_sp._CL-1
+GCF_017086385.1_ASM1708638v1	Thermosynechococcus_sp._TA-1
+GCF_000011345.1_ASM1134v1	Thermosynechococcus_vestitus_BP-1
