@@ -1,0 +1,157 @@
+"ID"	"Phylum"	"Type"	"Size"
+"Cyanobium_sp_CACIAM_14"	" Cyanobium"	"freshwater"	3212489
+"Synechococcus_sp_CB0205_CB0205_"	" Synechococcus"	"Brackish"	2427308
+"Synechococcus_sp_PCC_7002_PCC_7002_"	" Synechococcus"	"unspecified"	3498368
+"Synechococcus_sp_CC9311_CC9311_"	" Synechococcus"	"freshwater"	2606748
+"Synechococcus_elongatus_PCC_6301_PCC_6301_"	" Synechococcus"	"freshwater"	2749599
+"Candidatus_Synechococcus_spongiarum_LMB_bulk15N"	" Synechococcus"	"unspecified"	1472743
+"Candidatus_Synechococcus_spongiarum_LMB_bulk15M"	" Synechococcus"	"unspecified"	1500513
+"Synechococcus_sp_PCC_6312_PCC_6312_"	" Synechococcus"	"freshwater"	3720499
+"Synechococcus_sp_EJ6-Ellesmere_EJ6-Ellesmere_"	" Synechococcus"	"freshwater"	2892111
+"Synechococcus_sp_JJ3a-Johnson_JJ3a-Johnson_"	" Synechococcus"	"freshwater"	2848959
+"Cyanobium_sp_N5-Cardenillas_N5-Cardenillas_"	" Cyanobium"	"freshwater"	2592858
+"Cyanobium_sp_ATX_6A2_ATX_6A2_"	" Cyanobium"	"freshwater"	3005893
+"Cyanobium_sp_BA20m-p-22_BA20m-p-22_"	" Cyanobium"	"freshwater"	3148136
+"Cyanobium_sp_Cruz_CV13-4-11_Cruz_CV13-4-11_"	" Cyanobium"	"freshwater"	3414812
+"Cyanobium_sp_BA5m-21_BA5m-21_"	" Cyanobium"	"freshwater"	2583130
+"Synechococcus_sp_RedBA-s_RedBA-s_"	" Synechococcus"	"freshwater"	2716594
+"Cyanobium_sp_Alchichica_3B3-8F6_Alchichica_3B3-8F6_"	" Cyanobium"	"freshwater"	2480576
+"Cyanobium_sp_T1B-Tous_T1B-Tous_"	" Cyanobium"	"freshwater"	2712772
+"Synechococcus_lacustris_L1F-Slac_L1F-Slac_"	" Synechococcus"	"freshwater"	2233108
+"Cyanobium_sp_BA5m-10_BA5m-10_"	" Cyanobium"	"freshwater"	2866169
+"Synechococcus_lacustris_L1E-Slac_L1E-Slac_"	" Synechococcus"	"freshwater"	2260992
+"Synechococcus_sp_L2F"	" Synechococcus"	"freshwater"	3037934
+"Cyanobium_sp_CH-040_CH-040_"	" Cyanobium"	"freshwater"	2900923
+"Cyanobium_sp_BA20m-14_BA20m-14_"	" Cyanobium"	"freshwater"	2778589
+"Vulcanococcus_limneticus_Candia_3F8_Candia_3F8_"	" Vulcanococcus"	"freshwater"	3496329
+"Cyanobium_sp_Morenito_9A2_Morenito_9A2_"	" Cyanobium"	"freshwater"	3103610
+"Synechococcus_sp_Cruz-7E5_Cruz-7E5_"	" Synechococcus"	"freshwater"	3155391
+"Cyanobium_sp_Tous-M-B4_Tous-M-B4_"	" Cyanobium"	"freshwater"	2743075
+"Cyanobium_sp_T1G-Tous_T1G-Tous_"	" Cyanobium"	"freshwater"	2780711
+"Synechococcus_lacustris_Maggiore-St4-Slac_Maggiore-St4-Slac_"	" Synechococcus"	"freshwater"	2296351
+"Cyanobium_sp_L1E-Cus_L1E-Cus_"	" Cyanobium"	"freshwater"	2601668
+"Synechococcus_sp_HJ21-Hayes_HJ21-Hayes_"	" Synechococcus"	"freshwater"	2936087
+"Cyanobium_sp_ATX_6F1_ATX_6F1_"	" Cyanobium"	"freshwater"	2964692
+"Cyanobium_sp_Maggiore-St4-Cus_Maggiore-St4-Cus_"	" Cyanobium"	"freshwater"	2757080
+"Cyanobium_sp_Aljojuca_7D2_Aljojuca_7D2_"	" Cyanobium"	"freshwater"	2537363
+"Synechococcus_sp_GreenBA-s_GreenBA-s_"	" Synechococcus"	"freshwater"	2852592
+"Synechococcus_sp_Cruz_CV-v-12_Cruz_CV-v-12_"	" Synechococcus"	"freshwater"	3022307
+"Cyanobium_sp_Aljojuca_7A6_Aljojuca_7A6_"	" Cyanobium"	"freshwater"	3131121
+"Cyanobium_sp_La_Preciosa_7G6_La_Preciosa_7G6_"	" Cyanobium"	"freshwater"	3130083
+"Cyanobium_sp_A1C-AMD_A1C-AMD_"	" Cyanobium"	"freshwater"	2464954
+"Cyanobium_sp_Cruz-8D1_Cruz-8D1_"	" Cyanobium"	"freshwater"	3965486
+"Synechococcus_sp_ATX_2A4_ATX_2A4_"	" Synechococcus"	"freshwater"	2920482
+"Cyanobium_sp_HWJ4-Hawea_HWJ4-Hawea_"	" Cyanobium"	"freshwater"	2350250
+"Cyanobium_sp_ATX_6E8_ATX_6E8_"	" Cyanobium"	"freshwater"	2621355
+"Cyanobium_sp_A2C-AMD_A2C-AMD_"	" Cyanobium"	"freshwater"	3014533
+"Synechococcus_lacustris_C3-12m-Tous_C3-12m-Tous_"	" Synechococcus"	"freshwater"	2569458
+"Synechococcus_elongatus_PCC_7942_=_FACHB-805_FACHB-805_"	" Synechococcus"	"freshwater"	2743371
+"Cyanobium_sp_Cruz_CV11-17"	" Cyanobium"	"freshwater"	3421842
+"Synechococcus_sp_Edmonson_11F2_Edmonson_11F2_"	" Synechococcus"	"freshwater"	3150148
+"Synechococcus_sp_Cruz_CV12-2-Slac-r_Cruz_CV12-2-Slac-r_"	" Synechococcus"	"freshwater"	1910488
+"Cyanobium_sp_WAJ14-Wanaka_WAJ14-Wanaka_"	" Cyanobium"	"freshwater"	2144642
+"Synechococcus_sp_Cruz-7B9_Cruz-7B9_"	" Synechococcus"	"freshwater"	3155662
+"Synechococcus_sp_Tobar12-5m-g_Tobar12-5m-g_"	" Synechococcus"	"freshwater"	2951029
+"Vulcanococcus_limneticus_MW73D5_MW73D5_"	" Vulcanococcus"	"freshwater"	3446141
+"Cyanobium_sp_AMD-g"	" Cyanobium"	"freshwater"	3121205
+"Cyanobium_sp_WKJ7-Wakatipu_WKJ7-Wakatipu_"	" Cyanobium"	"freshwater"	2810613
+"Vulcanococcus_limneticus_Candia_3B3_Candia_3B3_"	" Vulcanococcus"	"freshwater"	3444893
+"Synechococcus_sp_J7-Johnson_J7-Johnson_"	" Synechococcus"	"freshwater"	2995359
+"Synechococcus_lacustris_Cruz_CV12-2_Cruz_CV12-2_"	" Synechococcus"	"freshwater"	1962093
+"Cyanobium_sp_Lug-B"	" Cyanobium"	"freshwater"	3181767
+"Cyanobium_sp_Cruz-8H5_Cruz-8H5_"	" Cyanobium"	"freshwater"	3948278
+"Cyanobium_sp_N_Huapi_1H5_N_Huapi_1H5_"	" Cyanobium"	"freshwater"	3137012
+"Synechococcus_sp_Cruz-9H2_Cruz-9H2_"	" Synechococcus"	"freshwater"	3155699
+"Synechococcus_sp_Lug-A"	" Synechococcus"	"freshwater"	3010822
+"Synechococcus_sp_Cruz-9C9_Cruz-9C9_"	" Synechococcus"	"freshwater"	3152229
+"Cyanobium_sp_Cruz_CV11-17_Cruz_CV11-17_"	" Cyanobium"	"freshwater"	3421842
+"Cyanobium_sp_Candia_9D4_Candia_9D4_"	" Cyanobium"	"freshwater"	3220566
+"Cyanobium_usitatum_str_Tous_Tous_"	" Cyanobium"	"freshwater"	2515215
+"Synechococcus_lacustris_str_Tous"	" Synechococcus"	"freshwater"	2668880
+"Synechococcus_sp_GFB01"	" Synechococcus"	"freshwater"	2339812
+"Synechococcus_sp_BS56D_BS56D_"	" Synechococcus"	"Brackish"	2303823
+"Synechococcus_sp_BS55D_BS55D_"	" Synechococcus"	"Brackish"	2235215
+"Synechococcus_sp_WH_8101_WH_8101_"	" Synechococcus"	"Brackish"	2623023
+"Synechococcus_sp_BMK-MC-1"	" Synechococcus"	"marine environment"	2601150
+"Synechococcus_sp_A15-62_A15-62_"	" Synechococcus"	"marine environment"	2294140
+"Synechococcus_sp_ROS8604"	" Synechococcus"	"marine environment"	2876904
+"Synechococcus_sp_RS9915"	" Synechococcus"	"marine environment"	2417983
+"Synechococcus_sp_MIT_S9220_MIT_S9220_"	" Synechococcus"	"marine environment"	2424175
+"Synechococcus_sp_BIOS-U3-1"	" Synechococcus"	"marine environment"	2710834
+"Synechococcus_sp_A15-24"	" Synechococcus"	"marine environment"	2305373
+"Synechococcus_sp_PROS-U-1"	" Synechococcus"	"marine environment"	2576003
+"Synechococcus_sp_RS9909_RS9909_"	" Synechococcus"	"Brackish"	2603169
+"Synechococcus_sp_MVIR-18-1"	" Synechococcus"	"marine environment"	2451974
+"Cyanobium_sp_NS01_NS01_"	" Cyanobium"	"Brackish"	2748087
+"Synechococcus_sp_RS9902_RS9902_"	" Synechococcus"	"marine environment"	2481217
+"Synechococcus_sp_PROS-9-1"	" Synechococcus"	"marine environment"	2273940
+"Synechococcus_sp_BOUM118"	" Synechococcus"	"marine environment"	2326334
+"Synechococcus_sp_SYN20_SYN20_"	" Synechococcus"	"marine environment"	2728628
+"Synechococcus_sp_NOUM97013"	" Synechococcus"	"marine environment"	2552712
+"Synechococcus_sp_M16_1"	" Synechococcus"	"marine environment"	2112236
+"Synechococcus_sp_A18-40"	" Synechococcus"	"marine environment"	2401547
+"Synechococcus_sp_MEDNS5"	" Synechococcus"	"marine environment"	2435869
+"Synechococcus_sp_A15-127_A15-127_"	" Synechococcus"	"marine environment"	2543463
+"Synechococcus_sp_A18-46_1"	" Synechococcus"	"marine environment"	2471770
+"Synechococcus_sp_A15-60_A15-60_"	" Synechococcus"	"marine environment"	2543402
+"Synechococcus_sp_A18-25c"	" Synechococcus"	"marine environment"	2511360
+"Synechococcus_sp_RS9907_RS9907_"	" Synechococcus"	"marine environment"	2581635
+"Synechococcus_sp_A15-44_A15-44_"	" Synechococcus"	"marine environment"	2621965
+"Synechococcus_sp_BIOS-E4-1"	" Synechococcus"	"marine environment"	3314220
+"Synechococcus_sp_A15-28"	" Synechococcus"	"marine environment"	2341586
+"Synechococcus_sp_Minos11_MINOS11_"	" Synechococcus"	"marine environment"	2284343
+"Synechococcus_sp_TAK9802"	" Synechococcus"	"marine environment"	2190394
+"Synechococcus_sp_PROS-7-1"	" Synechococcus"	"marine environment"	2565218
+"Synechococcus_sp_BSA11S_BSA11S_"	" Synechococcus"	"Brackish"	2883234
+"Synechococcus_sp_BSF8S_BSF8S_"	" Synechococcus"	"Brackish"	2884859
+"Synechococcus_sp_CC9616_CC9616_"	" Synechococcus"	"unspecified"	2645910
+"Synechococcus_sp_MIT_S9509"	" Synechococcus"	"marine environment"	3087928
+"Synechococcus_sp_MIT_S9504"	" Synechococcus"	"marine environment"	3087293
+"Synechococcus_sp_MIT_S9508"	" Synechococcus"	"marine environment"	2502434
+"Candidatus_Synechococcus_spongiarum_SP3"	" Synechococcus"	"marine environment"	2129964
+"Candidatus_Synechococcus_spongiarum_142"	" Synechococcus"	"marine environment"	2271413
+"Candidatus_Synechococcus_spongiarum_15L"	" Synechococcus"	"marine environment"	2209101
+"Synechococcus_sp_PCC_7336_PCC_7336_"	" Synechococcus"	"marine environment"	5066637
+"Synechococcus_sp_KORDI-100_KORDI_100_"	" Synechococcus"	"marine environment"	2789000
+"Synechococcus_sp_KORDI-52_KORDI_52_"	" Synechococcus"	"marine environment"	2572069
+"Synechococcus_sp_LTW-R_LTW-R_"	" Synechococcus"	"Brackish"	2415533
+"Synechococcus_sp_HK01-R_HK01-R_"	" Synechococcus"	"Brackish"	2479254
+"Synechococcus_sp_KORDI-49_KORDI_49_"	" Synechococcus"	"marine environment"	2585813
+"Synechococcus_sp_PCC_7502_PCC_7502_"	" Synechococcus"	"freshwater"	3583735
+"Candidatus_Synechococcus_spongiarum_SH4"	" Synechococcus"	"marine environment"	1658709
+"Synechococcus_sp_JA-3-3Ab_JA-3-3Ab_"	" Synechococcus"	"freshwater"	2932766
+"Synechococcus_sp_CB0101_CB0101_"	" Synechococcus"	"Brackish"	2789647
+"Cyanobium_sp_NIES-981"	" Cyanobium"	"Brackish"	3021545
+"Synechococcus_sp_BL107_BL107_"	" Synechococcus"	"marine environment"	2285034
+"Synechococcus_sp_PCC_7117_PCC_7117_"	" Synechococcus"	"unspecified"	3432101
+"Synechococcus_sp_WH_7805_WH_7805_"	" Synechococcus"	"marine environment"	2627046
+"Prochlorococcus_marinus_str_AS9601_AS9601_"	" Prochlorococcus"	"marine environment"	1669886
+"Synechococcus_sp_CC9605_CC9605_"	" Synechococcus"	"marine environment"	2510659
+"Synechococcus_sp_PCC_73109_PCC_73109_"	" Synechococcus"	"unspecified"	3298676
+"Synechococcus_sp_RCC307"	" Synechococcus"	"marine environment"	2224914
+"Synechococcus_sp_RS9916_RS9916_"	" Synechococcus"	"marine environment"	2664873
+"Synechococcus_sp_PCC_7003_PCC_7003_"	" Synechococcus"	"unspecified"	3345085
+"Synechococcus_sp_WH_5701_WH_5701_"	" Synechococcus"	"Brackish"	3280236
+"Synechococcus_sp_NKBG042902_NKBG042902_"	" Synechococcus"	"unspecified"	3319479
+"Synechococcus_sp_OG1"	" Synechococcus"	"unspecified"	3433936
+"Cyanobium_sp_PCC_7001_PCC_7001_"	" Cyanobium"	"Brackish"	2834252
+"Prochlorococcus_marinus_str_MIT_9215_MIT_9215_"	" Prochlorococcus"	"marine environment"	1738790
+"Synechococcus_sp_RS9917_RS9917_RCC556"	" Synechococcus"	"Brackish"	2584918
+"Synechococcus_elongatus_UTEX_2973_UTEX_2973_"	" Synechococcus"	"marine environment"	2744626
+"Parasynechococcus_marenigrum_WH_8102_WH_8102_"	" Parasynechococcus"	"marine environment"	2434428
+"Prochlorococcus_marinus_str_NATL1A_NATL1A_"	" Prochlorococcus"	"unspecified"	1864731
+"Synechococcus_sp_WH_7803"	" Synechococcus"	"marine environment"	2366980
+"Prochlorococcus_marinus_subsp_pastoris_str_CCMP1986_MED4_"	" Prochlorococcus"	"unspecified"	1657990
+"Prochlorococcus_marinus_str_MIT_9312_MIT_9312_"	" Prochlorococcus"	"unspecified"	1709204
+"Synechococcus_sp_CC9902_CC9902_"	" Synechococcus"	"marine environment"	2234828
+"Synechococcus_sp_PCC_8807_PCC_8807_"	" Synechococcus"	"unspecified"	3304088
+"Prochlorococcus_marinus_str_NATL2A_NATL2A_"	" Prochlorococcus"	"unspecified"	1842899
+"Synechococcus_sp_8F6_8F6_"	" Synechococcus"	"freshwater"	2510697
+"Synechococcus_sp_SynAce01"	" Synechococcus"	"Brackish"	2750634
+"Synechococcus_sp_MW101C3_MW101C3_"	" Synechococcus"	"freshwater"	3029138
+"Synechococcus_sp_1G10_1G10_"	" Synechococcus"	"freshwater"	3340220
+"Candidatus_Synechococcus_spongiarum"	" Synechococcus"	"unspecified"	1409475
+"Synechococcus_sp_WH_8103"	" Synechococcus"	"marine environment"	2429688
+"Vulcanococcus_limneticus_LL_LL_"	" Vulcanococcus"	"freshwater"	3548884
+"Cyanobium_gracile_PCC_6307_PCC_6307_"	" Cyanobium"	"freshwater"	3342364
+"Synechococcus_sp_WH_8016_WH_8016_"	" Synechococcus"	"marine environment"	2694843
