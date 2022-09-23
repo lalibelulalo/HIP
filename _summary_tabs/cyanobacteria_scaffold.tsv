@@ -1,0 +1,1013 @@
+Assembly Accession	Organism Name	Organism Infraspecific Names Breed	Organism Infraspecific Names Strain	Organism Infraspecific Names Cultivar	Organism Infraspecific Names Isolate	Organism Infraspecific Names Ecotype	Annotation Name	Assembly Stats Total Sequence Length	Assembly Level	Assembly Submission Date	WGS project accession
+GCA_012030735.1	Acaryochloridaceae cyanobacterium SU_2_1				SU_2_1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3021098	Scaffold	2020-04-05	JAAUUW01
+GCA_012030725.1	Acaryochloris sp. SU_5_25				SU_5_25		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2424938	Scaffold	2020-04-05	JAAUVC01
+GCF_003231495.1	Acaryochloris thomasi RCC1774		RCC1774				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5931841	Scaffold	2018-06-15	PQWO01
+GCA_003231495.1	Acaryochloris thomasi RCC1774		RCC1774				Annotation submitted by Station Biologique de Roscoff, CNRS and Sorbonne Universite	5931841	Scaffold	2018-06-15	PQWO01
+GCF_011009555.1	Adonisia turfae CCMR0081		CCMR0081				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8660379	Scaffold	2020-02-25	QXHD01
+GCA_011009555.1	Adonisia turfae CCMR0081		CCMR0081				NCBI Prokaryotic Genome Annotation Pipeline	8660379	Scaffold	2020-02-25	QXHD01
+GCF_011009535.1	Adonisia turfae CCMR0082		CCMR0082				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8890835	Scaffold	2020-02-25	QZCE01
+GCA_011009535.1	Adonisia turfae CCMR0082		CCMR0082				NCBI Prokaryotic Genome Annotation Pipeline	8890835	Scaffold	2020-02-25	QZCE01
+GCF_017591665.1	Aetokthonos hydrillicola CCALA 1050		CCALA 1050				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9019084	Scaffold	2021-03-26	JAAKGC01
+GCA_017591665.1	Aetokthonos hydrillicola CCALA 1050		CCALA 1050				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9019084	Scaffold	2021-03-26	JAAKGC01
+GCF_017591595.1	Aetokthonos hydrillicola Thurmond2011		Thurmond2011				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8262029	Scaffold	2021-03-26	JAALHA01
+GCA_017591595.1	Aetokthonos hydrillicola Thurmond2011		Thurmond2011				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8262029	Scaffold	2021-03-26	JAALHA01
+GCF_016056305.1	Amazonocrinis nigriterrae CENA67		CENA67				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8256472	Scaffold	2020-12-15	JAECZC01
+GCA_016056305.1	Amazonocrinis nigriterrae CENA67		CENA67				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8256472	Scaffold	2020-12-15	JAECZC01
+GCF_001597745.1	Anabaena sp. 4-3		4-3				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5603767	Scaffold	2016-03-25	LUHJ01
+GCA_001597745.1	Anabaena sp. 4-3		4-3					5603767	Scaffold	2016-03-25	LUHJ01
+GCA_021300315.1	Anabaena sp. 49628_E55				49628_E55		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4873444	Scaffold	2021-12-27	JAJTDY01
+GCA_021300225.1	Anabaena sp. 49633_E8				49633_E8		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8566965	Scaffold	2021-12-27	JAJTDN01
+GCA_001672255.1	Anabaena sp. AL09				39864		NCBI Prokaryotic Genome Annotation Pipeline	4657189	Scaffold	2016-06-20	LJOQ01
+GCF_001597855.1	Anabaena sp. CA = ATCC 33047		ATCC 33047				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5557908	Scaffold	2016-03-25	LUHI01
+GCA_001597855.1	Anabaena sp. CA = ATCC 33047		ATCC 33047					5557908	Scaffold	2016-03-25	LUHI01
+GCF_019800585.1	Anabaena sp. CCAP 1446/1C		CCAP 1446/1C				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6756227	Scaffold	2021-08-30	JAAMUW01
+GCF_019800605.1	Anabaena sp. CCAP 1446/1C		CCAP 1446/1C				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6761576	Scaffold	2021-08-30	JAAMUX01
+GCA_019800585.1	Anabaena sp. CCAP 1446/1C		CCAP 1446/1C				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6756227	Scaffold	2021-08-30	JAAMUW01
+GCA_019800605.1	Anabaena sp. CCAP 1446/1C		CCAP 1446/1C				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6761576	Scaffold	2021-08-30	JAAMUX01
+GCA_001672225.1	Anabaena sp. LE011-02				39865		NCBI Prokaryotic Genome Annotation Pipeline	4740750	Scaffold	2016-06-20	LJOP01
+GCF_000332135.1	Anabaena sp. PCC 7108		PCC 7108				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5886741	Scaffold	2013-01-22	AJWF01
+GCA_000332135.1	Anabaena sp. PCC 7108		PCC 7108					5886741	Scaffold	2013-01-22	AJWF01
+GCA_003525565.1	Anabaena sp. UBA12330				UBA12330		NCBI Prokaryotic Genome Annotation Pipeline	4285598	Scaffold	2018-09-10	DQEB01
+GCF_009712035.1	Anabaena sp. UHCC 0187		UHCC 0187				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5097467	Scaffold	2019-11-27	VILB01
+GCA_009712035.1	Anabaena sp. UHCC 0187		UHCC 0187				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5097467	Scaffold	2019-11-27	VILB01
+GCF_009711975.1	Anabaena sp. UHCC 0204		UHCC 0204				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5744555	Scaffold	2019-11-27	VIKW01
+GCA_009711975.1	Anabaena sp. UHCC 0204		UHCC 0204				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5744555	Scaffold	2019-11-27	VIKW01
+GCF_009712085.1	Anabaena sp. UHCC 0253		UHCC 0253				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6116306	Scaffold	2019-11-27	VILD01
+GCA_009712085.1	Anabaena sp. UHCC 0253		UHCC 0253				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6116306	Scaffold	2019-11-27	VILD01
+GCA_014654815.1	Aphanizomenon flos-aquae Clear-A1				Clear-A1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4442226	Scaffold	2020-09-18	JACVZZ01
+GCF_000521175.1	Aphanizomenon flos-aquae NIES-81		NIES-81				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5851275	Scaffold	2014-01-16	AZYY01
+GCA_000521175.1	Aphanizomenon flos-aquae NIES-81		NIES-81					5851275	Scaffold	2014-01-16	AZYY01
+GCF_009712065.1	Aphanizomenon sp. UHCC 0183		UHCC 0183				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5579684	Scaffold	2019-11-27	VILC01
+GCA_009712065.1	Aphanizomenon sp. UHCC 0183		UHCC 0183				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5579684	Scaffold	2019-11-27	VILC01
+GCA_004768385.1	Aphanocapsa feldmannii 277cI				277cI		NCBI Prokaryotic Genome Annotation Pipeline	1919960	Scaffold	2019-04-09	SRMN01
+GCA_004768415.1	Aphanocapsa feldmannii 277cV				277cV		NCBI Prokaryotic Genome Annotation Pipeline	2549273	Scaffold	2019-04-09	SRMO01
+GCA_004768435.1	Aphanocapsa feldmannii 288cV				288cV		NCBI Prokaryotic Genome Annotation Pipeline	2226807	Scaffold	2019-04-09	SRMM01
+GCF_023333585.1	Argonema antarcticum A004/B2		A004/B2				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7745032	Scaffold	2022-05-11	JAIQZN01
+GCA_023333585.1	Argonema antarcticum A004/B2		A004/B2				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7745032	Scaffold	2022-05-11	JAIQZN01
+GCF_023333595.1	Argonema galeatum A003/A1		A003/A1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6929784	Scaffold	2022-05-11	JAIQZM01
+GCA_023333595.1	Argonema galeatum A003/A1		A003/A1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6929784	Scaffold	2022-05-11	JAIQZM01
+GCF_016056295.1	Atlanticothrix silvestris CENA357		CENA357				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6527020	Scaffold	2020-12-15	JAECZB01
+GCA_016056295.1	Atlanticothrix silvestris CENA357		CENA357				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6527020	Scaffold	2020-12-15	JAECZB01
+GCF_000332355.1	Baaleninema simplex PCC 7105		PCC 7105				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6152351	Scaffold	2013-01-22	ANFQ01
+GCA_000332355.1	Baaleninema simplex PCC 7105		PCC 7105					6152351	Scaffold	2013-01-22	ANFQ01
+GCF_012912135.1	Brasilonema bromeliae SPC951		SPC951				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6257395	Scaffold	2020-04-27	QMEB01
+GCA_012912135.1	Brasilonema bromeliae SPC951		SPC951				NCBI Prokaryotic Genome Annotation Pipeline	6257395	Scaffold	2020-04-27	QMEB01
+GCF_012912125.1	Brasilonema octagenarum UFV-OR1		UFV-OR1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8051403	Scaffold	2020-04-27	QMEC01
+GCA_012912125.1	Brasilonema octagenarum UFV-OR1		UFV-OR1				NCBI Prokaryotic Genome Annotation Pipeline	8051403	Scaffold	2020-04-27	QMEC01
+GCF_017982655.1	Brasilonema sp. CT11		CT11				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8789847	Scaffold	2021-04-15	JABXYX01
+GCA_017982655.1	Brasilonema sp. CT11		CT11				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8789847	Scaffold	2021-04-15	JABXYX01
+GCF_012912105.1	Brasilonema sp. UFV-L1		UFV-L1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8310715	Scaffold	2020-04-27	QMEA01
+GCA_012912105.1	Brasilonema sp. UFV-L1		UFV-L1				NCBI Prokaryotic Genome Annotation Pipeline	8310715	Scaffold	2020-04-27	QMEA01
+GCA_010672185.1	Caldora sp. SIO3E6				SIO3E6		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8993956	Scaffold	2020-02-16	JAAHHL01
+GCF_007830875.1	Calothrix desertica PCC 7102		PCC 7102				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	11416284	Scaffold	2019-08-02	VLKB01
+GCF_003991905.1	Calothrix desertica PCC 7102		PCC 7102				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	11421054	Scaffold	2019-01-04	RSCL01
+GCA_003991905.1	Calothrix desertica PCC 7102		PCC 7102				Annotation submitted by Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures	11421054	Scaffold	2019-01-04	RSCL01
+GCA_007830875.1	Calothrix desertica PCC 7102		PCC 7102				Annotation submitted by DOE Joint Genome Institute	11416284	Scaffold	2019-08-02	VLKB01
+GCF_002289455.1	Calothrix elsteri CCALA 953		CCALA 953				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7006470	Scaffold	2017-09-11	NTFS01
+GCA_002289455.1	Calothrix elsteri CCALA 953		CCALA 953				NCBI Prokaryotic Genome Annotation Pipeline	7006470	Scaffold	2017-09-11	NTFS01
+GCF_001904745.1	Calothrix sp. HK-06		HK-06				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9990453	Scaffold	2016-12-14	MRCD01
+GCA_001904745.1	Calothrix sp. HK-06		HK-06				NCBI Prokaryotic Genome Annotation Pipeline	9990453	Scaffold	2016-12-14	MRCD01
+GCF_000331305.1	Calothrix sp. PCC 7103		PCC 7103				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	11584393	Scaffold	2013-01-11	ALVJ01
+GCA_000331305.1	Calothrix sp. PCC 7103		PCC 7103					11584393	Scaffold	2013-01-11	ALVJ01
+GCA_022450625.1	Candidatus Atelocyanobacterium sp. ALOHA_A2.5_9				ALOHA_A2.5_9		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1489669	Scaffold	2022-03-02	JAKUPS01
+GCA_014323965.1	Candidatus Paraprochloron terpiosi SP5CPC1				SP5CPC1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2787143	Scaffold	2020-08-28	JACONB01
+GCA_001007625.1	Candidatus Synechococcus spongiarum 142				142		NCBI Prokaryotic Genome Annotation Pipeline	2271413	Scaffold	2015-05-14	JXUO01
+GCF_001007635.1	Candidatus Synechococcus spongiarum 15L				15L			2209101	Scaffold	2015-05-14	JYFQ01
+GCA_001007635.1	Candidatus Synechococcus spongiarum 15L				15L		NCBI Prokaryotic Genome Annotation Pipeline	2209101	Scaffold	2015-05-14	JYFQ01
+GCA_002017915.1	Candidatus Synechococcus spongiarum LMB bulk10D				LMB bulk10D		NCBI Prokaryotic Genome Annotation Pipeline	565311	Scaffold	2017-03-03	MWLG01
+GCA_002017955.1	Candidatus Synechococcus spongiarum LMB bulk10E				LMB bulk10E		NCBI Prokaryotic Genome Annotation Pipeline	455454	Scaffold	2017-03-03	MWLF01
+GCA_002018045.1	Candidatus Synechococcus spongiarum LMB bulk15M				LMB bulk15M		NCBI Prokaryotic Genome Annotation Pipeline	1500513	Scaffold	2017-03-03	MWLD01
+GCF_002018015.1	Candidatus Synechococcus spongiarum LMB bulk15N				LMB bulk15N		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1472743	Scaffold	2017-03-03	MWLE01
+GCA_002018015.1	Candidatus Synechococcus spongiarum LMB bulk15N				LMB bulk15N		NCBI Prokaryotic Genome Annotation Pipeline	1472743	Scaffold	2017-03-03	MWLE01
+GCF_003003885.1	Chlorogloea sp. CCALA 695		CCALA 695				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5226129	Scaffold	2018-03-15	PVWN01
+GCA_003003885.1	Chlorogloea sp. CCALA 695		CCALA 695				NCBI Prokaryotic Genome Annotation Pipeline	5226129	Scaffold	2018-03-15	PVWN01
+GCF_003990575.1	Chlorogloeopsis fritschii PCC 6912		PCC 6912				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7768833	Scaffold	2019-01-02	RSCJ01
+GCA_003990575.1	Chlorogloeopsis fritschii PCC 6912		PCC 6912				Annotation submitted by Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures	7768833	Scaffold	2019-01-02	RSCJ01
+GCF_003003835.1	Chroococcidiopsis cubana CCALA 043		CCALA 043				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7571187	Scaffold	2018-03-15	PVWM01
+GCA_003003835.1	Chroococcidiopsis cubana CCALA 043		CCALA 043				NCBI Prokaryotic Genome Annotation Pipeline	7571187	Scaffold	2018-03-15	PVWM01
+GCF_003991895.1	Chroococcidiopsis cubana SAG 39.79		SAG 39.79				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8099003	Scaffold	2019-01-04	RSCK01
+GCA_003991895.1	Chroococcidiopsis cubana SAG 39.79		SAG 39.79				Annotation submitted by Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures	8099003	Scaffold	2019-01-04	RSCK01
+GCF_000155555.1	Coleofasciculus chthonoplastes PCC 7420		PCC 7420				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8679041	Scaffold	2008-08-15	ABRS01
+GCA_000155555.1	Coleofasciculus chthonoplastes PCC 7420		PCC 7420				Annotation submitted by The Gordon and Betty Moore Foundation Microbial Genome Sequencing Project	8679041	Scaffold	2008-08-15	ABRS01
+GCA_013215395.1	Crocosphaera sp.				DT_26		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5143682	Scaffold	2020-06-02	JABSPE01
+GCA_022448125.1	Crocosphaera sp.				ALOHA_ZT_9		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5559087	Scaffold	2022-03-02	JAKVAT01
+GCF_000167195.1	Crocosphaera watsonii WH 8501		WH 8501				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6238156	Scaffold	2005-06-16	AADV02
+GCA_000167195.1	Crocosphaera watsonii WH 8501		WH 8501				Annotation submitted by DOE Joint Genome Institute	6238156	Scaffold	2005-06-16	AADV02
+GCF_002934005.1	Cuspidothrix issatschenkoi CHARLIE-1		CHARLIE-1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4547138	Scaffold	2018-02-21	PGEM01
+GCA_002934005.1	Cuspidothrix issatschenkoi CHARLIE-1		CHARLIE-1				NCBI Prokaryotic Genome Annotation Pipeline	4547138	Scaffold	2018-02-21	PGEM01
+GCA_022402445.1	Cyanobacteria bacterium				MS008		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4077419	Scaffold	2022-02-27	JAKRSF01
+GCA_023380855.1	Cyanobacteria bacterium				FK_Sedi_A_Bin.218		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2149426	Scaffold	2022-05-16	JAMCSH01
+GCA_025054735.1	Cyanobacteria bacterium				SKYG9		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3997674	Scaffold	2022-09-07	JANWZG01
+GCA_001919945.1	Cyanobacteria bacterium 13_1_20CM_4_61_6						NCBI Prokaryotic Genome Annotation Pipeline	4139239	Scaffold	2016-12-23	MNIV01
+GCA_001919235.1	Cyanobacteria bacterium 13_1_40CM_2_61_4						NCBI Prokaryotic Genome Annotation Pipeline	8509314	Scaffold	2016-12-23	MNHI01
+GCA_009995505.1	Cyanobacteria bacterium CG_2015-02_32_10				CG_2015-02_32_10		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3149669	Scaffold	2020-01-29	JAACPM01
+GCA_009994695.1	Cyanobacteria bacterium CG_2015-04_32_10				CG_2015-04_32_10		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3303173	Scaffold	2020-01-29	JAACQX01
+GCA_009993925.1	Cyanobacteria bacterium CG_2015-09_32_10				CG_2015-09_32_10		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3305063	Scaffold	2020-01-29	JAACSJ01
+GCA_009993545.1	Cyanobacteria bacterium CG_2015-16_32_12				CG_2015-16_32_12		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3346745	Scaffold	2020-01-29	JAACTD01
+GCA_009993045.1	Cyanobacteria bacterium CG_2015-22_32_23				CG_2015-22_32_23		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3272695	Scaffold	2020-01-29	JAACUG01
+GCA_008363215.1	Cyanobacteria bacterium CYA				CYA		NCBI Prokaryotic Genome Annotation Pipeline	3573946	Scaffold	2019-09-09	RHKP01
+GCA_020431955.1	Cyanobacteria bacterium HKST-UBA01				HKST-UBA01		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5948731	Scaffold	2021-10-12	JAGQHG01
+GCA_020431945.1	Cyanobacteria bacterium HKST-UBA02				HKST-UBA02		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6319048	Scaffold	2021-10-12	JAGQHH01
+GCA_020431895.1	Cyanobacteria bacterium HKST-UBA03				HKST-UBA03		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2762513	Scaffold	2021-10-12	JAGQHI01
+GCA_020431885.1	Cyanobacteria bacterium HKST-UBA05				HKST-UBA05		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1723105	Scaffold	2021-10-12	JAGQHK01
+GCA_020431855.1	Cyanobacteria bacterium HKST-UBA06				HKST-UBA06		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2416766	Scaffold	2021-10-12	JAGQHL01
+GCA_003021585.1	Cyanobacteria bacterium QH_10_48_56				QH_10_48_56		NCBI Prokaryotic Genome Annotation Pipeline	3515505	Scaffold	2018-03-27	PXPK01
+GCA_003021605.1	Cyanobacteria bacterium QH_1_48_107				QH_1_48_107		NCBI Prokaryotic Genome Annotation Pipeline	3592038	Scaffold	2018-03-27	PXPJ01
+GCA_003021545.1	Cyanobacteria bacterium QH_2_48_84				QH_2_48_84		NCBI Prokaryotic Genome Annotation Pipeline	3727101	Scaffold	2018-03-27	PXPL01
+GCA_003021535.1	Cyanobacteria bacterium QH_3_48_40				QH_3_48_40		NCBI Prokaryotic Genome Annotation Pipeline	3609395	Scaffold	2018-03-27	PXPM01
+GCA_003022265.1	Cyanobacteria bacterium QH_6_48_35				QH_6_48_35		NCBI Prokaryotic Genome Annotation Pipeline	3626649	Scaffold	2018-03-27	PXPN01
+GCA_003022245.1	Cyanobacteria bacterium QH_7_48_89				QH_7_48_89		NCBI Prokaryotic Genome Annotation Pipeline	3518731	Scaffold	2018-03-27	PXPO01
+GCA_003021525.1	Cyanobacteria bacterium QH_8_48_120				QH_8_48_120		NCBI Prokaryotic Genome Annotation Pipeline	3517514	Scaffold	2018-03-27	PXPP01
+GCA_003021925.1	Cyanobacteria bacterium QH_9_48_43				QH_9_48_43		NCBI Prokaryotic Genome Annotation Pipeline	3983561	Scaffold	2018-03-27	PXPQ01
+GCA_003022225.1	Cyanobacteria bacterium QS_1_48_34				QS_1_48_34		NCBI Prokaryotic Genome Annotation Pipeline	3482447	Scaffold	2018-03-27	PXPR01
+GCA_003021885.1	Cyanobacteria bacterium QS_3_48_167				QS_3_48_167		NCBI Prokaryotic Genome Annotation Pipeline	3587793	Scaffold	2018-03-27	PXPS01
+GCA_003021505.1	Cyanobacteria bacterium QS_4_48_99				QS_4_48_99		NCBI Prokaryotic Genome Annotation Pipeline	3624283	Scaffold	2018-03-27	PXPT01
+GCA_003022205.1	Cyanobacteria bacterium QS_5_48_63				QS_5_48_63		NCBI Prokaryotic Genome Annotation Pipeline	3456096	Scaffold	2018-03-27	PXPU01
+GCA_003021485.1	Cyanobacteria bacterium QS_6_48_18				QS_6_48_18		NCBI Prokaryotic Genome Annotation Pipeline	3648828	Scaffold	2018-03-27	PXPV01
+GCA_003021855.1	Cyanobacteria bacterium QS_7_48_42				QS_7_48_42		NCBI Prokaryotic Genome Annotation Pipeline	3362150	Scaffold	2018-03-27	PXPW01
+GCA_003022145.1	Cyanobacteria bacterium QS_8_48_54				QS_8_48_54		NCBI Prokaryotic Genome Annotation Pipeline	3537684	Scaffold	2018-03-27	PXQG01
+GCA_003022125.1	Cyanobacteria bacterium QS_8_64_29				QS_8_64_29		NCBI Prokaryotic Genome Annotation Pipeline	2219720	Scaffold	2018-03-27	PXQH01
+GCA_003021465.1	Cyanobacteria bacterium QS_9_48_30				QS_9_48_30		NCBI Prokaryotic Genome Annotation Pipeline	3531454	Scaffold	2018-03-27	PXPX01
+GCA_015152555.1	Cyanobacteria bacterium SIG26				SIG26		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1862813	Scaffold	2020-10-30	SUTS01
+GCA_015152525.1	Cyanobacteria bacterium SIG28				SIG28		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1894393	Scaffold	2020-10-30	SUTU01
+GCA_015152465.1	Cyanobacteria bacterium SIG31				SIG31		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1677839	Scaffold	2020-10-30	SUTX01
+GCA_003022175.1	Cyanobacteria bacterium SW_10_48_33				SW_10_48_33		NCBI Prokaryotic Genome Annotation Pipeline	3606870	Scaffold	2018-03-27	PXPY01
+GCA_003021435.1	Cyanobacteria bacterium SW_11_48_12				SW_11_48_12		NCBI Prokaryotic Genome Annotation Pipeline	3549959	Scaffold	2018-03-27	PXPZ01
+GCA_003021425.1	Cyanobacteria bacterium SW_12_48_29				SW_12_48_29		NCBI Prokaryotic Genome Annotation Pipeline	3588247	Scaffold	2018-03-27	PXQA01
+GCA_003022095.1	Cyanobacteria bacterium SW_4_48_29				SW_4_48_29		NCBI Prokaryotic Genome Annotation Pipeline	3242298	Scaffold	2018-03-27	PXQI01
+GCA_003021405.1	Cyanobacteria bacterium SW_5_48_44				SW_5_48_44		NCBI Prokaryotic Genome Annotation Pipeline	3596515	Scaffold	2018-03-27	PXQB01
+GCA_003021845.1	Cyanobacteria bacterium SW_6_48_11				SW_6_48_11		NCBI Prokaryotic Genome Annotation Pipeline	3356380	Scaffold	2018-03-27	PXQC01
+GCA_003022165.1	Cyanobacteria bacterium SW_7_48_12				SW_7_48_12		NCBI Prokaryotic Genome Annotation Pipeline	3530138	Scaffold	2018-03-27	PXQD01
+GCA_003021825.1	Cyanobacteria bacterium SW_8_48_13				SW_8_48_13		NCBI Prokaryotic Genome Annotation Pipeline	3414957	Scaffold	2018-03-27	PXQE01
+GCA_003021905.1	Cyanobacteria bacterium SW_9_44_58				SW_9_44_58		NCBI Prokaryotic Genome Annotation Pipeline	2940196	Scaffold	2018-03-27	PXPI01
+GCA_003021375.1	Cyanobacteria bacterium SW_9_47_5				SW_9_47_5		NCBI Prokaryotic Genome Annotation Pipeline	313498	Scaffold	2018-03-27	PXQF01
+GCA_018266195.1	Cyanobacteria bacterium SZAS TMP-1				SZAS TMP-1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6816674	Scaffold	2021-05-04	JAFEAX01
+GCA_018266255.1	Cyanobacteria bacterium SZAS-4				SZAS-4		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6335607	Scaffold	2021-05-04	JAFEAT01
+GCA_003482765.1	Cyanobacteria bacterium UBA10660				UBA10660		NCBI Prokaryotic Genome Annotation Pipeline	1885434	Scaffold	2018-09-06	DMXX01
+GCA_003534575.1	Cyanobacteria bacterium UBA11049				UBA11049		NCBI Prokaryotic Genome Annotation Pipeline	5324837	Scaffold	2018-09-10	DPEI01
+GCA_003512385.1	Cyanobacteria bacterium UBA11148				UBA11148		NCBI Prokaryotic Genome Annotation Pipeline	7193878	Scaffold	2018-09-07	DORG01
+GCA_003513235.1	Cyanobacteria bacterium UBA11149				UBA11149		NCBI Prokaryotic Genome Annotation Pipeline	6622806	Scaffold	2018-09-07	DORF01
+GCA_003511885.1	Cyanobacteria bacterium UBA11153				UBA11153		NCBI Prokaryotic Genome Annotation Pipeline	6645592	Scaffold	2018-09-07	DOIX01
+GCA_003511965.1	Cyanobacteria bacterium UBA11159				UBA11159		NCBI Prokaryotic Genome Annotation Pipeline	6609096	Scaffold	2018-09-07	DOJB01
+GCA_003504865.1	Cyanobacteria bacterium UBA11162				UBA11162		NCBI Prokaryotic Genome Annotation Pipeline	6028116	Scaffold	2018-09-07	DNZA01
+GCA_003506655.1	Cyanobacteria bacterium UBA11166				UBA11166		NCBI Prokaryotic Genome Annotation Pipeline	6281041	Scaffold	2018-09-07	DNYY01
+GCA_003501625.1	Cyanobacteria bacterium UBA11366				UBA11366		NCBI Prokaryotic Genome Annotation Pipeline	6685741	Scaffold	2018-09-07	DNOZ01
+GCA_003501765.1	Cyanobacteria bacterium UBA11367				UBA11367		NCBI Prokaryotic Genome Annotation Pipeline	7148697	Scaffold	2018-09-07	DNOY01
+GCA_003501785.1	Cyanobacteria bacterium UBA11368				UBA11368		NCBI Prokaryotic Genome Annotation Pipeline	8176415	Scaffold	2018-09-07	DNOW01
+GCA_003501795.1	Cyanobacteria bacterium UBA11369				UBA11369		NCBI Prokaryotic Genome Annotation Pipeline	8236586	Scaffold	2018-09-07	DNOV01
+GCA_003486645.1	Cyanobacteria bacterium UBA11370				UBA11370		NCBI Prokaryotic Genome Annotation Pipeline	7125786	Scaffold	2018-09-06	DNGI01
+GCA_003486305.1	Cyanobacteria bacterium UBA11371				UBA11371		NCBI Prokaryotic Genome Annotation Pipeline	8479285	Scaffold	2018-09-06	DNGJ01
+GCA_003486675.1	Cyanobacteria bacterium UBA11372				UBA11372		NCBI Prokaryotic Genome Annotation Pipeline	7646934	Scaffold	2018-09-06	DNGG01
+GCA_003512505.1	Cyanobacteria bacterium UBA11440				UBA11440		NCBI Prokaryotic Genome Annotation Pipeline	1877552	Scaffold	2018-09-07	DOQK01
+GCA_003519785.1	Cyanobacteria bacterium UBA11991				UBA11991		NCBI Prokaryotic Genome Annotation Pipeline	1379694	Scaffold	2018-09-10	DOWB01
+GCA_003450835.1	Cyanobacteria bacterium UBA12227				UBA12227		NCBI Prokaryotic Genome Annotation Pipeline	6867788	Scaffold	2018-09-04	DMEQ01
+GCA_003456125.1	Cyanobacteria bacterium UBA8156				UBA8156		NCBI Prokaryotic Genome Annotation Pipeline	2308179	Scaffold	2018-09-05	DMPD01
+GCA_003503675.1	Cyanobacteria bacterium UBA8530				UBA8530		NCBI Prokaryotic Genome Annotation Pipeline	3328953	Scaffold	2018-09-07	DOBT01
+GCA_003454535.1	Cyanobacteria bacterium UBA8543				UBA8543		NCBI Prokaryotic Genome Annotation Pipeline	8778461	Scaffold	2018-09-05	DMJW01
+GCA_003444555.1	Cyanobacteria bacterium UBA8553				UBA8553		NCBI Prokaryotic Genome Annotation Pipeline	9206181	Scaffold	2018-09-04	DLUV01
+GCA_003505715.1	Cyanobacteria bacterium UBA8803				UBA8803		NCBI Prokaryotic Genome Annotation Pipeline	8069533	Scaffold	2018-09-07	DNXU01
+GCA_003520045.1	Cyanobacteria bacterium UBA9226				UBA9226		NCBI Prokaryotic Genome Annotation Pipeline	6622270	Scaffold	2018-09-10	DOVO01
+GCA_003488275.1	Cyanobacteria bacterium UBA9273				UBA9273		NCBI Prokaryotic Genome Annotation Pipeline	7984810	Scaffold	2018-09-06	DNME01
+GCA_003499585.1	Cyanobacteria bacterium UBA9579				UBA9579		NCBI Prokaryotic Genome Annotation Pipeline	2116713	Scaffold	2018-09-07	DNSU01
+GCA_003499955.1	Cyanobacteria bacterium UBA9971				UBA9971		NCBI Prokaryotic Genome Annotation Pipeline	2243743	Scaffold	2018-09-07	DNRP01
+GCA_003248995.1	Cyanobium sp.				ULC082bin1		NCBI Prokaryotic Genome Annotation Pipeline	2793401	Scaffold	2018-06-19	QBMG01
+GCA_003249045.1	Cyanobium sp.				ULC065bin1		NCBI Prokaryotic Genome Annotation Pipeline	3088697	Scaffold	2018-06-19	QBMM01
+GCA_003249115.1	Cyanobium sp.				ULC084bin3		NCBI Prokaryotic Genome Annotation Pipeline	2820113	Scaffold	2018-06-19	QBMD01
+GCA_014191535.1	Cyanobium sp.				LBMAG_Cyanobacteria_epi.bin1		Annotation submitted by Center for Ecological Research, Kyoto University	1937170	Scaffold	2019-05-29	BJHC01
+GCA_014191665.1	Cyanobium sp.				LBMAG_Cyanobacteria_epi.bin2		Annotation submitted by Center for Ecological Research, Kyoto University	2135503	Scaffold	2019-05-29	BJHD01
+GCA_014191755.1	Cyanobium sp.				LBMAG_Cyanobacteria_epi.bin3		Annotation submitted by Center for Ecological Research, Kyoto University	3527805	Scaffold	2019-05-29	BJHE01
+GCA_021298515.1	Cyanobium sp. 49614_E6				49614_E6		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4037466	Scaffold	2021-12-27	JAJTFP01
+GCA_024958715.1	Cyanobium sp. FGCU-52				FGCU-52		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3484714	Scaffold	2022-09-05	JANWUS01
+GCA_024958655.1	Cyanobium sp. FGCU-6				FGCU-6		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4074513	Scaffold	2022-09-05	JANWUR01
+GCF_000155635.1	Cyanobium sp. PCC 7001		PCC 7001				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2834252	Scaffold	2008-08-29	ABSE01
+GCA_000155635.1	Cyanobium sp. PCC 7001		PCC 7001				Annotation submitted by Gordon and Betty Moore Foundation Microbial Genome Sequencing Project	2834252	Scaffold	2008-08-29	ABSE01
+GCA_010672835.1	Cyanothece sp. SIO1E1				SIO1E1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	11117665	Scaffold	2020-02-16	JAAHFT01
+GCA_010672345.1	Cyanothece sp. SIO2G6				SIO2G6		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7031854	Scaffold	2020-02-16	JAAHGY01
+GCA_003448685.1	Cyanothece sp. UBA12306				UBA12306		NCBI Prokaryotic Genome Annotation Pipeline	4649452	Scaffold	2018-09-04	DLXW01
+GCF_002893155.1	Cylindrospermopsis raciborskii C03		C03				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3950189	Scaffold	2018-01-19	NJHU01
+GCA_002893155.1	Cylindrospermopsis raciborskii C03		C03				NCBI Prokaryotic Genome Annotation Pipeline	3950189	Scaffold	2018-01-19	NJHU01
+GCF_002893145.1	Cylindrospermopsis raciborskii C04		C04				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3954657	Scaffold	2018-01-19	NJHT01
+GCA_002893145.1	Cylindrospermopsis raciborskii C04		C04				NCBI Prokaryotic Genome Annotation Pipeline	3954657	Scaffold	2018-01-19	NJHT01
+GCF_002893125.1	Cylindrospermopsis raciborskii C07		C07				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3984544	Scaffold	2018-01-19	NJHS01
+GCA_002893125.1	Cylindrospermopsis raciborskii C07		C07				NCBI Prokaryotic Genome Annotation Pipeline	3984544	Scaffold	2018-01-19	NJHS01
+GCF_022496815.1	Cylindrospermopsis raciborskii CHAB3438		CHAB3438				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3544092	Scaffold	2022-03-07	WXUC01
+GCA_022496815.1	Cylindrospermopsis raciborskii CHAB3438		CHAB3438				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3544092	Scaffold	2022-03-07	WXUC01
+GCF_013867415.1	Cylindrospermopsis raciborskii CS-506_A		CS-506_A				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3788130	Scaffold	2020-07-28	VDFG01
+GCA_013867415.1	Cylindrospermopsis raciborskii CS-506_A		CS-506_A				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3788130	Scaffold	2020-07-28	VDFG01
+GCF_013867425.1	Cylindrospermopsis raciborskii CS-506_B		CS-506_B				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3734857	Scaffold	2020-07-28	VDFF01
+GCA_013867425.1	Cylindrospermopsis raciborskii CS-506_B		CS-506_B				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3734857	Scaffold	2020-07-28	VDFF01
+GCF_013867405.1	Cylindrospermopsis raciborskii CS-506_C		CS-506_C				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3717675	Scaffold	2020-07-28	VDFE01
+GCA_013867405.1	Cylindrospermopsis raciborskii CS-506_C		CS-506_C				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3717675	Scaffold	2020-07-28	VDFE01
+GCF_013867395.1	Cylindrospermopsis raciborskii CS-506_D		CS-506_D				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3767916	Scaffold	2020-07-28	VDFD01
+GCA_013867395.1	Cylindrospermopsis raciborskii CS-506_D		CS-506_D				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3767916	Scaffold	2020-07-28	VDFD01
+GCF_002321935.1	Cylindrospermopsis raciborskii CYLP		CYLP				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3972140	Scaffold	2017-09-21	NPIK01
+GCA_002321935.1	Cylindrospermopsis raciborskii CYLP		CYLP					3972140	Scaffold	2017-09-21	NPIK01
+GCF_002321945.1	Cylindrospermopsis raciborskii CYRF		CYRF				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4150048	Scaffold	2017-09-21	NPIL01
+GCA_002321945.1	Cylindrospermopsis raciborskii CYRF		CYRF					4150048	Scaffold	2017-09-21	NPIL01
+GCA_015708265.1	Cylindrospermopsis raciborskii KL1				KL1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3657391	Scaffold	2020-12-01	JADQCS01
+GCF_002893285.1	Cylindrospermopsis raciborskii S01		S01				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3839098	Scaffold	2018-01-19	NJIA01
+GCA_002893285.1	Cylindrospermopsis raciborskii S01		S01				NCBI Prokaryotic Genome Annotation Pipeline	3839098	Scaffold	2018-01-19	NJIA01
+GCF_002893265.1	Cylindrospermopsis raciborskii S05		S05				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3874245	Scaffold	2018-01-19	NJHZ01
+GCA_002893265.1	Cylindrospermopsis raciborskii S05		S05				NCBI Prokaryotic Genome Annotation Pipeline	3874245	Scaffold	2018-01-19	NJHZ01
+GCF_002893245.1	Cylindrospermopsis raciborskii S06		S06				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3895260	Scaffold	2018-01-19	NJHY01
+GCA_002893245.1	Cylindrospermopsis raciborskii S06		S06				NCBI Prokaryotic Genome Annotation Pipeline	3895260	Scaffold	2018-01-19	NJHY01
+GCF_002893205.1	Cylindrospermopsis raciborskii S07		S07				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3872123	Scaffold	2018-01-19	NJHX01
+GCA_002893205.1	Cylindrospermopsis raciborskii S07		S07				NCBI Prokaryotic Genome Annotation Pipeline	3872123	Scaffold	2018-01-19	NJHX01
+GCF_002893215.1	Cylindrospermopsis raciborskii S10		S10				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3872876	Scaffold	2018-01-19	NJHW01
+GCA_002893215.1	Cylindrospermopsis raciborskii S10		S10				NCBI Prokaryotic Genome Annotation Pipeline	3872876	Scaffold	2018-01-19	NJHW01
+GCF_002893185.1	Cylindrospermopsis raciborskii S14		S14				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3867562	Scaffold	2018-01-19	NJHV01
+GCA_002893185.1	Cylindrospermopsis raciborskii S14		S14				NCBI Prokaryotic Genome Annotation Pipeline	3867562	Scaffold	2018-01-19	NJHV01
+GCF_001432185.1	Cylindrospermopsis sp. CR12		CR12				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3723955	Scaffold	2015-11-05	LMVE01
+GCA_001432185.1	Cylindrospermopsis sp. CR12		CR12				NCBI Prokaryotic Genome Annotation Pipeline	3723955	Scaffold	2015-11-05	LMVE01
+GCF_016056275.1	Dendronalium phyllosphericum CENA369		CENA369				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8381979	Scaffold	2020-12-15	JAECZA01
+GCA_016056275.1	Dendronalium phyllosphericum CENA369		CENA369				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8381979	Scaffold	2020-12-15	JAECZA01
+GCA_010672635.1	Desertifilum sp. SIO1I2				SIO1I2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5780593	Scaffold	2020-02-16	JAAHGE01
+GCF_019734875.1	Desmonostoc muscorum CCALA 125		CCALA 125				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8982067	Scaffold	2021-08-23	JACERF01
+GCA_019734875.1	Desmonostoc muscorum CCALA 125		CCALA 125				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8982067	Scaffold	2021-08-23	JACERF01
+GCF_000426905.1	Dolichospermum circinale AWQC131C		AWQC131C				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4445648	Scaffold	2013-07-12	APIY01
+GCA_000426905.1	Dolichospermum circinale AWQC131C		AWQC131C					4445648	Scaffold	2013-07-12	APIY01
+GCF_000426925.1	Dolichospermum circinale AWQC310F		AWQC310F				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4405846	Scaffold	2013-07-12	APIZ01
+GCA_000426925.1	Dolichospermum circinale AWQC310F		AWQC310F					4405846	Scaffold	2013-07-12	APIZ01
+GCA_014654715.1	Dolichospermum circinale Clear-D4				Clear-D4		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5029933	Scaffold	2020-09-18	JACVZX01
+GCF_009712125.1	Dolichospermum flos-aquae UHCC 0037		UHCC 0037				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5563105	Scaffold	2019-11-27	VILF01
+GCA_009712125.1	Dolichospermum flos-aquae UHCC 0037		UHCC 0037				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5563105	Scaffold	2019-11-27	VILF01
+GCF_009712075.1	Dolichospermum planctonicum UHCC 0167		UHCC 0167				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4900328	Scaffold	2019-11-27	VILE01
+GCA_009712075.1	Dolichospermum planctonicum UHCC 0167		UHCC 0167				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4900328	Scaffold	2019-11-27	VILE01
+GCA_016462165.1	Dolichospermum sp.				SB001		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4311702	Scaffold	2021-01-03	JAEMTT01
+GCF_009711935.1	Dolichospermum sp. UHCC 0259		UHCC 0259				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5635377	Scaffold	2019-11-27	VIKX01
+GCA_009711935.1	Dolichospermum sp. UHCC 0259		UHCC 0259				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5635377	Scaffold	2019-11-27	VIKX01
+GCF_009711985.1	Dolichospermum sp. UHCC 0260		UHCC 0260				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4921436	Scaffold	2019-11-27	VIKZ01
+GCA_009711985.1	Dolichospermum sp. UHCC 0260		UHCC 0260				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4921436	Scaffold	2019-11-27	VIKZ01
+GCF_009711965.1	Dolichospermum sp. UHCC 0299		UHCC 0299				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5125448	Scaffold	2019-11-27	VIKV01
+GCA_009711965.1	Dolichospermum sp. UHCC 0299		UHCC 0299				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5125448	Scaffold	2019-11-27	VIKV01
+GCF_009711925.1	Dolichospermum sp. UHCC 0352		UHCC 0352				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5128860	Scaffold	2019-11-27	VIKY01
+GCA_009711925.1	Dolichospermum sp. UHCC 0352		UHCC 0352				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5128860	Scaffold	2019-11-27	VIKY01
+GCF_009712025.1	Dolichospermum sp. UHCC 0406		UHCC 0406				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5181811	Scaffold	2019-11-27	VILA01
+GCA_009712025.1	Dolichospermum sp. UHCC 0406		UHCC 0406				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5181811	Scaffold	2019-11-27	VILA01
+GCA_002900215.1	Euhalothece sp. KZN 001		KZN 001				NCBI Prokaryotic Genome Annotation Pipeline	5113178	Scaffold	2018-01-25	MDVL01
+GCF_001904645.1	Fischerella major NIES-592		NIES-592				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5639496	Scaffold	2016-12-14	MRCA01
+GCA_001904645.1	Fischerella major NIES-592		NIES-592				NCBI Prokaryotic Genome Annotation Pipeline	5639496	Scaffold	2016-12-14	MRCA01
+GCF_002870665.1	Fischerella muscicola CCMEE 5323		CCMEE 5323				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6758464	Scaffold	2018-01-10	NRQW01
+GCA_002870665.1	Fischerella muscicola CCMEE 5323		CCMEE 5323				NCBI Prokaryotic Genome Annotation Pipeline	6758464	Scaffold	2018-01-10	NRQW01
+GCF_000315585.1	Fischerella sp. PCC 9339		PCC 9339				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8008257	Scaffold	2012-11-30	ALVS01
+GCA_000315585.1	Fischerella sp. PCC 9339		PCC 9339					8008257	Scaffold	2012-11-30	ALVS01
+GCF_000447295.1	Fischerella sp. PCC 9431		PCC 9431				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7167426	Scaffold	2013-08-15	ALVX01
+GCA_000447295.1	Fischerella sp. PCC 9431		PCC 9431					7167426	Scaffold	2013-08-15	ALVX01
+GCF_000517105.1	Fischerella sp. PCC 9605		PCC 9605				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8079181	Scaffold	2014-01-08	ALVT01
+GCA_000517105.1	Fischerella sp. PCC 9605		PCC 9605					8079181	Scaffold	2014-01-08	ALVT01
+GCF_003346965.1	Fischerella thermalis 111/344/542		111/344/542				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5452329	Scaffold	2018-07-31	NGAA01
+GCA_003346965.1	Fischerella thermalis 111/344/542		111/344/542				NCBI Prokaryotic Genome Annotation Pipeline	5452329	Scaffold	2018-07-31	NGAA01
+GCF_002870705.1	Fischerella thermalis BR2B		BR2B				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5321124	Scaffold	2018-01-10	NMQG01
+GCA_002870705.1	Fischerella thermalis BR2B		BR2B				NCBI Prokaryotic Genome Annotation Pipeline	5321124	Scaffold	2018-01-10	NMQG01
+GCF_002870795.1	Fischerella thermalis CCMEE 5194		CCMEE 5194				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5168941	Scaffold	2018-01-10	NQME01
+GCA_002870795.1	Fischerella thermalis CCMEE 5194		CCMEE 5194				NCBI Prokaryotic Genome Annotation Pipeline	5168941	Scaffold	2018-01-10	NQME01
+GCA_002870825.1	Fischerella thermalis CCMEE 5196		CCMEE 5196				NCBI Prokaryotic Genome Annotation Pipeline	4995964	Scaffold	2018-01-10	NQMD01
+GCF_002870635.1	Fischerella thermalis CCMEE 5198		CCMEE 5198				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5074053	Scaffold	2018-01-10	NMQF01
+GCA_002870635.1	Fischerella thermalis CCMEE 5198		CCMEE 5198				NCBI Prokaryotic Genome Annotation Pipeline	5074053	Scaffold	2018-01-10	NMQF01
+GCF_002870755.1	Fischerella thermalis CCMEE 5208		CCMEE 5208				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5356884	Scaffold	2018-01-10	NMQH01
+GCA_002870755.1	Fischerella thermalis CCMEE 5208		CCMEE 5208				NCBI Prokaryotic Genome Annotation Pipeline	5356884	Scaffold	2018-01-10	NMQH01
+GCF_002870565.1	Fischerella thermalis CCMEE 5268		CCMEE 5268				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5913697	Scaffold	2018-01-10	NMQA01
+GCA_002870565.1	Fischerella thermalis CCMEE 5268		CCMEE 5268				NCBI Prokaryotic Genome Annotation Pipeline	5913697	Scaffold	2018-01-10	NMQA01
+GCF_002870615.1	Fischerella thermalis CCMEE 5282		CCMEE 5282				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5341442	Scaffold	2018-01-10	NMQC01
+GCA_002870615.1	Fischerella thermalis CCMEE 5282		CCMEE 5282				NCBI Prokaryotic Genome Annotation Pipeline	5341442	Scaffold	2018-01-10	NMQC01
+GCF_002870675.1	Fischerella thermalis CCMEE 5318		CCMEE 5318				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6197867	Scaffold	2018-01-10	NMQE01
+GCA_002870675.1	Fischerella thermalis CCMEE 5318		CCMEE 5318				NCBI Prokaryotic Genome Annotation Pipeline	6197867	Scaffold	2018-01-10	NMQE01
+GCF_002870525.1	Fischerella thermalis WC1110		WC1110				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5399690	Scaffold	2018-01-10	NGZS01
+GCA_002870525.1	Fischerella thermalis WC1110		WC1110				NCBI Prokaryotic Genome Annotation Pipeline	5399690	Scaffold	2018-01-10	NGZS01
+GCF_002870545.1	Fischerella thermalis WC114		WC114				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5332626	Scaffold	2018-01-10	NGZU01
+GCA_002870545.1	Fischerella thermalis WC114		WC114				NCBI Prokaryotic Genome Annotation Pipeline	5332626	Scaffold	2018-01-10	NGZU01
+GCF_002870265.1	Fischerella thermalis WC119		WC119				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5343510	Scaffold	2018-01-10	NGZT01
+GCA_002870265.1	Fischerella thermalis WC119		WC119				NCBI Prokaryotic Genome Annotation Pipeline	5343510	Scaffold	2018-01-10	NGZT01
+GCF_002870305.1	Fischerella thermalis WC157		WC157				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5375759	Scaffold	2018-01-10	NGZV01
+GCA_002870305.1	Fischerella thermalis WC157		WC157				NCBI Prokaryotic Genome Annotation Pipeline	5375759	Scaffold	2018-01-10	NGZV01
+GCF_002870255.1	Fischerella thermalis WC213		WC213				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5351095	Scaffold	2018-01-10	NHAK01
+GCA_002870255.1	Fischerella thermalis WC213		WC213				NCBI Prokaryotic Genome Annotation Pipeline	5351095	Scaffold	2018-01-10	NHAK01
+GCA_002870245.1	Fischerella thermalis WC217		WC217				NCBI Prokaryotic Genome Annotation Pipeline	5672409	Scaffold	2018-01-10	NHAJ01
+GCF_002870505.1	Fischerella thermalis WC245		WC245				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5304471	Scaffold	2018-01-10	NHAI01
+GCA_002870505.1	Fischerella thermalis WC245		WC245				NCBI Prokaryotic Genome Annotation Pipeline	5304471	Scaffold	2018-01-10	NHAI01
+GCF_002870185.1	Fischerella thermalis WC246		WC246				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5369433	Scaffold	2018-01-10	NHAH01
+GCA_002870185.1	Fischerella thermalis WC246		WC246				NCBI Prokaryotic Genome Annotation Pipeline	5369433	Scaffold	2018-01-10	NHAH01
+GCF_002870465.1	Fischerella thermalis WC249		WC249				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5327607	Scaffold	2018-01-10	NHAG01
+GCA_002870465.1	Fischerella thermalis WC249		WC249				NCBI Prokaryotic Genome Annotation Pipeline	5327607	Scaffold	2018-01-10	NHAG01
+GCF_002870345.1	Fischerella thermalis WC341		WC341				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5398744	Scaffold	2018-01-10	NGZW01
+GCA_002870345.1	Fischerella thermalis WC341		WC341				NCBI Prokaryotic Genome Annotation Pipeline	5398744	Scaffold	2018-01-10	NGZW01
+GCF_002870445.1	Fischerella thermalis WC344		WC344				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5426915	Scaffold	2018-01-10	NHAF01
+GCA_002870445.1	Fischerella thermalis WC344		WC344				NCBI Prokaryotic Genome Annotation Pipeline	5426915	Scaffold	2018-01-10	NHAF01
+GCF_002870475.1	Fischerella thermalis WC439		WC439				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5336250	Scaffold	2018-01-10	NHAE01
+GCA_002870475.1	Fischerella thermalis WC439		WC439				NCBI Prokaryotic Genome Annotation Pipeline	5336250	Scaffold	2018-01-10	NHAE01
+GCF_002870205.1	Fischerella thermalis WC441		WC441				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5506947	Scaffold	2018-01-10	NHAD01
+GCA_002870205.1	Fischerella thermalis WC441		WC441				NCBI Prokaryotic Genome Annotation Pipeline	5506947	Scaffold	2018-01-10	NHAD01
+GCF_002870415.1	Fischerella thermalis WC442		WC442				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5311703	Scaffold	2018-01-10	NHAC01
+GCA_002870415.1	Fischerella thermalis WC442		WC442				NCBI Prokaryotic Genome Annotation Pipeline	5311703	Scaffold	2018-01-10	NHAC01
+GCF_002870405.1	Fischerella thermalis WC527		WC527				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5405800	Scaffold	2018-01-10	NHAB01
+GCA_002870405.1	Fischerella thermalis WC527		WC527				NCBI Prokaryotic Genome Annotation Pipeline	5405800	Scaffold	2018-01-10	NHAB01
+GCF_002870325.1	Fischerella thermalis WC538		WC538				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5411116	Scaffold	2018-01-10	NHAA01
+GCA_002870325.1	Fischerella thermalis WC538		WC538				NCBI Prokaryotic Genome Annotation Pipeline	5411116	Scaffold	2018-01-10	NHAA01
+GCF_002870385.1	Fischerella thermalis WC542		WC542				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5493527	Scaffold	2018-01-10	NGZZ01
+GCA_002870385.1	Fischerella thermalis WC542		WC542				NCBI Prokaryotic Genome Annotation Pipeline	5493527	Scaffold	2018-01-10	NGZZ01
+GCF_002870365.1	Fischerella thermalis WC558		WC558				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5282445	Scaffold	2018-01-10	NGZY01
+GCA_002870365.1	Fischerella thermalis WC558		WC558				NCBI Prokaryotic Genome Annotation Pipeline	5282445	Scaffold	2018-01-10	NGZY01
+GCF_002870195.1	Fischerella thermalis WC559		WC559				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5270127	Scaffold	2018-01-10	NGZX01
+GCA_002870195.1	Fischerella thermalis WC559		WC559				NCBI Prokaryotic Genome Annotation Pipeline	5270127	Scaffold	2018-01-10	NGZX01
+GCF_000332295.1	Fortiea contorta PCC 7126		PCC 7126				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5742264	Scaffold	2013-01-22	ANFJ01
+GCA_000332295.1	Fortiea contorta PCC 7126		PCC 7126					5742264	Scaffold	2013-01-22	ANFJ01
+GCF_001870905.1	Geitlerinema sp. PCC 9228		PCC 9228				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4795982	Scaffold	2016-11-08	LNDC01
+GCA_001870905.1	Geitlerinema sp. PCC 9228		PCC 9228					4795982	Scaffold	2016-11-08	LNDC01
+GCA_025055395.1	Geminocystis sp.				SKYG4		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2865871	Scaffold	2022-09-07	JANWXF01
+GCA_025058545.1	Geminocystis sp.				SKYB97		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2840122	Scaffold	2022-09-07	JANXDF01
+GCA_016743215.1	Geminocystis sp. GBBB08				GBBB08		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4101793	Scaffold	2021-01-22	VRZC01
+GCA_025062155.1	Gloeomargarita sp. SKYB120				SKYB120		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2483162	Scaffold	2022-09-07	JANXAM01
+GCA_025060435.1	Gloeomargarita sp. SKYB31				SKYB31		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1814713	Scaffold	2022-09-07	JANXBM01
+GCA_025056115.1	Gloeomargarita sp. SKYG116				SKYG116		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2365809	Scaffold	2022-09-07	JANWVM01
+GCA_025054555.1	Gloeomargarita sp. SKYG98				SKYG98		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1893569	Scaffold	2022-09-07	JANWZP01
+GCF_001275395.1	Hapalosiphon sp. MRB220		MRB220				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7429720	Scaffold	2015-08-27	LIRN01
+GCA_001275395.1	Hapalosiphon sp. MRB220		MRB220				NCBI Prokaryotic Genome Annotation Pipeline	7429720	Scaffold	2015-08-27	LIRN01
+GCA_003261315.1	Hapalosiphonaceae cyanobacterium JJU2				JJU2		NCBI Prokaryotic Genome Annotation Pipeline	7145071	Scaffold	2018-06-25	QLKN01
+GCF_000817785.2	Hassallia byssoidea VB512170		VB512170				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7501515	Scaffold	2020-02-18	JTCM02
+GCA_000817785.2	Hassallia byssoidea VB512170		VB512170				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7501515	Scaffold	2020-02-18	JTCM02
+GCA_014323895.1	Hormoscilla sp. GM102CHS1				GM102CHS1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5041890	Scaffold	2020-08-28	JACONF01
+GCA_005518205.2	Hormoscilla sp. GUM202				GUM202		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6869623	Scaffold	2021-03-17	RFFC02
+GCA_014324065.1	Hormoscilla sp. SP12CHS1				SP12CHS1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4999041	Scaffold	2020-08-28	JACOMV01
+GCA_014324025.1	Hormoscilla sp. SP5CHS1				SP5CHS1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4833173	Scaffold	2020-08-28	JACONA01
+GCF_001904635.1	Hydrococcus rivularis NIES-593		NIES-593				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5148315	Scaffold	2016-12-14	MRCB01
+GCA_001904635.1	Hydrococcus rivularis NIES-593		NIES-593				NCBI Prokaryotic Genome Annotation Pipeline	5148315	Scaffold	2016-12-14	MRCB01
+GCA_012032735.1	Hydrococcus sp. RU_2_2				RU_2_2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6184304	Scaffold	2020-04-05	JAAURN01
+GCF_002260545.1	Hydrocoleum sp. CS-953		CS-953				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8387203	Scaffold	2017-08-18	LGSU01
+GCA_002260545.1	Hydrocoleum sp. CS-953		CS-953				NCBI Prokaryotic Genome Annotation Pipeline	8387203	Scaffold	2017-08-18	LGSU01
+GCF_900659865.1	Hyella patelloides LEGE 07179				1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8063701	Scaffold	2019-07-19	CAACVJ01
+GCA_900659865.1	Hyella patelloides LEGE 07179				1		Annotation submitted by i3S/IBMC	8063701	Scaffold	2019-07-19	CAACVJ01
+GCF_014698965.1	Iningainema tapete BLCC-T55		BLCC-T55				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9507908	Scaffold	2020-09-22	JACXAE01
+GCA_014698965.1	Iningainema tapete BLCC-T55		BLCC-T55				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9507908	Scaffold	2020-09-22	JACXAE01
+GCF_000332155.1	Kamptonema formosum PCC 6407		PCC 6407				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6894060	Scaffold	2013-01-22	ALVI01
+GCA_000332155.1	Kamptonema formosum PCC 6407		PCC 6407					6894060	Scaffold	2013-01-22	ALVI01
+GCA_010672865.1	Kamptonema sp. SIO1D9				SIO1D9		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6162206	Scaffold	2020-02-16	JAAHFS01
+GCF_014831675.1	Komarekiella sp. 'clone 1'		clone 1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8497696	Scaffold	2020-09-30	VJXY01
+GCA_014831675.1	Komarekiella sp. 'clone 1'		clone 1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8497696	Scaffold	2020-09-30	VJXY01
+GCF_000353285.1	Leptolyngbya boryana PCC 6306		PCC 6306				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7262454	Scaffold	2013-04-06	ALVM01
+GCA_000353285.1	Leptolyngbya boryana PCC 6306		PCC 6306					7262454	Scaffold	2013-04-06	ALVM01
+GCA_003242035.1	Leptolyngbya foveolarum				ULC129bin1		NCBI Prokaryotic Genome Annotation Pipeline	4750982	Scaffold	2018-06-18	QBMC01
+GCF_002215035.1	Leptolyngbya ohadii IS1		IS1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7902459	Scaffold	2017-07-05	NKFP01
+GCA_002215035.1	Leptolyngbya ohadii IS1		IS1					7902459	Scaffold	2017-07-05	NKFP01
+GCA_003249025.1	Leptolyngbya sp.				ULC077bin1		NCBI Prokaryotic Genome Annotation Pipeline	5462880	Scaffold	2018-06-19	QBMH01
+GCA_003249105.1	Leptolyngbya sp.				ULC186bin1		NCBI Prokaryotic Genome Annotation Pipeline	5080999	Scaffold	2018-06-19	QBLT01
+GCA_003249155.1	Leptolyngbya sp.				ULC073bin1		NCBI Prokaryotic Genome Annotation Pipeline	4608713	Scaffold	2018-06-19	QBMJ01
+GCF_016807185.1	Leptolyngbya sp. Cla-17		Cla-17				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6647508	Scaffold	2021-02-04	JAEVYN01
+GCA_016807185.1	Leptolyngbya sp. Cla-17		Cla-17				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6647508	Scaffold	2021-02-04	JAEVYN01
+GCF_004212215.1	Leptolyngbya sp. LK		LK				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5718148	Scaffold	2019-02-19	QVFV01
+GCA_004212215.1	Leptolyngbya sp. LK		LK				NCBI Prokaryotic Genome Annotation Pipeline	5718148	Scaffold	2019-02-19	QVFV01
+GCF_000332095.2	Leptolyngbya sp. PCC 6406		PCC 6406				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5776957	Scaffold	2014-01-15	ALVV02
+GCA_000332095.2	Leptolyngbya sp. PCC 6406		PCC 6406					5776957	Scaffold	2014-01-15	ALVV02
+GCF_000316115.1	Leptolyngbya sp. PCC 7375		PCC 7375				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9422968	Scaffold	2012-12-03	ALVN01
+GCA_000316115.1	Leptolyngbya sp. PCC 7375		PCC 7375				Annotation submitted by DOE Joint Genome Institute	9422968	Scaffold	2012-12-03	ALVN01
+GCA_010672145.1	Leptolyngbya sp. SIO3F4				SIO3F4		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8111629	Scaffold	2020-02-16	JAAHHO01
+GCA_010671905.1	Leptolyngbya sp. SIOISBB				SIOISBB		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8337038	Scaffold	2020-02-16	JAAHII01
+GCA_012032565.1	Leptolyngbyaceae cyanobacterium SL_5_9				SL_5_9		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4618940	Scaffold	2020-04-05	JAAUST01
+GCA_012030915.1	Leptolyngbyaceae cyanobacterium SU_3_3				SU_3_3		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3276067	Scaffold	2020-04-05	JAAUUY01
+GCF_018739865.1	Leptothoe kymatousa TAU-MAC 1615		TAU-MAC 1615				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4068244	Scaffold	2021-06-07	JADOER01
+GCA_018739865.1	Leptothoe kymatousa TAU-MAC 1615		TAU-MAC 1615				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4068244	Scaffold	2021-06-07	JADOER01
+GCF_018739885.1	Leptothoe spongobia TAU-MAC 1115		TAU-MAC 1115				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5231199	Scaffold	2021-06-07	JADOES01
+GCA_018739885.1	Leptothoe spongobia TAU-MAC 1115		TAU-MAC 1115				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5231199	Scaffold	2021-06-07	JADOES01
+GCF_000972705.2	Limnoraphis robusta CS-951		CS-951				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7314117	Scaffold	2015-07-17	LATL02
+GCA_000972705.2	Limnoraphis robusta CS-951		CS-951				NCBI Prokaryotic Genome Annotation Pipeline	7314117	Scaffold	2015-07-17	LATL02
+GCF_000176895.2	Limnospira indica PCC 8005		PCC 8005				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6166364	Scaffold	2012-02-14	CAFN01
+GCA_000176895.2	Limnospira indica PCC 8005		PCC 8005				Annotation submitted by SCK-CEN, Belgian Nuclear Research Center/Genoscope	6166364	Scaffold	2012-02-14	CAFN01
+GCF_001904615.1	Limnothrix rosea IAM M-220		IAM M-220				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4065636	Scaffold	2016-12-15	MRBY01
+GCA_001904615.1	Limnothrix rosea IAM M-220		IAM M-220				NCBI Prokaryotic Genome Annotation Pipeline	4065636	Scaffold	2016-12-15	MRBY01
+GCA_001698445.1	Limnothrix sp. P13C2				P13C2		NCBI Prokaryotic Genome Annotation Pipeline	4583806	Scaffold	2016-08-03	MBRF01
+GCF_002742025.1	Limnothrix sp. PR1529		PR1529				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4586650	Scaffold	2017-11-02	LIRO01
+GCA_002742025.1	Limnothrix sp. PR1529		PR1529				NCBI Prokaryotic Genome Annotation Pipeline	4586650	Scaffold	2017-11-02	LIRO01
+GCA_012033055.1	Limnothrix sp. RL_2_0				RL_2_0		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4131928	Scaffold	2020-04-05	JAAUPR01
+GCF_000817775.3	Lyngbya confervoides BDU141951		BDU141951				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4850174	Scaffold	2022-06-07	JTHE03
+GCA_000817775.3	Lyngbya confervoides BDU141951		BDU141951				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4850174	Scaffold	2022-06-07	JTHE03
+GCF_000315565.1	Mastigocladopsis repens PCC 10914		PCC 10914				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6465655	Scaffold	2012-11-30	ALVW01
+GCA_000315565.1	Mastigocladopsis repens PCC 10914		PCC 10914					6465655	Scaffold	2012-11-30	ALVW01
+GCF_001990805.2	Mastigocladus laminosus UU774		UU774				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7040464	Scaffold	2019-04-02	MNPM02
+GCA_001990805.2	Mastigocladus laminosus UU774		UU774				NCBI Prokaryotic Genome Annotation Pipeline	7040464	Scaffold	2019-04-02	MNPM02
+GCA_003346915.1	Mastigocladus laminosus WC112		WC112				NCBI Prokaryotic Genome Annotation Pipeline	5289159	Scaffold	2018-07-31	NGJL01
+GCA_003506815.1	Microcoleaceae bacterium UBA10368				UBA10368		NCBI Prokaryotic Genome Annotation Pipeline	5190650	Scaffold	2018-09-07	DNYC01
+GCA_003483675.1	Microcoleaceae bacterium UBA11344				UBA11344		NCBI Prokaryotic Genome Annotation Pipeline	4779623	Scaffold	2018-09-06	DMYK01
+GCA_003542015.1	Microcoleaceae bacterium UBA9251				UBA9251		NCBI Prokaryotic Genome Annotation Pipeline	5427942	Scaffold	2018-09-10	DPLL01
+GCF_013179805.1	Microcoleus asticus IPMA8		IPMA8				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7545152	Scaffold	2020-05-28	SRRZ01
+GCA_013179805.1	Microcoleus asticus IPMA8		IPMA8				Annotation submitted by Instituto Gulbenkian Ciencia	7545152	Scaffold	2020-05-28	SRRZ01
+GCA_020738945.1	Microcoleus sp. PH2017_01_SCD_O_A				PH2017_01_SCD_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7541616	Scaffold	2021-11-03	JAEQBX01
+GCA_020738905.1	Microcoleus sp. PH2017_02_FOX_O_A				PH2017_02_FOX_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7507973	Scaffold	2021-11-03	JAEQBY01
+GCA_020738805.1	Microcoleus sp. PH2017_03_ELD_O_A				PH2017_03_ELD_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6536775	Scaffold	2021-11-03	JAEQBZ01
+GCA_020738835.1	Microcoleus sp. PH2017_04_SCI_O_A				PH2017_04_SCI_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6435454	Scaffold	2021-11-03	JAEQCA01
+GCA_020738785.1	Microcoleus sp. PH2017_05_CCC_O_A				PH2017_05_CCC_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7704613	Scaffold	2021-11-03	JAEQCB01
+GCA_020738825.1	Microcoleus sp. PH2017_06_SFM_O_A				PH2017_06_SFM_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6860702	Scaffold	2021-11-03	JAEQCC01
+GCA_020738685.1	Microcoleus sp. PH2017_07_MST_O_A				PH2017_07_MST_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7246517	Scaffold	2021-11-03	JAEQCD01
+GCA_020738665.1	Microcoleus sp. PH2017_08_TRC_O_A				PH2017_08_TRC_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7560343	Scaffold	2021-11-03	JAEQCE01
+GCA_020738625.1	Microcoleus sp. PH2017_09_SFU_O_A				PH2017_09_SFU_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7233362	Scaffold	2021-11-03	JAEQCF01
+GCA_020738635.1	Microcoleus sp. PH2017_10_PVI_O_A				PH2017_10_PVI_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7555786	Scaffold	2021-11-03	JAEQCG01
+GCA_020738595.1	Microcoleus sp. PH2017_11_PCY_U_A				PH2017_11_PCY_U_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7624754	Scaffold	2021-11-03	JAEQCH01
+GCA_020738565.1	Microcoleus sp. PH2017_12_PCY_D_A				PH2017_12_PCY_D_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7603305	Scaffold	2021-11-03	JAEQCI01
+GCA_020738505.1	Microcoleus sp. PH2017_13_LAR_U_A				PH2017_13_LAR_U_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7575791	Scaffold	2021-11-03	JAEQCJ01
+GCA_020738465.1	Microcoleus sp. PH2017_14_LAR_D_A				PH2017_14_LAR_D_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7586717	Scaffold	2021-11-03	JAEQCK01
+GCA_020738445.1	Microcoleus sp. PH2017_15_JOR_U_A				PH2017_15_JOR_U_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7647288	Scaffold	2021-11-03	JAEQCL01
+GCA_020738475.1	Microcoleus sp. PH2017_16_JOR_D_A				PH2017_16_JOR_D_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7354120	Scaffold	2021-11-03	JAEQCM01
+GCA_020738515.1	Microcoleus sp. PH2017_17_BER_D_A				PH2017_17_BER_D_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7613317	Scaffold	2021-11-03	JAEQCN01
+GCA_020738385.1	Microcoleus sp. PH2017_18_LLB_O_A				PH2017_18_LLB_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7525551	Scaffold	2021-11-03	JAEQCO01
+GCA_020738265.1	Microcoleus sp. PH2017_19_SFW_U_A				PH2017_19_SFW_U_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7585625	Scaffold	2021-11-03	JAEQCP01
+GCA_020738295.1	Microcoleus sp. PH2017_20_SFW_D_A				PH2017_20_SFW_D_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7593467	Scaffold	2021-11-03	JAEQCQ01
+GCA_020738285.1	Microcoleus sp. PH2017_21_RUC_O_A				PH2017_21_RUC_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7523049	Scaffold	2021-11-03	JAEQCR01
+GCA_020738275.1	Microcoleus sp. PH2017_22_RUC_O_B				PH2017_22_RUC_O_B		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7503682	Scaffold	2021-11-03	JAEQCS01
+GCA_020738205.1	Microcoleus sp. PH2017_24_DOB_U_A				PH2017_24_DOB_U_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7459424	Scaffold	2021-11-03	JAEQCT01
+GCA_020738135.1	Microcoleus sp. PH2017_25_DOB_D_A				PH2017_25_DOB_D_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7466140	Scaffold	2021-11-03	JAEQCU01
+GCA_020738105.1	Microcoleus sp. PH2017_26_ELK_O_A				PH2017_26_ELK_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7737596	Scaffold	2021-11-03	JAEQCV01
+GCA_020738075.1	Microcoleus sp. PH2017_27_LUM_O_A				PH2017_27_LUM_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7492223	Scaffold	2021-11-03	JAEQCW01
+GCA_020738035.1	Microcoleus sp. PH2017_28_MFU_U_A				PH2017_28_MFU_U_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7559300	Scaffold	2021-11-03	JAEQCX01
+GCA_020738025.1	Microcoleus sp. PH2017_29_MFU_D_A				PH2017_29_MFU_D_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7639537	Scaffold	2021-11-03	JAEQCY01
+GCA_020737965.1	Microcoleus sp. PH2017_30_WIL_O_A				PH2017_30_WIL_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7843309	Scaffold	2021-11-03	JAEQCZ01
+GCA_020737895.1	Microcoleus sp. PH2017_31_RDM_U_A				PH2017_31_RDM_U_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7525651	Scaffold	2021-11-03	JAEQDA01
+GCA_020737945.1	Microcoleus sp. PH2017_32_RDM_D_A				PH2017_32_RDM_D_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7527500	Scaffold	2021-11-03	JAEQDB01
+GCA_020737905.1	Microcoleus sp. PH2017_33_LGB_O_A				PH2017_33_LGB_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7238112	Scaffold	2021-11-03	JAEQDC01
+GCA_020737885.1	Microcoleus sp. PH2017_34_RAT_O_A				PH2017_34_RAT_O_A		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7467879	Scaffold	2021-11-03	JAEQDD01
+GCA_020737865.1	Microcoleus sp. PH2017_35_SFW_U_B				PH2017_35_SFW_U_B		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7592293	Scaffold	2021-11-03	JAEQDE01
+GCA_020737805.1	Microcoleus sp. PH2017_36_ELK_O_B				PH2017_36_ELK_O_B		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7742901	Scaffold	2021-11-03	JAEQDF01
+GCA_020737775.1	Microcoleus sp. PH2017_37_MFU_D_B				PH2017_37_MFU_D_B		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7585384	Scaffold	2021-11-03	JAEQDG01
+GCA_020737765.1	Microcoleus sp. PH2017_38_RDM_U_B				PH2017_38_RDM_U_B		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7539312	Scaffold	2021-11-03	JAEQDH01
+GCA_020737835.1	Microcoleus sp. PH2017_39_LGB_O_B				PH2017_39_LGB_O_B		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7232803	Scaffold	2021-11-03	JAEQDI01
+GCA_020737825.1	Microcoleus sp. PH2017_40_RAT_O_B				PH2017_40_RAT_O_B		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7528392	Scaffold	2021-11-03	JAEQDJ01
+GCA_010672365.1	Microcoleus sp. SIO2G3				SIO2G3		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	10324017	Scaffold	2020-02-16	JAAHGV01
+GCA_012030835.1	Microcoleus sp. SU_5_3				SU_5_3		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7118402	Scaffold	2020-04-05	JAAUVD01
+GCF_007990565.1	Microcystis aeruginosa 11-30S32		11-30S32				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5356852	Scaffold	2019-08-01	BHVU01
+GCA_007990565.1	Microcystis aeruginosa 11-30S32		11-30S32				Annotation submitted by Laboratory of Marine Microbiology, Graduate school of Agriculture, Kyoto university	5356852	Scaffold	2019-08-01	BHVU01
+GCA_009996525.1	Microcystis aeruginosa BK11-02				BK11-02		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4923799	Scaffold	2020-01-29	JAADAC01
+GCA_009996535.1	Microcystis aeruginosa BS11-05				BS11-05		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4924915	Scaffold	2020-01-29	JAADAD01
+GCA_009996485.1	Microcystis aeruginosa BS13-02				BS13-02		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4624404	Scaffold	2020-01-29	JAADAE01
+GCA_009996415.1	Microcystis aeruginosa BS13-10				BS13-10		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5179655	Scaffold	2020-01-29	JAADAF01
+GCF_001895325.1	Microcystis aeruginosa CHAOHU 1326		CHAOHU 1326				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5271683	Scaffold	2016-12-09	MOLZ01
+GCA_001895325.1	Microcystis aeruginosa CHAOHU 1326		CHAOHU 1326					5271683	Scaffold	2016-12-09	MOLZ01
+GCA_003388675.1	Microcystis aeruginosa DA14				DA14		NCBI Prokaryotic Genome Annotation Pipeline	5140879	Scaffold	2018-08-14	QQWE01
+GCA_009996455.1	Microcystis aeruginosa F13-15				F13-15		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5435224	Scaffold	2020-01-29	JAADAG01
+GCF_003730145.1	Microcystis aeruginosa FACHB-524		FACHB-524				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4845568	Scaffold	2018-11-14	RJVW01
+GCA_003730145.1	Microcystis aeruginosa FACHB-524		FACHB-524				NCBI Prokaryotic Genome Annotation Pipeline	4845568	Scaffold	2018-11-14	RJVW01
+GCA_009996405.1	Microcystis aeruginosa G11-01				G11-01		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5239892	Scaffold	2020-01-29	JAADAH01
+GCA_009996445.1	Microcystis aeruginosa G11-04				G11-04		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5001263	Scaffold	2020-01-29	JAADAI01
+GCA_009996385.1	Microcystis aeruginosa G11-06				G11-06		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5135684	Scaffold	2020-01-29	JAADAJ01
+GCA_009996365.1	Microcystis aeruginosa G11-09				G11-09		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5067842	Scaffold	2020-01-29	JAADAK01
+GCA_009996325.1	Microcystis aeruginosa G13-01				G13-01		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5071891	Scaffold	2020-01-29	JAADAL01
+GCA_009996315.1	Microcystis aeruginosa G13-03				G13-03		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5124586	Scaffold	2020-01-29	JAADAM01
+GCA_009996285.1	Microcystis aeruginosa G13-05				G13-05		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5110248	Scaffold	2020-01-29	JAADAN01
+GCA_009996305.1	Microcystis aeruginosa G13-07				G13-07		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5086490	Scaffold	2020-01-29	JAADAO01
+GCA_009996255.1	Microcystis aeruginosa G13-09				G13-09		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4912351	Scaffold	2020-01-29	JAADAP01
+GCA_009996235.1	Microcystis aeruginosa G13-10				G13-10		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5115854	Scaffold	2020-01-29	JAADAQ01
+GCA_009996195.1	Microcystis aeruginosa G13-11				G13-11		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5017716	Scaffold	2020-01-29	JAADAR01
+GCA_009996205.1	Microcystis aeruginosa G13-12				G13-12		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5074513	Scaffold	2020-01-29	JAADAS01
+GCA_009996185.1	Microcystis aeruginosa K13-05				K13-05		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5273531	Scaffold	2020-01-29	JAADAT01
+GCA_009996165.1	Microcystis aeruginosa K13-06				K13-06		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4988130	Scaffold	2020-01-29	JAADAU01
+GCA_009996145.1	Microcystis aeruginosa K13-07				K13-07		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4981878	Scaffold	2020-01-29	JAADAV01
+GCA_009996105.1	Microcystis aeruginosa K13-10				K13-10		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5313379	Scaffold	2020-01-29	JAADAW01
+GCF_008257445.1	Microcystis aeruginosa KLA2		KLA2				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5213465	Scaffold	2019-09-03	VTRR01
+GCA_008257445.1	Microcystis aeruginosa KLA2		KLA2				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5213465	Scaffold	2019-09-03	VTRR01
+GCA_009996095.1	Microcystis aeruginosa L111-01				L111-01		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5012425	Scaffold	2020-01-29	JAADAX01
+GCA_009996085.1	Microcystis aeruginosa L211-07				L211-07		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4934342	Scaffold	2020-01-29	JAADAY01
+GCA_009996045.1	Microcystis aeruginosa L211-101				L211-101		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5104737	Scaffold	2020-01-29	JAADAZ01
+GCA_009996055.1	Microcystis aeruginosa L211-11				L211-11		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5115307	Scaffold	2020-01-29	JAADBA01
+GCA_009996025.1	Microcystis aeruginosa L311-01				L311-01		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4768617	Scaffold	2020-01-29	JAADBB01
+GCA_009995995.1	Microcystis aeruginosa LE13-04				LE13-04		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5037574	Scaffold	2020-01-29	JAADBC01
+GCA_009995965.1	Microcystis aeruginosa LG11-05				LG11-05		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5059631	Scaffold	2020-01-29	JAADBD01
+GCA_009995985.1	Microcystis aeruginosa LG13-03				LG13-03		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5040932	Scaffold	2020-01-29	JAADBE01
+GCA_009995945.1	Microcystis aeruginosa LG13-11				LG13-11		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5079950	Scaffold	2020-01-29	JAADBF01
+GCA_009995925.1	Microcystis aeruginosa LG13-12				LG13-12		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4984250	Scaffold	2020-01-29	JAADBG01
+GCA_009995845.1	Microcystis aeruginosa LG13-13				LG13-13		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5048915	Scaffold	2020-01-29	JAADBH01
+GCA_009995885.1	Microcystis aeruginosa LL13-03				LL13-03		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5133314	Scaffold	2020-01-29	JAADBJ01
+GCA_009995895.1	Microcystis aeruginosa LL13-06				LL13-06		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4822445	Scaffold	2020-01-29	JAADBK01
+GCF_003206625.1	Microcystis aeruginosa NIES-1211		NIES-1211				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4738389	Scaffold	2018-06-08	BEIV01
+GCA_003206625.1	Microcystis aeruginosa NIES-1211		NIES-1211				Annotation submitted by University of Tsukuba	4738389	Scaffold	2018-06-08	BEIV01
+GCF_008579225.1	Microcystis aeruginosa NIES-2519		NIES-2519				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4937310	Scaffold	2019-09-03	BHVO01
+GCA_008579225.1	Microcystis aeruginosa NIES-2519		NIES-2519				Annotation submitted by University of Tsukuba	4937310	Scaffold	2019-09-03	BHVO01
+GCF_008579325.1	Microcystis aeruginosa NIES-2520		NIES-2520				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5271797	Scaffold	2019-09-03	BHVP01
+GCA_008579325.1	Microcystis aeruginosa NIES-2520		NIES-2520				Annotation submitted by University of Tsukuba	5271797	Scaffold	2019-09-03	BHVP01
+GCF_008579445.1	Microcystis aeruginosa NIES-2521		NIES-2521				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4274778	Scaffold	2019-09-03	BHVQ01
+GCA_008579445.1	Microcystis aeruginosa NIES-2521		NIES-2521				Annotation submitted by Universit of Tsukuba	4274778	Scaffold	2019-09-03	BHVQ01
+GCF_008579565.1	Microcystis aeruginosa NIES-2522		NIES-2522				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4895273	Scaffold	2019-09-03	BHVR01
+GCA_008579565.1	Microcystis aeruginosa NIES-2522		NIES-2522				Annotation submitted by University of Tsukuba	4895273	Scaffold	2019-09-03	BHVR01
+GCF_002897275.1	Microcystis aeruginosa NIES-298		NIES-298				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4923814	Scaffold	2018-01-09	BEIU01
+GCF_002897315.1	Microcystis aeruginosa NIES-298		NIES-298				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4957478	Scaffold	2017-12-21	BEYQ01
+GCA_002897275.1	Microcystis aeruginosa NIES-298		NIES-298				Annotation submitted by Laboratory of Marine Microbiology, Graduate school of Agriculture, Kyoto university	4923814	Scaffold	2018-01-09	BEIU01
+GCA_002897315.1	Microcystis aeruginosa NIES-298		NIES-298				Annotation submitted by National Institute for Environmental Studies	4957478	Scaffold	2017-12-21	BEYQ01
+GCF_008579685.1	Microcystis aeruginosa NIES-4264		NIES-4264				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4970456	Scaffold	2019-09-03	BHVS01
+GCA_008579685.1	Microcystis aeruginosa NIES-4264		NIES-4264				Annotation submitted by University of Tsukuba	4970456	Scaffold	2019-09-03	BHVS01
+GCF_004305995.1	Microcystis aeruginosa NIES-4285		NIES-4285				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5254657	Scaffold	2019-02-13	BIFY01
+GCA_004305995.1	Microcystis aeruginosa NIES-4285		NIES-4285				Annotation submitted by University of Tsukuba	5254657	Scaffold	2019-02-13	BIFY01
+GCF_008974145.1	Microcystis aeruginosa NIES-4325		NIES-4325				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3883890	Scaffold	2019-09-27	BJKP01
+GCA_008974145.1	Microcystis aeruginosa NIES-4325		NIES-4325				Annotation submitted by National Institute for Environmental Studies	3883890	Scaffold	2019-09-27	BJKP01
+GCF_002933835.1	Microcystis aeruginosa NIES-87		NIES-87				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4947287	Scaffold	2018-01-25	BFAC01
+GCA_002933835.1	Microcystis aeruginosa NIES-87		NIES-87				Annotation submitted by National Institute for Environmental Studies	4947287	Scaffold	2018-01-25	BFAC01
+GCF_001578075.1	Microcystis aeruginosa NIES-88		NIES-88				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5263219	Scaffold	2016-03-01	JXYX01
+GCA_001578075.1	Microcystis aeruginosa NIES-88		NIES-88				NCBI Prokaryotic Genome Annotation Pipeline	5263219	Scaffold	2016-03-01	JXYX01
+GCF_001725075.1	Microcystis aeruginosa NIES-98		NIES-98				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4983728	Scaffold	2016-09-13	MDZH01
+GCA_001725075.1	Microcystis aeruginosa NIES-98		NIES-98				Annotation submitted by National Institute for Environmental Studies	4983728	Scaffold	2016-09-13	MDZH01
+GCF_000312205.1	Microcystis aeruginosa PCC 7941		7941				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4801899	Scaffold	2012-08-06	CAIK01
+GCA_000312205.1	Microcystis aeruginosa PCC 7941		7941				Annotation submitted by Genoscope CEA	4801899	Scaffold	2012-08-06	CAIK01
+GCF_000307995.1	Microcystis aeruginosa PCC 9432		PCC 9432				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4994942	Scaffold	2012-08-06	CAIH01
+GCA_000307995.2	Microcystis aeruginosa PCC 9432		PCC 9432				Annotation submitted by Genoscope CEA	4994942	Scaffold	2012-08-06	CAIH01
+GCF_000312185.1	Microcystis aeruginosa PCC 9443		PCC 9443				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5185041	Scaffold	2012-08-06	CAIJ01
+GCA_000312185.1	Microcystis aeruginosa PCC 9443		PCC 9443				Annotation submitted by Genoscope CEA	5185041	Scaffold	2012-08-06	CAIJ01
+GCF_000312285.1	Microcystis aeruginosa PCC 9701		PCC 9701				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4755998	Scaffold	2012-08-06	CAIQ01
+GCA_000312285.1	Microcystis aeruginosa PCC 9701		PCC 9701				Annotation submitted by Genoscope CEA	4755998	Scaffold	2012-08-06	CAIQ01
+GCF_000312165.1	Microcystis aeruginosa PCC 9717		PCC 9717				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5300338	Scaffold	2012-08-06	CAII01
+GCA_000312165.1	Microcystis aeruginosa PCC 9717		PCC 9717				Annotation submitted by Genoscope CEA	5300338	Scaffold	2012-08-06	CAII01
+GCF_000312725.1	Microcystis aeruginosa PCC 9806		PCC 9806				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4262564	Scaffold	2012-08-06	CAIL01
+GCA_000312725.1	Microcystis aeruginosa PCC 9806		PCC 9806				Annotation submitted by Genoscope CEA	4262564	Scaffold	2012-08-06	CAIL01
+GCF_000312225.1	Microcystis aeruginosa PCC 9807		PCC 9807				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5155707	Scaffold	2012-08-06	CAIM01
+GCA_000312225.1	Microcystis aeruginosa PCC 9807		PCC 9807				Annotation submitted by Genoscope CEA	5155707	Scaffold	2012-08-06	CAIM01
+GCF_000312245.1	Microcystis aeruginosa PCC 9808		PCC 9808				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5051045	Scaffold	2012-08-06	CAIN01
+GCA_000312245.1	Microcystis aeruginosa PCC 9808		PCC 9808				Annotation submitted by Genoscope CEA	5051045	Scaffold	2012-08-06	CAIN01
+GCF_000312265.1	Microcystis aeruginosa PCC 9809		PCC 9809				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5011016	Scaffold	2012-08-06	CAIO01
+GCA_000312265.1	Microcystis aeruginosa PCC 9809		PCC 9809				Annotation submitted by Genoscope CEA	5011016	Scaffold	2012-08-06	CAIO01
+GCA_009995825.1	Microcystis aeruginosa S11-01				S11-01		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4979827	Scaffold	2020-01-29	JAADBL01
+GCA_009995785.1	Microcystis aeruginosa S11-05				S11-05		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4975521	Scaffold	2020-01-29	JAADBM01
+GCA_009995735.1	Microcystis aeruginosa SX13-01				SX13-01		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5276561	Scaffold	2020-01-29	JAADBN01
+GCF_003206555.1	Microcystis aeruginosa Sj		Sj				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4617322	Scaffold	2018-06-08	BDSG01
+GCA_003206555.1	Microcystis aeruginosa Sj		Sj				Annotation submitted by University of Tsukuba	4617322	Scaffold	2018-06-08	BDSG01
+GCA_003388685.1	Microcystis aeruginosa TA09				TA09		NCBI Prokaryotic Genome Annotation Pipeline	5012749	Scaffold	2018-08-14	QQWA01
+GCA_009995775.1	Microcystis aeruginosa W11-03				W11-03		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4478998	Scaffold	2020-01-29	JAADBP01
+GCA_009995765.1	Microcystis aeruginosa W11-06				W11-06		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4480325	Scaffold	2020-01-29	JAADBQ01
+GCA_009995705.1	Microcystis aeruginosa W13-11				W13-11		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4866322	Scaffold	2020-01-29	JAADBR01
+GCA_009995685.1	Microcystis aeruginosa W13-13				W13-13		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4964311	Scaffold	2020-01-29	JAADBS01
+GCA_009995645.1	Microcystis aeruginosa W13-15				W13-15		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5065390	Scaffold	2020-01-29	JAADBT01
+GCA_009995625.1	Microcystis aeruginosa W13-16				W13-16		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5005468	Scaffold	2020-01-29	JAADBU01
+GCA_009995635.1	Microcystis aeruginosa W13-18				W13-18		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4974513	Scaffold	2020-01-29	JAADBV01
+GCA_003389435.1	Microcystis flos-aquae DF17				DF17		NCBI Prokaryotic Genome Annotation Pipeline	4931346	Scaffold	2018-08-14	QQWB01
+GCF_003112475.1	Microcystis sp. 0824		0824				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4103170	Scaffold	2018-02-20	BDSM01
+GCA_003112475.1	Microcystis sp. 0824		0824				Annotation submitted by Akita Prefectural University	4103170	Scaffold	2018-02-20	BDSM01
+GCA_021300285.1	Microcystis sp. 49638_E5				49638_E5		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4742130	Scaffold	2021-12-27	JAJTDH01
+GCA_021300255.1	Microcystis sp. 53598_E5				53598_E5		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3059545	Scaffold	2021-12-27	JAJTDG01
+GCA_021300215.1	Microcystis sp. 53602_E8				53602_E8		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4449360	Scaffold	2021-12-27	JAJTDD01
+GCA_003386495.1	Microcystis wesenbergii TW10				TW10		NCBI Prokaryotic Genome Annotation Pipeline	4556116	Scaffold	2018-08-14	QQWD01
+GCF_001942495.1	Moorena bouillonii PNG		PNG5-198				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8319104	Scaffold	2017-01-11	MKZS01
+GCA_001942495.1	Moorena bouillonii PNG		PNG5-198				NCBI Prokaryotic Genome Annotation Pipeline	8319104	Scaffold	2017-01-11	MKZS01
+GCF_000211815.1	Moorena producens 3L		3L				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8478612	Scaffold	2011-05-09	AEPQ01
+GCF_001942475.1	Moorena producens 3L		3L				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8371387	Scaffold	2017-01-11	MKZR01
+GCA_000211815.1	Moorena producens 3L		3L				Annotation submitted by University of California, San Diego, Scripps Institution of Oceanography	8478612	Scaffold	2011-05-09	AEPQ01
+GCA_001942475.1	Moorena producens 3L		3L				NCBI Prokaryotic Genome Annotation Pipeline	8371387	Scaffold	2017-01-11	MKZR01
+GCA_010672755.1	Moorena sp. SIO1F2				SIO1F2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7118633	Scaffold	2020-02-16	JAAHFV01
+GCA_010672795.1	Moorena sp. SIO1G6				SIO1G6		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8303279	Scaffold	2020-02-16	JAAHFZ01
+GCA_010672555.1	Moorena sp. SIO2B7				SIO2B7		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8871311	Scaffold	2020-02-16	JAAHGJ01
+GCA_010672485.1	Moorena sp. SIO2C4				SIO2C4		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7901001	Scaffold	2020-02-16	JAAHGN01
+GCA_010672285.1	Moorena sp. SIO2I5				SIO2I5		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	10479999	Scaffold	2020-02-16	JAAHHB01
+GCA_010672265.1	Moorena sp. SIO3A2				SIO3A2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8376638	Scaffold	2020-02-16	JAAHHC01
+GCA_010672205.1	Moorena sp. SIO3A5				SIO3A5		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8318518	Scaffold	2020-02-16	JAAHHD01
+GCA_010692525.1	Moorena sp. SIO3B2				SIO3B2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9185209	Scaffold	2020-02-16	JAAHHE01
+GCA_010692465.1	Moorena sp. SIO3C2				SIO3C2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8562960	Scaffold	2020-02-16	JAAHHH01
+GCA_010672195.1	Moorena sp. SIO3E2				SIO3E2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6245696	Scaffold	2020-02-16	JAAHHK01
+GCA_010692445.1	Moorena sp. SIO3E8				SIO3E8		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8535497	Scaffold	2020-02-16	JAAHHM01
+GCA_010672105.1	Moorena sp. SIO3F7				SIO3F7		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8521894	Scaffold	2020-02-16	JAAHHP01
+GCA_010692495.1	Moorena sp. SIO3G5				SIO3G5		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9194339	Scaffold	2020-02-16	JAAHHQ01
+GCA_010692395.1	Moorena sp. SIO3H5				SIO3H5		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8356017	Scaffold	2020-02-16	JAAHHS01
+GCA_010672095.1	Moorena sp. SIO3I6				SIO3I6		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	10286625	Scaffold	2020-02-16	JAAHHU01
+GCA_010692375.1	Moorena sp. SIO3I7				SIO3I7		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9978530	Scaffold	2020-02-16	JAAHHV01
+GCA_010692325.1	Moorena sp. SIO3I8				SIO3I8		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7992293	Scaffold	2020-02-16	JAAHHW01
+GCA_010672065.1	Moorena sp. SIO4A1				SIO4A1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9140472	Scaffold	2020-02-16	JAAHHX01
+GCA_010672045.1	Moorena sp. SIO4A3				SIO4A3		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9849590	Scaffold	2020-02-16	JAAHHY01
+GCA_010672005.1	Moorena sp. SIO4A5				SIO4A5		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8675040	Scaffold	2020-02-16	JAAHHZ01
+GCA_010671945.1	Moorena sp. SIO4E2				SIO4E2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9155455	Scaffold	2020-02-16	JAAHIE01
+GCA_010692345.1	Moorena sp. SIO4G2				SIO4G2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8353506	Scaffold	2020-02-16	JAAHIF01
+GCA_010692305.1	Moorena sp. SIO4G3				SIO4G3		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9930682	Scaffold	2020-02-16	JAAHIG01
+GCF_010091945.1	Myxacorys almedinensis A		A				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4958574	Scaffold	2020-01-31	WVIE01
+GCA_010091945.1	Myxacorys almedinensis A		A				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4958574	Scaffold	2020-01-31	WVIE01
+GCF_000309385.1	Nodosilinea nodulosa PCC 7104		PCC 7104				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6891283	Scaffold	2012-11-05	ALVP01
+GCA_000309385.1	Nodosilinea nodulosa PCC 7104		PCC 7104					6891283	Scaffold	2012-11-05	ALVP01
+GCF_012911975.1	Nodosilinea sp. P-1105		P-1105				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6012553	Scaffold	2020-04-27	SMDQ01
+GCA_012911975.1	Nodosilinea sp. P-1105		P-1105				NCBI Prokaryotic Genome Annotation Pipeline	6012553	Scaffold	2020-04-27	SMDQ01
+GCF_015207755.1	Nodularia sp. LEGE 06071		LEGE 06071				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5581866	Scaffold	2020-11-02	JADEWH01
+GCA_015207755.1	Nodularia sp. LEGE 06071		LEGE 06071				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5581866	Scaffold	2020-11-02	JADEWH01
+GCF_002218065.1	Nodularia sp. NIES-3585		NIES-3585				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5773538	Scaffold	2017-06-23	BDUB01
+GCA_002218065.1	Nodularia sp. NIES-3585		NIES-3585				Annotation submitted by Toyohashi University of Technology	5773538	Scaffold	2017-06-23	BDUB01
+GCF_001904715.1	Nostoc calcicola FACHB-389		FACHB-389				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9049214	Scaffold	2016-12-14	MRBZ01
+GCA_001904715.1	Nostoc calcicola FACHB-389		FACHB-389				NCBI Prokaryotic Genome Annotation Pipeline	9049214	Scaffold	2016-12-14	MRBZ01
+GCF_003113895.1	Nostoc commune NIES-4072		NIES-4072				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8198700	Scaffold	2018-04-04	BDUD01
+GCA_003113895.1	Nostoc commune NIES-4072		NIES-4072				Annotation submitted by Toyohashi University of Technology	8198700	Scaffold	2018-04-04	BDUD01
+GCF_002897135.1	Nostoc cycadae WK-1		WK-1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6994461	Scaffold	2017-12-22	BDGE01
+GCA_002897135.1	Nostoc cycadae WK-1		WK-1				Annotation submitted by NODAI Genome Research Center, Tokyo University of Agriculture	6994461	Scaffold	2017-12-22	BDGE01
+GCF_020829495.1	Nostoc favosum CHAB5714		CHAB 5714				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8512220	Scaffold	2021-11-10	JAIVFQ01
+GCA_020829495.1	Nostoc favosum CHAB5714		CHAB 5714				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8512220	Scaffold	2021-11-10	JAIVFQ01
+GCF_002607965.1	Nostoc linckia z1		z1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9033951	Scaffold	2017-10-20	LAGX01
+GCA_002607965.1	Nostoc linckia z1		z1				NCBI Prokaryotic Genome Annotation Pipeline	9033951	Scaffold	2017-10-20	LAGX01
+GCF_002608275.1	Nostoc linckia z13		z13				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9177463	Scaffold	2017-10-20	LAHF01
+GCA_002608275.1	Nostoc linckia z13		z13				NCBI Prokaryotic Genome Annotation Pipeline	9177463	Scaffold	2017-10-20	LAHF01
+GCF_002608345.1	Nostoc linckia z14		z14				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8997043	Scaffold	2017-10-20	LAHG01
+GCA_002608345.1	Nostoc linckia z14		z14				NCBI Prokaryotic Genome Annotation Pipeline	8997043	Scaffold	2017-10-20	LAHG01
+GCF_002607925.1	Nostoc linckia z18		z18				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8898113	Scaffold	2017-10-20	LAHJ01
+GCA_002607925.1	Nostoc linckia z18		z18				NCBI Prokaryotic Genome Annotation Pipeline	8898113	Scaffold	2017-10-20	LAHJ01
+GCF_002607955.1	Nostoc linckia z2		z2				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9011414	Scaffold	2017-10-20	LAGY01
+GCA_002607955.1	Nostoc linckia z2		z2				NCBI Prokaryotic Genome Annotation Pipeline	9011414	Scaffold	2017-10-20	LAGY01
+GCF_002608015.1	Nostoc linckia z3		z3				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8984433	Scaffold	2017-10-20	LAGZ01
+GCA_002608015.1	Nostoc linckia z3		z3				NCBI Prokaryotic Genome Annotation Pipeline	8984433	Scaffold	2017-10-20	LAGZ01
+GCF_002608075.1	Nostoc linckia z4		z4				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8997966	Scaffold	2017-10-20	LAHA01
+GCA_002608075.1	Nostoc linckia z4		z4				NCBI Prokaryotic Genome Annotation Pipeline	8997966	Scaffold	2017-10-20	LAHA01
+GCF_002608105.1	Nostoc linckia z6		z6				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9014207	Scaffold	2017-10-20	LAHB01
+GCA_002608105.1	Nostoc linckia z6		z6				NCBI Prokaryotic Genome Annotation Pipeline	9014207	Scaffold	2017-10-20	LAHB01
+GCF_002608135.1	Nostoc linckia z7		z7				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9038860	Scaffold	2017-10-20	LAHC01
+GCA_002608135.1	Nostoc linckia z7		z7				NCBI Prokaryotic Genome Annotation Pipeline	9038860	Scaffold	2017-10-20	LAHC01
+GCF_002608145.1	Nostoc linckia z8		z8				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9054479	Scaffold	2017-10-20	LAHD01
+GCA_002608145.1	Nostoc linckia z8		z8				NCBI Prokaryotic Genome Annotation Pipeline	9054479	Scaffold	2017-10-20	LAHD01
+GCF_002608225.1	Nostoc linckia z9		z9				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8951761	Scaffold	2017-10-20	LAHE01
+GCA_002608225.1	Nostoc linckia z9		z9				NCBI Prokaryotic Genome Annotation Pipeline	8951761	Scaffold	2017-10-20	LAHE01
+GCF_020829645.1	Nostoc mirabile CHAB5784		CHAB 5784				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9882092	Scaffold	2021-11-10	JAIVFS01
+GCA_020829645.1	Nostoc mirabile CHAB5784		CHAB 5784				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9882092	Scaffold	2021-11-10	JAIVFS01
+GCA_003326195.1	Nostoc punctiforme NIES-2108				NIES-2108		NCBI Prokaryotic Genome Annotation Pipeline	9204130	Scaffold	2018-07-18	LXQE01
+GCF_002631755.1	Nostoc sp. 'Peltigera malacea cyanobiont' DB3992				DB3992		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8521473	Scaffold	2017-10-23	NSHF01
+GCA_002631755.1	Nostoc sp. 'Peltigera malacea cyanobiont' DB3992				DB3992		NCBI Prokaryotic Genome Annotation Pipeline	8521473	Scaffold	2017-10-23	NSHF01
+GCF_002246015.1	Nostoc sp. 'Peltigera membranacea cyanobiont' 210A		210A				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8325913	Scaffold	2017-08-11	NOLJ01
+GCA_002246015.1	Nostoc sp. 'Peltigera membranacea cyanobiont' 210A		210A				NCBI Prokaryotic Genome Annotation Pipeline	8325913	Scaffold	2017-08-11	NOLJ01
+GCF_002245975.1	Nostoc sp. 'Peltigera membranacea cyanobiont' 213		213				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8331440	Scaffold	2017-08-11	NOLI01
+GCA_002245975.1	Nostoc sp. 'Peltigera membranacea cyanobiont' 213		213				NCBI Prokaryotic Genome Annotation Pipeline	8331440	Scaffold	2017-08-11	NOLI01
+GCF_002245985.1	Nostoc sp. 'Peltigera membranacea cyanobiont' 232		232				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9158766	Scaffold	2017-08-11	NOLK01
+GCA_002245985.1	Nostoc sp. 'Peltigera membranacea cyanobiont' 232		232				NCBI Prokaryotic Genome Annotation Pipeline	9158766	Scaffold	2017-08-11	NOLK01
+GCF_010091925.1	Nostoc sp. B(2019)		B				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7426239	Scaffold	2020-01-31	WVID01
+GCA_010091925.1	Nostoc sp. B(2019)		B				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7426239	Scaffold	2020-01-31	WVID01
+GCF_020829685.1	Nostoc sp. CHAB 5715		CHAB 5715				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7052049	Scaffold	2021-11-10	JAIVFR01
+GCA_020829685.1	Nostoc sp. CHAB 5715		CHAB 5715				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7052049	Scaffold	2021-11-10	JAIVFR01
+GCF_020829665.1	Nostoc sp. CHAB 5824		CHAB 5824				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8112251	Scaffold	2021-11-10	JAIVFT01
+GCA_020829665.1	Nostoc sp. CHAB 5824		CHAB 5824				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8112251	Scaffold	2021-11-10	JAIVFT01
+GCF_020829445.1	Nostoc sp. CHAB 5836		CHAB 5836				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7457132	Scaffold	2021-11-10	JAIVFV01
+GCA_020829445.1	Nostoc sp. CHAB 5836		CHAB 5836				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7457132	Scaffold	2021-11-10	JAIVFV01
+GCF_020829595.1	Nostoc sp. CHAB 5844		CHAB 5844				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7868011	Scaffold	2021-11-10	JAIVFW01
+GCA_020829595.1	Nostoc sp. CHAB 5844		CHAB 5844				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7868011	Scaffold	2021-11-10	JAIVFW01
+GCA_016743225.1	Nostoc sp. GBBB01				GBBB01		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8131703	Scaffold	2021-01-22	VRZE01
+GCA_017115065.1	Nostoc sp. JL23				JL23		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8059889	Scaffold	2021-03-01	JABXKN01
+GCA_017114965.1	Nostoc sp. JL31				JL31		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7630187	Scaffold	2021-03-01	JABXKO01
+GCA_017114985.1	Nostoc sp. JL33				JL33		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7108391	Scaffold	2021-03-01	JABXKP01
+GCA_017114945.1	Nostoc sp. JL34				JL34		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7818748	Scaffold	2021-03-01	JABXKQ01
+GCF_001712795.1	Nostoc sp. KVJ20		KVJ20				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9184886	Scaffold	2016-08-25	LSSA01
+GCA_001712795.1	Nostoc sp. KVJ20		KVJ20				NCBI Prokaryotic Genome Annotation Pipeline	9184886	Scaffold	2016-08-25	LSSA01
+GCF_015206985.1	Nostoc sp. LEGE 12447		LEGE 12447				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8559644	Scaffold	2020-11-02	JADEXT01
+GCA_015206985.1	Nostoc sp. LEGE 12447		LEGE 12447				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8559644	Scaffold	2020-11-02	JADEXT01
+GCA_017115165.1	Nostoc sp. LPT				LPT		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8613793	Scaffold	2021-03-01	JABXKF01
+GCA_001698435.1	Nostoc sp. MBR 210				MBR 210		NCBI Prokaryotic Genome Annotation Pipeline	6931753	Scaffold	2016-08-03	MBRD01
+GCA_017115145.1	Nostoc sp. NMS1				NMS1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7881170	Scaffold	2021-03-01	JABXKG01
+GCA_017115105.1	Nostoc sp. NMS2				NMS2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7571466	Scaffold	2021-03-01	JABXKH01
+GCA_017115095.1	Nostoc sp. NMS4				NMS4		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7584000	Scaffold	2021-03-01	JABXKI01
+GCA_017115085.1	Nostoc sp. NMS7				NMS7		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8287246	Scaffold	2021-03-01	JABXKJ01
+GCA_017115045.1	Nostoc sp. NMS8				NMS8		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7928202	Scaffold	2021-03-01	JABXKK01
+GCA_017114995.1	Nostoc sp. NMS9				NMS9		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8088017	Scaffold	2021-03-01	JABXKL01
+GCA_017115025.1	Nostoc sp. NOS(2021)				NOS		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7622323	Scaffold	2021-03-01	JABXKM01
+GCF_003990585.1	Nostoc sp. PCC 7120 = FACHB-418		PCC 7120				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7106927	Scaffold	2019-01-02	RSCN01
+GCA_003990585.1	Nostoc sp. PCC 7120 = FACHB-418		PCC 7120				Annotation submitted by Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures	7106927	Scaffold	2019-01-02	RSCN01
+GCF_002155185.1	Nostoc sp. RF31YmG		RF31YmG				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9205737	Scaffold	2017-05-22	MTAX01
+GCA_002155185.1	Nostoc sp. RF31YmG		RF31YmG				NCBI Prokaryotic Genome Annotation Pipeline	9205737	Scaffold	2017-05-22	MTAX01
+GCF_002154695.1	Nostoc sp. T09		T09				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8251853	Scaffold	2017-05-22	MTAV01
+GCA_002154695.1	Nostoc sp. T09		T09				NCBI Prokaryotic Genome Annotation Pipeline	8251853	Scaffold	2017-05-22	MTAV01
+GCA_003514525.1	Nostoc sp. UBA8866				UBA8866		NCBI Prokaryotic Genome Annotation Pipeline	6581789	Scaffold	2018-09-07	DOPZ01
+GCF_020829625.1	Nostoc sp. XA010		XA010				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8208034	Scaffold	2021-11-10	JAIVFX01
+GCA_020829625.1	Nostoc sp. XA010		XA010				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8208034	Scaffold	2021-11-10	JAIVFX01
+GCA_013821625.1	Nostocaceae cyanobacterium				MGR_bin409		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4382503	Scaffold	2020-07-28	JACDGJ01
+GCA_004293145.1	Nostocales cyanobacterium				PH2015_08D_39_10		NCBI Prokaryotic Genome Annotation Pipeline	4292379	Scaffold	2019-02-22	RDYJ01
+GCA_004293375.1	Nostocales cyanobacterium				PH2015_08D_37_15		NCBI Prokaryotic Genome Annotation Pipeline	3982087	Scaffold	2019-02-22	RDYK01
+GCA_013336095.1	Nostocales cyanobacterium W4_Combined_metabat2_030				W4_Combined_metabat2_030		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4093402	Scaffold	2020-06-11	JAAXUI01
+GCF_003838225.1	Okeania hirsuta		PAP21Jun06-1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8133347	Scaffold	2018-11-26	RCBZ01
+GCA_003838225.1	Okeania hirsuta		PAP21Jun06-1				NCBI Prokaryotic Genome Annotation Pipeline	8133347	Scaffold	2018-11-26	RCBZ01
+GCA_010672745.1	Okeania sp. SIO1F9				SIO1F9		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8343580	Scaffold	2020-02-16	JAAHFW01
+GCA_010672685.1	Okeania sp. SIO1H2				SIO1H2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8376780	Scaffold	2020-02-16	JAAHGA01
+GCA_010672695.1	Okeania sp. SIO1H4				SIO1H4		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8344149	Scaffold	2020-02-16	JAAHGB01
+GCA_010672625.1	Okeania sp. SIO1H5				SIO1H5		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8485944	Scaffold	2020-02-16	JAAHGC01
+GCA_010672645.1	Okeania sp. SIO1H6				SIO1H6		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8290290	Scaffold	2020-02-16	JAAHGD01
+GCA_010672585.1	Okeania sp. SIO1I7				SIO1I7		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9479399	Scaffold	2020-02-16	JAAHGF01
+GCA_010672525.1	Okeania sp. SIO2B3				SIO2B3		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	10005084	Scaffold	2020-02-16	JAAHGH01
+GCA_010672505.1	Okeania sp. SIO2B9				SIO2B9		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7647182	Scaffold	2020-02-16	JAAHGK01
+GCA_010692625.1	Okeania sp. SIO2C2				SIO2C2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8888403	Scaffold	2020-02-16	JAAHGM01
+GCA_010672455.1	Okeania sp. SIO2C9				SIO2C9		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	10878141	Scaffold	2020-02-16	JAAHGO01
+GCA_010672395.1	Okeania sp. SIO2D1				SIO2D1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	10586589	Scaffold	2020-02-16	JAAHGP01
+GCA_010672385.1	Okeania sp. SIO2F4				SIO2F4		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	10181347	Scaffold	2020-02-16	JAAHGT01
+GCA_010692685.1	Okeania sp. SIO2F5				SIO2F5		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8413035	Scaffold	2020-02-16	JAAHGU01
+GCA_010672295.1	Okeania sp. SIO2G4				SIO2G4		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8393698	Scaffold	2020-02-16	JAAHGW01
+GCA_010672305.1	Okeania sp. SIO2G5				SIO2G5		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8795720	Scaffold	2020-02-16	JAAHGX01
+GCA_010692585.1	Okeania sp. SIO2H7				SIO2H7		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9601789	Scaffold	2020-02-16	JAAHHA01
+GCA_010692535.1	Okeania sp. SIO3B3				SIO3B3		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	11072145	Scaffold	2020-02-16	JAAHHF01
+GCA_010692555.1	Okeania sp. SIO3B5				SIO3B5		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	11062972	Scaffold	2020-02-16	JAAHHG01
+GCA_010672215.1	Okeania sp. SIO3C4				SIO3C4		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9086190	Scaffold	2020-02-16	JAAHHI01
+GCA_010692435.1	Okeania sp. SIO3H1				SIO3H1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8736738	Scaffold	2020-02-16	JAAHHR01
+GCA_010672085.1	Okeania sp. SIO3I5				SIO3I5		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	10545295	Scaffold	2020-02-16	JAAHHT01
+GCA_010672015.1	Okeania sp. SIO4D6				SIO4D6		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6114458	Scaffold	2020-02-16	JAAHID01
+GCF_000332335.1	Oscillatoria sp. PCC 10802		PCC 10802				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8594406	Scaffold	2013-01-22	ANKO01
+GCA_000332335.1	Oscillatoria sp. PCC 10802		PCC 10802					8594406	Scaffold	2013-01-22	ANKO01
+GCA_010672965.1	Oscillatoria sp. SIO1A7				SIO1A7		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9081372	Scaffold	2020-02-16	JAAHFN01
+GCA_003514595.1	Oscillatoriales bacterium UBA8482				UBA8482		NCBI Prokaryotic Genome Annotation Pipeline	2511302	Scaffold	2018-09-07	DOPQ01
+GCA_004292515.1	Oscillatoriales cyanobacterium				PH2015_14S_56_116		NCBI Prokaryotic Genome Annotation Pipeline	3980870	Scaffold	2019-02-22	RDXB01
+GCA_004292525.1	Oscillatoriales cyanobacterium				PH2015_14S_45_132		NCBI Prokaryotic Genome Annotation Pipeline	5654374	Scaffold	2019-02-22	RDXC01
+GCA_004292585.1	Oscillatoriales cyanobacterium				PH2015_13U_45_97		NCBI Prokaryotic Genome Annotation Pipeline	5548356	Scaffold	2019-02-22	RDXF01
+GCA_004292745.1	Oscillatoriales cyanobacterium				PH2015_13D_45_19		NCBI Prokaryotic Genome Annotation Pipeline	5909242	Scaffold	2019-02-22	RDXH01
+GCA_004292775.1	Oscillatoriales cyanobacterium				PH2015_12U_45_315		NCBI Prokaryotic Genome Annotation Pipeline	7461196	Scaffold	2019-02-22	RDXJ01
+GCA_004292845.1	Oscillatoriales cyanobacterium				PH2015_12D_45_607		NCBI Prokaryotic Genome Annotation Pipeline	7090442	Scaffold	2019-02-22	RDXL01
+GCA_004292895.1	Oscillatoriales cyanobacterium				PH2015_11S_45_847		NCBI Prokaryotic Genome Annotation Pipeline	7030215	Scaffold	2019-02-22	RDXR01
+GCA_004292945.1	Oscillatoriales cyanobacterium				PH2015_10S_46_199		NCBI Prokaryotic Genome Annotation Pipeline	5837129	Scaffold	2019-02-22	RDXU01
+GCA_004292955.1	Oscillatoriales cyanobacterium				PH2015_09S_45_247		NCBI Prokaryotic Genome Annotation Pipeline	7300262	Scaffold	2019-02-22	RDXX01
+GCA_004293075.1	Oscillatoriales cyanobacterium				PH2015_08U_46_180		NCBI Prokaryotic Genome Annotation Pipeline	7270377	Scaffold	2019-02-22	RDYB01
+GCA_004293185.1	Oscillatoriales cyanobacterium				PH2015_07D_46_1245		NCBI Prokaryotic Genome Annotation Pipeline	6912109	Scaffold	2019-02-22	RDYR01
+GCA_004293335.1	Oscillatoriales cyanobacterium				PH2015_08D_46_1646		NCBI Prokaryotic Genome Annotation Pipeline	6919626	Scaffold	2019-02-22	RDYH01
+GCA_004293365.1	Oscillatoriales cyanobacterium				PH2015_07U_46_236		NCBI Prokaryotic Genome Annotation Pipeline	7298254	Scaffold	2019-02-22	RDYN01
+GCA_004293395.1	Oscillatoriales cyanobacterium				PH2015_08D_45_74		NCBI Prokaryotic Genome Annotation Pipeline	6229089	Scaffold	2019-02-22	RDYI01
+GCA_004293465.1	Oscillatoriales cyanobacterium				PH2015_07D_45_11		NCBI Prokaryotic Genome Annotation Pipeline	5135765	Scaffold	2019-02-22	RDYS01
+GCA_004293515.1	Oscillatoriales cyanobacterium				PH2015_06S_45_83		NCBI Prokaryotic Genome Annotation Pipeline	6345611	Scaffold	2019-02-22	RDZB01
+GCA_004293745.1	Oscillatoriales cyanobacterium				PH2015_01D_44_513		NCBI Prokaryotic Genome Annotation Pipeline	5745940	Scaffold	2019-02-22	REAY01
+GCA_004293835.1	Oscillatoriales cyanobacterium				PH2015_06S_46_2585		NCBI Prokaryotic Genome Annotation Pipeline	6539927	Scaffold	2019-02-22	RDZA01
+GCA_004293855.1	Oscillatoriales cyanobacterium				PH2015_06S_54_30		NCBI Prokaryotic Genome Annotation Pipeline	3523472	Scaffold	2019-02-22	RDYZ01
+GCA_004294025.1	Oscillatoriales cyanobacterium				PH2015_04U_45_1042		NCBI Prokaryotic Genome Annotation Pipeline	6294509	Scaffold	2019-02-22	RDZO01
+GCA_004294035.1	Oscillatoriales cyanobacterium				PH2015_05S_45_1152		NCBI Prokaryotic Genome Annotation Pipeline	7027012	Scaffold	2019-02-22	RDZK01
+GCA_004294125.1	Oscillatoriales cyanobacterium				PH2015_04D_45_965		NCBI Prokaryotic Genome Annotation Pipeline	7019447	Scaffold	2019-02-22	RDZU01
+GCA_004294275.1	Oscillatoriales cyanobacterium				PH2015_03D_45_235		NCBI Prokaryotic Genome Annotation Pipeline	7199038	Scaffold	2019-02-22	REAF01
+GCA_004294295.1	Oscillatoriales cyanobacterium				PH2015_03U_45_708		NCBI Prokaryotic Genome Annotation Pipeline	6741812	Scaffold	2019-02-22	REAA01
+GCA_004294345.1	Oscillatoriales cyanobacterium				PH2015_02U_45_393		NCBI Prokaryotic Genome Annotation Pipeline	7390914	Scaffold	2019-02-22	REAI01
+GCA_004294385.1	Oscillatoriales cyanobacterium				PH2015_01U_44_212		NCBI Prokaryotic Genome Annotation Pipeline	6033591	Scaffold	2019-02-22	REAP01
+GCA_004295175.1	Oscillatoriales cyanobacterium				PH2015_02D_45_1038		NCBI Prokaryotic Genome Annotation Pipeline	6026229	Scaffold	2019-02-22	REAK01
+GCA_004295285.1	Oscillatoriales cyanobacterium				PH2015_01D_46_31		NCBI Prokaryotic Genome Annotation Pipeline	5097598	Scaffold	2019-02-22	REAX01
+GCA_001873365.1	Oscillatoriales cyanobacterium CG2_30_40_61				CG2_30_40_61		NCBI Prokaryotic Genome Annotation Pipeline	4818830	Scaffold	2016-11-09	MNYZ01
+GCA_001873375.1	Oscillatoriales cyanobacterium CG2_30_44_21				CG2_30_44_21		NCBI Prokaryotic Genome Annotation Pipeline	3495288	Scaffold	2016-11-09	MNZA01
+GCA_012031195.1	Oscillatoriales cyanobacterium SM2_1_8				SM2_1_8		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2799453	Scaffold	2020-04-05	JAAUUG01
+GCA_001698425.1	Oscillatoriales cyanobacterium USR001				USR001		NCBI Prokaryotic Genome Annotation Pipeline	5872787	Scaffold	2016-08-03	MBRE01
+GCF_016632315.1	Oxynema sp. CENA135		CENA135				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6235022	Scaffold	2021-01-13	JAEOXH01
+GCA_016632315.1	Oxynema sp. CENA135		CENA135				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6235022	Scaffold	2021-01-13	JAEOXH01
+GCF_009939295.1	Petrachloros mirabilis ULC683		ULC683				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4122371	Scaffold	2020-01-28	WVIC01
+GCA_009939295.1	Petrachloros mirabilis ULC683		ULC683				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4122371	Scaffold	2020-01-28	WVIC01
+GCA_003242115.1	Phormidesmis priestleyi				ULC027bin1		NCBI Prokaryotic Genome Annotation Pipeline	4775561	Scaffold	2018-06-18	QBMP01
+GCA_003242125.1	Phormidesmis priestleyi				ULC007bin1		NCBI Prokaryotic Genome Annotation Pipeline	5250385	Scaffold	2018-06-18	QBMQ01
+GCA_001314865.1	Phormidesmis priestleyi Ana				Ana		Annotation submitted by Pacific Northwest National Laboratroy	5928357	Scaffold	2015-10-14	LJZR01
+GCF_001650195.1	Phormidesmis priestleyi BC1401		BC1401				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5551896	Scaffold	2016-05-23	LXYR01
+GCA_001650195.1	Phormidesmis priestleyi BC1401		BC1401					5551896	Scaffold	2016-05-23	LXYR01
+GCF_001895925.1	Phormidesmis priestleyi ULC007		ULC007				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5684389	Scaffold	2016-12-09	MPPI01
+GCA_001895925.1	Phormidesmis priestleyi ULC007		ULC007					5684389	Scaffold	2016-12-09	MPPI01
+GCA_012033015.1	Phormidesmis sp. RL_2_1				RL_2_1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5558634	Scaffold	2020-04-05	JAAUPS01
+GCF_001904725.1	Phormidium ambiguum IAM M-71		IAM M-71				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7410502	Scaffold	2016-12-14	MRCE01
+GCA_001904725.1	Phormidium ambiguum IAM M-71		IAM M-71				NCBI Prokaryotic Genome Annotation Pipeline	7410502	Scaffold	2016-12-14	MRCE01
+GCF_900149785.1	Phormidium lacuna HE10JO						NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4819017	Scaffold	2017-03-01	FSSI02
+GCA_900149785.2	Phormidium lacuna HE10JO							4819017	Scaffold	2017-03-01	FSSI02
+GCA_001314905.1	Phormidium sp. OSCR				OSCR		Annotation submitted by Pacific Northwest National Laboratroy	4694862	Scaffold	2015-10-14	LJZT01
+GCA_004299065.1	Phormidium sp. SL48-SHIP				SL48-SHIP		NCBI Prokaryotic Genome Annotation Pipeline	4384607	Scaffold	2019-02-25	SIHH01
+GCF_001904775.1	Phormidium tenue NIES-30		NIES-30				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5821893	Scaffold	2016-12-14	MRCG01
+GCA_001904775.1	Phormidium tenue NIES-30		NIES-30				NCBI Prokaryotic Genome Annotation Pipeline	5821893	Scaffold	2016-12-14	MRCG01
+GCF_001276715.1	Planktothricoides sp. SR001		SR001				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7066705	Scaffold	2015-08-31	LIUQ01
+GCA_001276715.1	Planktothricoides sp. SR001		SR001				NCBI Prokaryotic Genome Annotation Pipeline	7066705	Scaffold	2015-08-31	LIUQ01
+GCF_903969095.1	Planktothrix agardhii		PCC 10110				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5411976	Scaffold	2021-05-13	CAJCFV01
+GCA_903969095.1	Planktothrix agardhii		PCC 10110				Annotation submitted by INSTITUT PASTEUR PARIS	5411976	Scaffold	2021-05-13	CAJCFV01
+GCA_015708255.1	Planktothrix agardhii KL2				KL2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4765279	Scaffold	2020-12-01	JADQCT01
+GCA_024320855.1	Planktothrix agardhii LY1				LY1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4693391	Scaffold	2022-07-18	JANDEG01
+GCF_000464665.1	Planktothrix agardhii NIVA-CYA 15		NIVA-CYA 15				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5485894	Scaffold	2013-09-06	AVFS01
+GCA_000464665.1	Planktothrix agardhii NIVA-CYA 15		NIVA-CYA 15					5485894	Scaffold	2013-09-06	AVFS01
+GCF_000464725.1	Planktothrix agardhii NIVA-CYA 34		NIVA-CYA 34				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5516447	Scaffold	2013-09-06	AVFT01
+GCA_000464725.1	Planktothrix agardhii NIVA-CYA 34		NIVA-CYA 34					5516447	Scaffold	2013-09-06	AVFT01
+GCF_000464825.1	Planktothrix agardhii NIVA-CYA 56/3		NIVA-CYA 56/3				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5507780	Scaffold	2013-09-06	AVFY01
+GCA_000464825.1	Planktothrix agardhii NIVA-CYA 56/3		NIVA-CYA 56/3					5507780	Scaffold	2013-09-06	AVFY01
+GCF_000464745.1	Planktothrix mougeotii NIVA-CYA 405		NIVA-CYA 405				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5499124	Scaffold	2013-09-06	AVFU01
+GCA_000464745.1	Planktothrix mougeotii NIVA-CYA 405		NIVA-CYA 405					5499124	Scaffold	2013-09-06	AVFU01
+GCF_900009265.2	Planktothrix paucivesiculata PCC 9631				BBR_PRJEB10994		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6147941	Scaffold	2019-11-08	CZCS02
+GCA_900009265.2	Planktothrix paucivesiculata PCC 9631				BBR_PRJEB10994		Annotation submitted by Genoscope CEA	6147941	Scaffold	2019-11-08	CZCS02
+GCF_000464765.1	Planktothrix prolifica NIVA-CYA 406		NIVA-CYA 406				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5763321	Scaffold	2013-09-06	AVFV01
+GCA_000464765.1	Planktothrix prolifica NIVA-CYA 406		NIVA-CYA 406					5763321	Scaffold	2013-09-06	AVFV01
+GCF_000464805.1	Planktothrix prolifica NIVA-CYA 540		NIVA-CYA 540				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5574394	Scaffold	2013-09-06	AVFX01
+GCA_000464805.1	Planktothrix prolifica NIVA-CYA 540		NIVA-CYA 540					5574394	Scaffold	2013-09-06	AVFX01
+GCF_000464845.1	Planktothrix prolifica NIVA-CYA 98		NIVA-CYA 98				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5737366	Scaffold	2013-09-06	AVFZ01
+GCA_000464845.1	Planktothrix prolifica NIVA-CYA 98		NIVA-CYA 98					5737366	Scaffold	2013-09-06	AVFZ01
+GCF_000464785.1	Planktothrix rubescens NIVA-CYA 407		NIVA-CYA 407				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5509943	Scaffold	2013-09-06	AVFW01
+GCA_000464785.1	Planktothrix rubescens NIVA-CYA 407		NIVA-CYA 407					5509943	Scaffold	2013-09-06	AVFW01
+GCF_900010725.2	Planktothrix serta PCC 8927				BBR_PRJEB10992		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6274687	Scaffold	2019-11-08	CZCU02
+GCA_900010725.2	Planktothrix serta PCC 8927				BBR_PRJEB10992		Annotation submitted by Genoscope CEA	6274687	Scaffold	2019-11-08	CZCU02
+GCF_900009135.1	Planktothrix sp. PCC 11201				BBR_PRJEB10991		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5987819	Scaffold	2017-03-10	CZCT02
+GCA_900009135.2	Planktothrix sp. PCC 11201				BBR_PRJEB10991		Annotation submitted by Genoscope CEA	5987819	Scaffold	2017-03-10	CZCT02
+GCA_003505475.1	Planktothrix sp. UBA10369				UBA10369		NCBI Prokaryotic Genome Annotation Pipeline	4656063	Scaffold	2018-09-07	DNYD01
+GCA_003456035.1	Planktothrix sp. UBA8402				UBA8402		NCBI Prokaryotic Genome Annotation Pipeline	4001877	Scaffold	2018-09-05	DMPJ01
+GCA_003456115.1	Planktothrix sp. UBA8407				UBA8407		NCBI Prokaryotic Genome Annotation Pipeline	4646966	Scaffold	2018-09-05	DMPE01
+GCF_900009145.1	Planktothrix tepida PCC 9214				BBR_PRJEB10993		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6781855	Scaffold	2016-12-02	CZDF01
+GCA_900009145.1	Planktothrix tepida PCC 9214				BBR_PRJEB10993		Annotation submitted by Genoscope CEA	6781855	Scaffold	2016-12-02	CZDF01
+GCF_003003995.1	Pleurocapsa sp. CCALA 161		CCALA 161				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5365828	Scaffold	2018-03-15	PVWF01
+GCA_003003995.1	Pleurocapsa sp. CCALA 161		CCALA 161				NCBI Prokaryotic Genome Annotation Pipeline	5365828	Scaffold	2018-03-15	PVWF01
+GCF_000332195.1	Pleurocapsa sp. PCC 7319		PCC 7319				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7386997	Scaffold	2013-01-22	ALVL01
+GCA_000332195.1	Pleurocapsa sp. PCC 7319		PCC 7319					7386997	Scaffold	2013-01-22	ALVL01
+GCA_012030825.1	Pleurocapsa sp. SU_5_0				SU_5_0		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5166204	Scaffold	2020-04-05	JAAUVB01
+GCA_015207585.1	Pleurocapsales cyanobacterium LEGE 06147		LEGE 06147				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6229790	Scaffold	2020-11-02	JADEWQ01
+GCA_017644465.2	Prochlorococcus marinus CUG1430				CUG1430		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1682692	Scaffold	2022-08-19	JAEPLK02
+GCA_017644345.2	Prochlorococcus marinus CUG1436				CUG1436		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1654555	Scaffold	2022-08-05	JAEPLQ02
+GCA_017644295.2	Prochlorococcus marinus CUG1439				CUG1439		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1706046	Scaffold	2022-08-19	JAEPLT02
+GCF_017696275.1	Prochlorococcus marinus XMU1405		XMU1405				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1672276	Scaffold	2021-04-02	JAAORF01
+GCA_017696275.1	Prochlorococcus marinus XMU1405		XMU1405				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1672276	Scaffold	2021-04-02	JAAORF01
+GCF_017696085.1	Prochlorococcus marinus XMU1410		XMU1410				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1631014	Scaffold	2021-04-02	JAAORH01
+GCA_017696085.1	Prochlorococcus marinus XMU1410		XMU1410				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1631014	Scaffold	2021-04-02	JAAORH01
+GCF_017696315.1	Prochlorococcus marinus XMU1412		XMU1412				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1729635	Scaffold	2021-04-02	JAAORJ01
+GCA_017696315.1	Prochlorococcus marinus XMU1412		XMU1412				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1729635	Scaffold	2021-04-02	JAAORJ01
+GCA_017644685.2	Prochlorococcus marinus XMU1420				XMU1420		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1669750	Scaffold	2022-08-19	JAEPLA02
+GCA_017644645.1	Prochlorococcus marinus XMU1421				XMU1421		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1644071	Scaffold	2021-03-30	JAEPLB01
+GCA_017644615.2	Prochlorococcus marinus XMU1423				XMU1423		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1690911	Scaffold	2022-08-19	JAEPLD02
+GCA_017644545.2	Prochlorococcus marinus XMU1426				XMU1426		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1648518	Scaffold	2022-08-19	JAEPLG02
+GCA_017644495.2	Prochlorococcus marinus XMU1429				XMU1429		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1661340	Scaffold	2022-08-05	JAEPLJ02
+GCF_000158595.1	Prochlorococcus marinus str. MIT 9202		MIT 9202				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1691453	Scaffold	2009-01-26	ACDW01
+GCA_000158595.1	Prochlorococcus marinus str. MIT 9202		MIT 9202				Annotation submitted by The Gordon and Betty Moore Foundation Microbial Genome Sequencing project	1691453	Scaffold	2009-01-26	ACDW01
+GCA_022450945.1	Prochlorococcus sp. ALOHA_A2.0_50				ALOHA_A2.0_50		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1464535	Scaffold	2022-03-02	JAKUPD01
+GCA_022450905.1	Prochlorococcus sp. ALOHA_A2.0_51				ALOHA_A2.0_51		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1944786	Scaffold	2022-03-02	JAKUPE01
+GCF_002026005.1	Prochlorococcus sp. HOT208_60m_808M21		HOT208_60m_808M21				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1489925	Scaffold	2017-03-14	MWOX01
+GCA_002026005.1	Prochlorococcus sp. HOT208_60m_808M21		HOT208_60m_808M21					1489925	Scaffold	2017-03-14	MWOX01
+GCF_002026205.1	Prochlorococcus sp. HOT208_60m_810B23		HOT208_60m_810B23				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1577009	Scaffold	2017-03-14	MWOW01
+GCA_002026205.1	Prochlorococcus sp. HOT208_60m_810B23		HOT208_60m_810B23					1577009	Scaffold	2017-03-14	MWOW01
+GCF_002025905.1	Prochlorococcus sp. HOT208_60m_810P02		HOT208_60m_810P02				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1289997	Scaffold	2017-03-14	MWOV01
+GCA_002025905.1	Prochlorococcus sp. HOT208_60m_810P02		HOT208_60m_810P02					1289997	Scaffold	2017-03-14	MWOV01
+GCF_002025975.1	Prochlorococcus sp. HOT208_60m_813B04		HOT208_60m_813B04				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1210360	Scaffold	2017-03-14	MWOU01
+GCA_002025975.1	Prochlorococcus sp. HOT208_60m_813B04		HOT208_60m_813B04					1210360	Scaffold	2017-03-14	MWOU01
+GCF_002025945.1	Prochlorococcus sp. HOT208_60m_813O14		HOT208_60m_813O14				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1353740	Scaffold	2017-03-14	MWOO01
+GCA_002025945.1	Prochlorococcus sp. HOT208_60m_813O14		HOT208_60m_813O14					1353740	Scaffold	2017-03-14	MWOO01
+GCF_002026105.1	Prochlorococcus sp. HOT212_60m_824C06		HOT212_60m_824C06				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1021542	Scaffold	2017-03-14	MWPF01
+GCA_002026105.1	Prochlorococcus sp. HOT212_60m_824C06		HOT212_60m_824C06					1021542	Scaffold	2017-03-14	MWPF01
+GCF_002026185.1	Prochlorococcus sp. HOT212_60m_824E10		HOT212_60m_824E10				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1173340	Scaffold	2017-03-14	MWPE01
+GCA_002026185.1	Prochlorococcus sp. HOT212_60m_824E10		HOT212_60m_824E10					1173340	Scaffold	2017-03-14	MWPE01
+GCF_002026065.1	Prochlorococcus sp. HOT212_60m_826P21		HOT212_60m_826P21				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1263730	Scaffold	2017-03-14	MWPC01
+GCA_002026065.1	Prochlorococcus sp. HOT212_60m_826P21		HOT212_60m_826P21					1263730	Scaffold	2017-03-14	MWPC01
+GCF_000332315.1	Prochlorothrix hollandica PCC 9006 = CALU 1027		PCC 9006				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5646343	Scaffold	2013-01-22	ANKN01
+GCF_000341585.2	Prochlorothrix hollandica PCC 9006 = CALU 1027				CALU 1027			5525469	Scaffold	2015-04-29	AJTX02
+GCA_000332315.1	Prochlorothrix hollandica PCC 9006 = CALU 1027		PCC 9006					5646343	Scaffold	2013-01-22	ANKN01
+GCA_000341585.2	Prochlorothrix hollandica PCC 9006 = CALU 1027				CALU 1027		NCBI Prokaryotic Genome Annotation Pipeline	5525469	Scaffold	2015-04-29	AJTX02
+GCA_003242085.1	Pseudanabaena frigida				ULC066bin1		NCBI Prokaryotic Genome Annotation Pipeline	5386752	Scaffold	2018-06-18	QBML01
+GCA_003249015.1	Pseudanabaena sp.				ULC187bin1		NCBI Prokaryotic Genome Annotation Pipeline	4472112	Scaffold	2018-06-19	QBLS01
+GCA_003249035.1	Pseudanabaena sp.				ULC068bin1		NCBI Prokaryotic Genome Annotation Pipeline	4556816	Scaffold	2018-06-19	QBMK01
+GCA_003488605.1	Pseudanabaena sp.				UBA10436		NCBI Prokaryotic Genome Annotation Pipeline	3923844	Scaffold	2018-09-06	DNLA01
+GCF_000332175.1	Pseudanabaena sp. PCC 6802		PCC 6802				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5621883	Scaffold	2013-01-22	ALVK01
+GCA_000332175.1	Pseudanabaena sp. PCC 6802		PCC 6802					5621883	Scaffold	2013-01-22	ALVK01
+GCA_025055675.1	Pseudanabaenaceae cyanobacterium SKYG29				SKYG29		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2561926	Scaffold	2022-09-07	JANWWT01
+GCA_003447215.1	Richelia sp.				UBA11571		NCBI Prokaryotic Genome Annotation Pipeline	2236753	Scaffold	2018-09-04	DLZW01
+GCA_012032385.1	Richelia sp. RM1_1_1				RM1_1_1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9611769	Scaffold	2020-04-05	JAAUQH01
+GCA_012033295.1	Richelia sp. RM2_1_2				RM2_1_2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	10771835	Scaffold	2020-04-05	JAAURC01
+GCA_012033205.1	Richelia sp. SL_2_1				SL_2_1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7552247	Scaffold	2020-04-05	JAAUSO01
+GCA_012031715.1	Richelia sp. SM1_7_0				SM1_7_0		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8882331	Scaffold	2020-04-05	JAAUTV01
+GCA_012031665.1	Richelia sp. SM2_1_7				SM2_1_7		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6143886	Scaffold	2020-04-05	JAAUUF01
+GCF_019973055.1	Rivularia sp. IAM M-261		IAM M-261				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	11292443	Scaffold	2021-08-06	BPQA01
+GCA_019973055.1	Rivularia sp. IAM M-261		IAM M-261				Annotation submitted by Applied Chemistry and Life Science, Toyohashi University of Technology	11292443	Scaffold	2021-08-06	BPQA01
+GCF_000346485.2	Scytonema hofmannii PCC 7110		PCC 7110				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	12294410	Scaffold	2016-03-16	ANNX02
+GCA_000346485.2	Scytonema hofmannii PCC 7110		PCC 7110				NCBI Prokaryotic Genome Annotation Pipeline	12294410	Scaffold	2016-03-16	ANNX02
+GCF_001904675.1	Scytonema sp. HK-05		HK-05				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9564226	Scaffold	2016-12-14	MRCF01
+GCA_001904675.1	Scytonema sp. HK-05		HK-05				NCBI Prokaryotic Genome Annotation Pipeline	9564226	Scaffold	2016-12-14	MRCF01
+GCF_000828085.3	Scytonema tolypothrichoides VB-61278		VB-61278				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7893269	Scaffold	2019-10-25	JXCA02
+GCA_000828085.3	Scytonema tolypothrichoides VB-61278		VB-61278				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7893269	Scaffold	2019-10-25	JXCA02
+GCA_003241845.1	Shackletoniella antarctica				ULC041bin1		NCBI Prokaryotic Genome Annotation Pipeline	4711992	Scaffold	2018-06-18	QBMN01
+GCA_003249095.1	Snowella sp.				ULC335bin1		NCBI Prokaryotic Genome Annotation Pipeline	4608211	Scaffold	2018-06-19	QBMS01
+GCF_009846485.1	Sodalinema gerasimenkoae IPPAS B-353		IPPAS B-353				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4866307	Scaffold	2020-01-09	ATDS01
+GCA_009846485.1	Sodalinema gerasimenkoae IPPAS B-353		IPPAS B-353					4866307	Scaffold	2020-01-09	ATDS01
+GCF_001586785.1	Sphaerospermopsis aphanizomenoides BCCUSP55		BCCUSP55				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6096273	Scaffold	2021-01-10	LUFH02
+GCA_001586785.2	Sphaerospermopsis aphanizomenoides BCCUSP55		BCCUSP55				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6096273	Scaffold	2021-01-10	LUFH02
+GCA_010672785.1	Sphaerospermopsis sp. SIO1G1				SIO1G1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5187854	Scaffold	2020-02-16	JAAHFX01
+GCA_010672725.1	Sphaerospermopsis sp. SIO1G2				SIO1G2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5610197	Scaffold	2020-02-16	JAAHFY01
+GCF_001890765.1	Spirulina major PCC 6313		PCC 6313				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5050153	Scaffold	2016-12-07	ALVQ01
+GCA_001890765.1	Spirulina major PCC 6313		PCC 6313					5050153	Scaffold	2016-12-07	ALVQ01
+GCA_010672165.1	Spirulina sp. SIO3F2				SIO3F2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7298690	Scaffold	2020-02-16	JAAHHN01
+GCF_000314005.1	Spirulina subsalsa PCC 9445		PCC 9445				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5323600	Scaffold	2012-11-26	ALVR01
+GCA_000314005.1	Spirulina subsalsa PCC 9445		PCC 9445					5323600	Scaffold	2012-11-26	ALVR01
+GCA_012031265.1	Spirulinaceae cyanobacterium SM2_1_0				SM2_1_0		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5028328	Scaffold	2020-04-05	JAAUTY01
+GCF_003003795.1	Stenomitos frigidus ULC18		ULC18				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6984011	Scaffold	2018-03-15	PVWK01
+GCA_003003795.1	Stenomitos frigidus ULC18		ULC18				NCBI Prokaryotic Genome Annotation Pipeline	6984011	Scaffold	2018-03-15	PVWK01
+GCA_010672995.1	Symploca sp. SIO1A3				SIO1A3		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9244481	Scaffold	2020-02-16	JAAHFM01
+GCA_010672945.1	Symploca sp. SIO1B1				SIO1B1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	10325590	Scaffold	2020-02-16	JAAHFO01
+GCA_010672925.1	Symploca sp. SIO1C2				SIO1C2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8667638	Scaffold	2020-02-16	JAAHFP01
+GCA_010672885.1	Symploca sp. SIO1C4				SIO1C4		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7355195	Scaffold	2020-02-16	JAAHFQ01
+GCA_010672535.1	Symploca sp. SIO2B6				SIO2B6		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	10004434	Scaffold	2020-02-16	JAAHGI01
+GCA_010692635.1	Symploca sp. SIO2C1				SIO2C1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8166785	Scaffold	2020-02-16	JAAHGL01
+GCA_010672405.1	Symploca sp. SIO2D2				SIO2D2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9199556	Scaffold	2020-02-16	JAAHGQ01
+GCA_010672425.1	Symploca sp. SIO2E6				SIO2E6		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8963760	Scaffold	2020-02-16	JAAHGR01
+GCA_010692645.1	Symploca sp. SIO2E9				SIO2E9		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7745768	Scaffold	2020-02-16	JAAHGS01
+GCA_010692575.1	Symploca sp. SIO2G7				SIO2G7		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9241475	Scaffold	2020-02-16	JAAHGZ01
+GCA_010692425.1	Symploca sp. SIO3C6				SIO3C6		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7491140	Scaffold	2020-02-16	JAAHHJ01
+GCF_024178385.1	Symplocastrum sp. BBK-W-15		BBK-W-15				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6604967	Scaffold	2022-07-06	JAMZMM01
+GCA_024178385.1	Symplocastrum sp. BBK-W-15		BBK-W-15				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6604967	Scaffold	2022-07-06	JAMZMM01
+GCA_010024995.1	Synechococcaceae bacterium WB7_1C_051				WB7_1C_051		NCBI Prokaryotic Genome Annotation Pipeline	2228472	Scaffold	2020-01-31	RGFU01
+GCA_010027095.1	Synechococcaceae bacterium WB9_2_170				WB9_2_170		NCBI Prokaryotic Genome Annotation Pipeline	2246384	Scaffold	2020-01-31	RGVV01
+GCA_012033095.1	Synechococcaceae cyanobacterium RL_1_2				RL_1_2		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2878432	Scaffold	2020-04-05	JAAUPO01
+GCA_012030715.1	Synechococcaceae cyanobacterium SM2_3_1				SM2_3_1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4443940	Scaffold	2020-04-05	JAAUUJ01
+GCA_003508015.1	Synechococcales bacterium UBA10510				UBA10510		NCBI Prokaryotic Genome Annotation Pipeline	3022684	Scaffold	2018-09-07	DNUG01
+GCA_003540145.1	Synechococcales bacterium UBA12195				UBA12195		NCBI Prokaryotic Genome Annotation Pipeline	1506222	Scaffold	2018-09-10	DPNP01
+GCA_003509325.1	Synechococcales bacterium UBA8138				UBA8138		NCBI Prokaryotic Genome Annotation Pipeline	1594089	Scaffold	2018-09-07	DOMQ01
+GCA_003520085.1	Synechococcales bacterium UBA8647				UBA8647		NCBI Prokaryotic Genome Annotation Pipeline	1738119	Scaffold	2018-09-10	DOVM01
+GCA_012032745.1	Synechococcales cyanobacterium RM1_1_8				RM1_1_8		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4781764	Scaffold	2020-04-05	JAAUQQ01
+GCA_016463595.1	Synechococcales cyanobacterium SupBloom_Metag_052				SupBloom_Metag_052		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1962409	Scaffold	2021-01-03	JAEMQZ01
+GCF_003011125.1	Synechococcus lacustris str. Tous		Tous				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2668880	Scaffold	2018-03-19	PXVC01
+GCA_003011125.1	Synechococcus lacustris str. Tous		Tous				NCBI Prokaryotic Genome Annotation Pipeline	2668880	Scaffold	2018-03-19	PXVC01
+GCA_014381295.1	Synechococcus sp.				NIOZ-UU94		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1749939	Scaffold	2020-09-01	JACNLY01
+GCF_002760375.1	Synechococcus sp. 60AY4M2		60AY4M2				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3162818	Scaffold	2017-11-07	AUMZ01
+GCA_002760375.1	Synechococcus sp. 60AY4M2		60AY4M2				NCBI Prokaryotic Genome Annotation Pipeline	3162818	Scaffold	2017-11-07	AUMZ01
+GCF_002760395.1	Synechococcus sp. 63AY4M1		63AY4M1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3158777	Scaffold	2017-11-07	AUNA01
+GCA_002760395.1	Synechococcus sp. 63AY4M1		63AY4M1				NCBI Prokaryotic Genome Annotation Pipeline	3158777	Scaffold	2017-11-07	AUNA01
+GCF_002760475.1	Synechococcus sp. 63AY4M2		63AY4M2				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3093974	Scaffold	2017-11-07	AXUX01
+GCA_002760475.1	Synechococcus sp. 63AY4M2		63AY4M2				NCBI Prokaryotic Genome Annotation Pipeline	3093974	Scaffold	2017-11-07	AXUX01
+GCF_002760445.1	Synechococcus sp. 65AY640		65AY640				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3161008	Scaffold	2017-11-07	AXUV01
+GCA_002760445.1	Synechococcus sp. 65AY640		65AY640				NCBI Prokaryotic Genome Annotation Pipeline	3161008	Scaffold	2017-11-07	AXUV01
+GCF_002760415.1	Synechococcus sp. 65AY6A5		65AY6A5				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2981827	Scaffold	2017-11-07	AXUW01
+GCA_002760415.1	Synechococcus sp. 65AY6A5		65AY6A5				NCBI Prokaryotic Genome Annotation Pipeline	2981827	Scaffold	2017-11-07	AXUW01
+GCF_002760345.1	Synechococcus sp. 65AY6Li		65AY6Li				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2933219	Scaffold	2017-11-07	AXZO01
+GCA_002760345.1	Synechococcus sp. 65AY6Li		65AY6Li				NCBI Prokaryotic Genome Annotation Pipeline	2933219	Scaffold	2017-11-07	AXZO01
+GCF_002252665.1	Synechococcus sp. 8F6		8F6				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2510697	Scaffold	2017-08-15	NQKZ01
+GCA_002252665.1	Synechococcus sp. 8F6		8F6					2510697	Scaffold	2017-08-15	NQKZ01
+GCF_007828135.1	Synechococcus sp. Ace-Pa		Ace-Pa				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2762890	Scaffold	2019-08-02	VITZ01
+GCA_007828135.1	Synechococcus sp. Ace-Pa		Ace-Pa				Annotation submitted by DOE Joint Genome Institute	2762890	Scaffold	2019-08-02	VITZ01
+GCF_002721235.1	Synechococcus sp. BDU 130192		BDU 130192				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3257113	Scaffold	2017-10-25	PCGE01
+GCA_002721235.1	Synechococcus sp. BDU 130192		BDU 130192					3257113	Scaffold	2017-10-25	PCGE01
+GCF_000153805.1	Synechococcus sp. BL107		BL107				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2285034	Scaffold	2006-10-23	AATZ01
+GCA_000153805.1	Synechococcus sp. BL107		BL107				Annotation submitted by The Gordon and Betty Moore Foundation Marine Microbiology Initiative	2285034	Scaffold	2006-10-23	AATZ01
+GCF_000515235.1	Synechococcus sp. CC9616		CC9616				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2645910	Scaffold	2014-01-07	AZXL01
+GCA_000515235.1	Synechococcus sp. CC9616		CC9616					2645910	Scaffold	2014-01-07	AZXL01
+GCA_024958665.1	Synechococcus sp. FGCU-3				FGCU-3		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2595783	Scaffold	2022-09-05	JANWUQ01
+GCF_001632105.1	Synechococcus sp. MIT S9504		MIT S9504				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3087293	Scaffold	2016-04-25	LVHT01
+GCA_001632105.1	Synechococcus sp. MIT S9504		MIT S9504				Annotation submitted by MIT	3087293	Scaffold	2016-04-25	LVHT01
+GCF_001632165.1	Synechococcus sp. MIT S9508		MIT S9508				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2502434	Scaffold	2016-04-25	LVHU01
+GCA_001632165.1	Synechococcus sp. MIT S9508		MIT S9508				Annotation submitted by MIT	2502434	Scaffold	2016-04-25	LVHU01
+GCF_001631935.1	Synechococcus sp. MIT S9509		MIT S9509				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3087928	Scaffold	2016-04-25	LVHV01
+GCA_001631935.1	Synechococcus sp. MIT S9509		MIT S9509				Annotation submitted by MIT	3087928	Scaffold	2016-04-25	LVHV01
+GCF_021533835.1	Synechococcus sp. Nb3U1		Nb3U1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3487976	Scaffold	2022-01-20	JAKFYQ01
+GCA_021533835.1	Synechococcus sp. Nb3U1		Nb3U1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3487976	Scaffold	2022-01-20	JAKFYQ01
+GCF_000155595.1	Synechococcus sp. PCC 7335		PCC 7335				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5973558	Scaffold	2008-08-15	ABRV01
+GCA_000155595.1	Synechococcus sp. PCC 7335		PCC 7335				Annotation submitted by Gordon and Betty Moore Foundation Microbial Genome Sequencing Project	5973558	Scaffold	2008-08-15	ABRV01
+GCF_020514285.1	Synechococcus sp. PH41509		PH41509				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2161481	Scaffold	2021-10-15	VTLD01
+GCA_020514285.1	Synechococcus sp. PH41509		PH41509				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2161481	Scaffold	2021-10-15	VTLD01
+GCF_000153825.1	Synechococcus sp. RS9916		RS9916				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2664873	Scaffold	2006-10-23	AAUA01
+GCA_000153825.1	Synechococcus sp. RS9916		RS9916				Annotation submitted by The Gordon and Betty Moore Foundation Marine Microbiology Initiative	2664873	Scaffold	2006-10-23	AAUA01
+GCF_000153065.1	Synechococcus sp. RS9917		RS9917; RCC556				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2584918	Scaffold	2006-05-04	AANP01
+GCA_000153065.1	Synechococcus sp. RS9917		RS9917; RCC556				Annotation submitted by The Gordon and Betty Moore Foundation Marine Microbiology Initiative	2584918	Scaffold	2006-05-04	AANP01
+GCA_009840445.1	Synechococcus sp. SB0662_bin_14				SB0662_bin_14		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2164299	Scaffold	2020-01-09	VXNS01
+GCA_009839805.1	Synechococcus sp. SB0662_bin_45				SB0662_bin_45		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1548369	Scaffold	2020-01-09	VXPA01
+GCA_009839305.1	Synechococcus sp. SB0663_bin_10				SB0663_bin_10		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1608725	Scaffold	2020-01-09	VXQA01
+GCA_009838425.1	Synechococcus sp. SB0664_bin_36				SB0664_bin_36		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1314215	Scaffold	2020-01-09	VXRQ01
+GCA_009837735.1	Synechococcus sp. SB0665_bin_28				SB0665_bin_28		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1746472	Scaffold	2020-01-09	VXSZ01
+GCA_009837265.1	Synechococcus sp. SB0666_bin_14				SB0666_bin_14		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2033085	Scaffold	2020-01-09	VXTW01
+GCA_009836155.1	Synechococcus sp. SB0667_bin_8				SB0667_bin_8		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1820281	Scaffold	2020-01-09	VXWB01
+GCA_009836025.1	Synechococcus sp. SB0668_bin_13				SB0668_bin_13		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2161298	Scaffold	2020-01-09	VXWH01
+GCA_009835965.1	Synechococcus sp. SB0668_bin_15				SB0668_bin_15		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2049233	Scaffold	2020-01-09	VXWJ01
+GCA_009846095.1	Synechococcus sp. SB0669_bin_7				SB0669_bin_7		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2049761	Scaffold	2020-01-09	VXYH01
+GCA_009846115.1	Synechococcus sp. SB0669_bin_8				SB0669_bin_8		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1871053	Scaffold	2020-01-09	VXYI01
+GCA_009845825.1	Synechococcus sp. SB0670_bin_20				SB0670_bin_20		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1930695	Scaffold	2020-01-09	VXYW01
+GCA_009845105.1	Synechococcus sp. SB0672_bin_10				SB0672_bin_10		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1719077	Scaffold	2020-01-09	VYAE01
+GCA_009844725.1	Synechococcus sp. SB0672_bin_6				SB0672_bin_6		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1810019	Scaffold	2020-01-09	VYAY01
+GCA_009844645.1	Synechococcus sp. SB0673_bin_10				SB0673_bin_10		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1857244	Scaffold	2020-01-09	VYBD01
+GCA_009843485.1	Synechococcus sp. SB0675_bin_6				SB0675_bin_6		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2111169	Scaffold	2020-01-09	VYDJ01
+GCA_009843455.1	Synechococcus sp. SB0675_bin_7				SB0675_bin_7		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2236833	Scaffold	2020-01-09	VYDK01
+GCA_009843385.1	Synechococcus sp. SB0676_bin_10				SB0676_bin_10		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1864972	Scaffold	2020-01-09	VYDO01
+GCA_009842265.1	Synechococcus sp. SB0677_bin_5				SB0677_bin_5		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2204380	Scaffold	2020-01-09	VYFS01
+GCA_009842105.1	Synechococcus sp. SB0678_bin_12				SB0678_bin_12		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2008295	Scaffold	2020-01-09	VYGA01
+GCA_016462855.1	Synechococcus sp. SupBloom_Metag_053				SupBloom_Metag_053		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	1513266	Scaffold	2021-01-03	JAEMSK01
+GCA_003526105.1	Synechococcus sp. UBA8071				UBA8071		NCBI Prokaryotic Genome Annotation Pipeline	1261302	Scaffold	2018-09-10	DQAX01
+GCA_003523965.1	Synechococcus sp. UBA8638				UBA8638		NCBI Prokaryotic Genome Annotation Pipeline	1445197	Scaffold	2018-09-07	DOFR01
+GCA_003539795.1	Synechococcus sp. UBA9887				UBA9887		NCBI Prokaryotic Genome Annotation Pipeline	1906611	Scaffold	2018-09-10	DPOG01
+GCF_000153045.1	Synechococcus sp. WH 5701		WH 5701				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3280236	Scaffold	2006-05-04	AANO01
+GCA_000153045.1	Synechococcus sp. WH 5701		WH 5701				Annotation submitted by The Gordon and Betty Moore Foundation Marine Microbiology Initiative	3280236	Scaffold	2006-05-04	AANO01
+GCF_000153285.1	Synechococcus sp. WH 7805		WH 7805				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2627046	Scaffold	2006-05-04	AAOK01
+GCA_000153285.1	Synechococcus sp. WH 7805		WH 7805				Annotation submitted by The Gordon and Betty Moore Foundation Marine Microbiology Initiative	2627046	Scaffold	2006-05-04	AAOK01
+GCA_015207515.1	Synechocystis salina LEGE 06155		LEGE 06155				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4186811	Scaffold	2020-11-02	JADEWS01
+GCF_011392055.1	Synechocystis sp. PCC 6803		PCC 6803				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3915690	Scaffold	2020-03-17	JAABOT01
+GCA_011392055.1	Synechocystis sp. PCC 6803		PCC 6803				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3915690	Scaffold	2020-03-17	JAABOT01
+GCF_000332075.2	Synechocystis sp. PCC 7509		PCC 7509				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4908825	Scaffold	2014-02-06	ALVU02
+GCA_000332075.2	Synechocystis sp. PCC 7509		PCC 7509					4908825	Scaffold	2014-02-06	ALVU02
+GCF_022848905.1	Thermostichus vulcanus str. 'Rupite'		Rupite				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3717564	Scaffold	2022-04-08	JAFIRA01
+GCA_022848905.1	Thermostichus vulcanus str. 'Rupite'		Rupite				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3717564	Scaffold	2022-04-08	JAFIRA01
+GCA_022402525.1	Thermosynechococcaceae cyanobacterium MS004				MS004		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4931563	Scaffold	2022-02-27	JAKRSB01
+GCF_000760695.4	Tolypothrix bouteillei VB521301		VB521301				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9949079	Scaffold	2020-04-06	JHEG04
+GCA_000760695.4	Tolypothrix bouteillei VB521301		VB521301				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9949079	Scaffold	2020-04-06	JHEG04
+GCF_002218085.1	Tolypothrix sp. NIES-4075		NIES-4075				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8254440	Scaffold	2017-06-23	BDUC01
+GCA_002218085.1	Tolypothrix sp. NIES-4075		NIES-4075				Annotation submitted by Toyohashi University of Technology	8254440	Scaffold	2017-06-23	BDUC01
+GCF_000300115.1	Tolypothrix sp. PCC 7601		UTEX B 481				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	9975142	Scaffold	2012-09-28	AGCR01
+GCA_000300115.1	Tolypothrix sp. PCC 7601		UTEX B 481				Annotation submitted by The Genome Institute	9975142	Scaffold	2012-09-28	AGCR01
+GCF_018457135.1	Trichodesmium erythraeum GBRTRLIN201				GBRTRLIN201		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7221323	Scaffold	2021-05-24	JAGGDU01
+GCA_018457135.1	Trichodesmium erythraeum GBRTRLIN201				GBRTRLIN201		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7221323	Scaffold	2021-05-24	JAGGDU01
+GCA_022448615.1	Trichodesmium sp. ALOHA_ZT_67				ALOHA_ZT_67		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6926000	Scaffold	2022-03-02	JAKVCZ01
+GCA_023356555.1	Trichodesmium sp. MAG_R01				MAG_R01		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6640707	Scaffold	2022-05-12	JAKQYD01
+GCA_023356605.1	Trichodesmium sp. MAG_R02				MAG_R02		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6769329	Scaffold	2022-05-12	JAKQYE01
+GCA_023356535.1	Trichodesmium sp. MAG_R03				MAG_R03		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5840652	Scaffold	2022-05-12	JAKQYF01
+GCA_023356515.1	Trichodesmium sp. MAG_R04				MAG_R04		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4176259	Scaffold	2022-05-12	JAKQYG01
+GCF_001858025.1	Trichormus sp. NMC-1		NMC-1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5938148	Scaffold	2016-10-31	LZQD01
+GCA_001858025.1	Trichormus sp. NMC-1		NMC-1					5938148	Scaffold	2016-10-31	LZQD01
+GCF_014222145.1	Trichormus variabilis 9RC		9RC				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7080589	Scaffold	2020-08-17	JACKZT01
+GCA_014222145.1	Trichormus variabilis 9RC		9RC				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7080589	Scaffold	2020-08-17	JACKZT01
+GCF_014222135.1	Trichormus variabilis ARAD		ARAD				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7009083	Scaffold	2020-08-17	JACKZO01
+GCA_014222135.1	Trichormus variabilis ARAD		ARAD				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7009083	Scaffold	2020-08-17	JACKZO01
+GCF_014222245.1	Trichormus variabilis FSR		FSR				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6917910	Scaffold	2020-08-17	JACKZQ01
+GCA_014222245.1	Trichormus variabilis FSR		FSR				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6917910	Scaffold	2020-08-17	JACKZQ01
+GCF_014222155.1	Trichormus variabilis N2B		N2B				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7021454	Scaffold	2020-08-17	JACKZP01
+GCA_014222155.1	Trichormus variabilis N2B		N2B				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7021454	Scaffold	2020-08-17	JACKZP01
+GCF_014222225.1	Trichormus variabilis PNB		PNB				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6977537	Scaffold	2020-08-17	JACKZM01
+GCA_014222225.1	Trichormus variabilis PNB		PNB				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6977537	Scaffold	2020-08-17	JACKZM01
+GCF_003991935.1	Trichormus variabilis SAG 1403-4b		SAG 1403-4b				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6007308	Scaffold	2019-01-04	RSCM01
+GCA_003991935.1	Trichormus variabilis SAG 1403-4b		SAG 1403-4b				Annotation submitted by Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures	6007308	Scaffold	2019-01-04	RSCM01
+GCF_014222125.1	Trichormus variabilis V5		V5				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6924930	Scaffold	2020-08-17	JACKZL01
+GCA_014222125.1	Trichormus variabilis V5		V5				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6924930	Scaffold	2020-08-17	JACKZL01
+GCF_021648855.1	Tychonema sp. BBK16		BBK16				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5267730	Scaffold	2022-01-26	JAKJHX01
+GCA_021648855.1	Tychonema sp. BBK16		BBK16				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5267730	Scaffold	2022-01-26	JAKJHX01
+GCF_002252705.1	Vulcanococcus limneticus LL		LL				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	3548884	Scaffold	2017-08-15	NQLA01
+GCA_002252705.1	Vulcanococcus limneticus LL		LL					3548884	Scaffold	2017-08-15	NQLA01
+GCA_014654725.1	Vulcanococcus sp. Clear-D1				Clear-D1		NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	2960550	Scaffold	2020-09-18	JACVZV01
+GCF_020640915.1	Waterburya agarophytonicola KI4		KI4				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5107674	Scaffold	2021-10-26	JADWDC01
+GCA_020640915.1	Waterburya agarophytonicola KI4		KI4				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5107674	Scaffold	2021-10-26	JADWDC01
+GCF_004323185.1	Westiellopsis prolifica IICB1		IICB1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7313429	Scaffold	2019-03-04	NAPS01
+GCA_004323185.1	Westiellopsis prolifica IICB1		IICB1				NCBI Prokaryotic Genome Annotation Pipeline	7313429	Scaffold	2019-03-04	NAPS01
+GCF_000733415.1	[Leptolyngbya] sp. JSC-1		JSC-1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	7866824	Scaffold	2014-07-25	JMKF01
+GCA_000733415.1	[Leptolyngbya] sp. JSC-1		JSC-1					7866824	Scaffold	2014-07-25	JMKF01
+GCF_000582685.1	[Scytonema hofmanni] UTEX 2349		UTEX 2349				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	8133444	Scaffold	2014-02-27	ALWD01
+GCA_000582685.1	[Scytonema hofmanni] UTEX 2349		UTEX 2349					8133444	Scaffold	2014-02-27	ALWD01
+GCA_003030805.1	cyanobacterium G8-9		G8-9				NCBI Prokaryotic Genome Annotation Pipeline	380587	Scaffold	2018-04-02	PYVJ01
+GCF_000332255.1	cyanobacterium PCC 7702		PCC 7702				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	4903153	Scaffold	2013-01-22	ALWA01
+GCA_000332255.1	cyanobacterium PCC 7702		PCC 7702					4903153	Scaffold	2013-01-22	ALWA01
+GCF_000380225.1	filamentous cyanobacterium ESFC-1		ESFC-1				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5632035	Scaffold	2013-04-23	ARCP01
+GCA_000380225.1	filamentous cyanobacterium ESFC-1		ESFC-1					5632035	Scaffold	2013-04-23	ARCP01
+GCF_003003715.1	filamentous cyanobacterium Phorm 46		Phorm 46				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5590158	Scaffold	2018-03-15	PVWH01
+GCA_003003715.1	filamentous cyanobacterium Phorm 46		Phorm 46				NCBI Prokaryotic Genome Annotation Pipeline	5590158	Scaffold	2018-03-15	PVWH01
+GCF_003003725.1	filamentous cyanobacterium Phorm 6		Phorm 6				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	6644697	Scaffold	2018-03-15	PVWI01
+GCA_003003725.1	filamentous cyanobacterium Phorm 6		Phorm 6				NCBI Prokaryotic Genome Annotation Pipeline	6644697	Scaffold	2018-03-15	PVWI01
+GCA_902805485.1	uncultured Coleofasciculus sp.				AVDCRST_MAG92		Annotation submitted by UNIVERSITY OF VIENNA	4887314	Scaffold	2020-06-30	CADCTM01
+GCA_902805765.1	uncultured Microcoleus sp.				AVDCRST_MAG84		Annotation submitted by UNIVERSITY OF VIENNA	5900503	Scaffold	2020-06-30	CADCTZ01
+GCA_902806435.1	uncultured Synechococcales cyanobacterium				AVDCRST_MAG81		Annotation submitted by UNIVERSITY OF VIENNA	4792292	Scaffold	2020-06-30	CADCWO01
+GCF_002110465.1	unicellular cyanobacterium SU2		SU2				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5243303	Scaffold	2017-04-25	NEED01
+GCA_002110465.1	unicellular cyanobacterium SU2		SU2					5243303	Scaffold	2017-04-25	NEED01
+GCF_002172675.1	unicellular cyanobacterium SU3		SU3				NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	5603457	Scaffold	2017-06-05	NETF01
+GCA_002172675.1	unicellular cyanobacterium SU3		SU3					5603457	Scaffold	2017-06-05	NETF01

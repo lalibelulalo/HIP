@@ -1,0 +1,1 @@
+awk -F "\t" '{print $2"_"$4"\t"$1}' cyanobacteria_refseq_genbank.tsv
